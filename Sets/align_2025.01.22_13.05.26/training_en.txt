@@ -1,0 +1,189 @@
+As of March 28, 2020, a total of 571,678 confirmed COVID-19 cases and 26,494 deaths have been reported worldwide.
+U.S. older adults, including those aged ≥65 years and particularly those aged ≥85 years, also appear to be at higher risk for severe COVID-19–associated outcomes; however, data describing underlying health conditions among U.S. COVID-19 patients have not yet been reported."
+As of March 28, 2020, U.S. states and territories have reported 122,653 U.S. COVID-19 cases to CDC, including 7,162 (5.8%) for whom data on underlying health conditions and other known risk factors for severe outcomes from respiratory infections were reported.
+The most commonly reported conditions were diabetes mellitus, chronic lung disease, and cardiovascular disease.
+Data from laboratory-confirmed COVID-19 cases reported to CDC from 50 states, four U.S. territories and affiliated islands, the District of Columbia, and New York City with February 12–March 28, 2020 onset dates were analyzed.
+Cases among persons repatriated to the United States from Wuhan, China, and the Diamond Princess cruise ship were excluded.
+Data reported to CDC are preliminary and can be updated by health departments over time; critical data elements might be missing at the time of initial report; thus, this analysis is descriptive, and no statistical comparisons could be made.
+Percentages of hospitalizations with and without ICU admission were estimated for persons aged ≥19 years with and without underlying health conditions.
+This part of the analysis was limited to persons aged ≥19 years because of the small sample size of cases in children with reported underlying health conditions (N = 32).
+As of March 28, 2020, a total of 122,653 laboratory- confirmed COVID-19 cases (Figure) and 2,112 deaths were reported to CDC.
+Data on presence or absence of underlying health conditions and other recognized risk factors for severe outcomes from respiratory infections (i.e., smoking and pregnancy) were available for 7,162 (5.8%) patients (Table 1).
+Approximately one third of these patients (2,692, 37.6%), had at least one underlying condition or risk factor.
+In contrast, 1,388 of 5,143 (27%) COVID-19 patients who were not hospitalized were reported to have at least one underlying health condition.
+Small numbers of COVID-19 patients aged <19 years were reported to be hospitalized or admitted to an ICU (eight).
+In contrast, 335 patients aged <19 years were not hospitalized and 1,342 had missing data on hospitalization.
+These results are consistent with findings from China and Italy, which suggest that patients with underlying health conditions and risk factors, including, but not limited to, diabetes mellitus, hypertension, COPD, coronary artery disease, cerebrovascular disease, chronic renal disease, and smoking, might be at higher risk for severe disease or death from COVID-19.
+It is not yet known whether the severity or level of control of underlying health conditions affects the risk for severe disease associated with COVID-19.
+Many of these underlying health conditions are common in the United States: based on self-reported 2018 data, the prevalence of diagnosed diabetes among U.S. adults was 10.1%, and the U.S. age-adjusted prevalence of all types of heart disease (excluding hypertension without other heart disease) was 10.6% in 2017.
+The estimated higher prevalence of these conditions among those in this early group of U.S. COVID-19 patients and the potentially higher risk for more severe disease from COVID-19 associated with the presence of underlying conditions highlight the importance of COVID-19 prevention in persons with underlying conditions.
+First, these data are preliminary, and the analysis was limited by missing data related to the health department reporting burden associated with rapidly rising case counts and delays in completion of information requiring medical chart review; these findings might change as additional data become available.
+Information on underlying conditions was only available for 7,162 (5.8%) of 122,653 cases reported to CDC.
+Some outcomes might be underestimated, and long-term outcomes cannot be assessed in this analysis.
+Fourth, because of the descriptive nature of these data, attack rates among persons with and without underlying health conditions could not be compared, and thus the risk difference of severe disease with COVID-19 between these groups could not be estimated.
+Fifth, no conclusions could be drawn about underlying conditions that were not included in the case report form or about different conditions that were reported in a single, umbrella category.
+Persons in the United States with underlying health conditions appear to be at higher risk for more severe COVID-19, consistent with findings from other countries.
+These persons should take steps to protect themselves from COVID-19, through washing their hands; cleaning and disinfecting high-touch surfaces; and social distancing, including staying at home, avoiding crowds, gatherings, and travel, and avoiding contact with persons who are ill.
+Maintaining at least a 30-day supply of medication, a 2-week supply of food and other necessities, and knowledge of COVID-19 symptoms are recommended for those with underlying health conditions.
+This is especially important for those who work with persons with underlying conditions or who otherwise are at high risk for severe outcomes from COVID-19.
+What is already known about this topic?
+Published reports from China and Italy suggest that risk factors for severe COVID-19 disease include underlying health conditions, but data describing underlying health conditions among COVID-19 patients have not yet been reported.
+What are the implications for public health practice?
+The outbreak of Coronavirus disease 2019 (COVID-19), caused by severe acute respiratory syndrome (SARS) coronavirus 2 (SARS-CoV-2), has thus far killed over 3,000 people and infected over 80,000 in China and elsewhere in the world, resulting in catastrophe for humans.
+Similar to its homologous virus, SARS-CoV, which caused SARS in thousands of people in 2003, SARS-CoV-2 might also be transmitted from the bats and causes similar symptoms through a similar mechanism.
+We will cover the basics about the epidemiology, etiology, virology, diagnosis, treatment, prognosis, and prevention of the disease.
+The Spring Festival on January 25, 2020 has become an unprecedented and unforgettable memory to all Chinese who were urged to stay indoors for all the holiday and for many weeks after due to the outbreak of a novel viral disease.
+The virus is highly homologous to the coronavirus (CoV) that caused an outbreak of severe acute respiratory syndrome (SARS) in 2003; thus, it was named SARS-CoV-2 by the World Health Organization (WHO) on February 11, 2020, and the associated disease was named CoV Disease-19 (COVID-19).
+WHO warns that COVID-19 is “public enemy number 1” and potentially more powerful than terrorism.
+This review attempts to summarize the research progress in the new and swiftly developing subject area.
+Whenever possible, we will try to compare COVID-19 with SARS and another CoV-caused disease, Middle East respiratory syndrome (MERS, an outbreak in 2012).
+However, in this century, we have encountered highly pathogenic human CoVs twice, i.e., SARS-CoV and MERS-CoV, which caused an outbreak originally in China in 2003 and Saudi Arabia in 2012, respectively, and soon spread to many other countries with horrible morbidity and mortality.
+As shown in Fig. 1, clusters of pneumonia that had unknown origins were first reported from Wuhan on December 31, 2019 to the China National Health Commission.
+Seven days later the sequence of the CoV was released.
+On January 20, the infection of health-care providers was reported, suggesting that human-to-human transmission was possible.
+On January 24 the first clinical study on the disease reported that, out of 41 patients with confirmed cases, only 21 had direct contact with the Wuhan seafood market that was considered the starting site of the infection from an unknown animal source.
+On January 30, WHO declared the outbreak a global health emergency.
+On February 11, 2020, a multi-center study on 8,866 patients including 4,021 confirmed COVID-19 patients presented a more updated illustration of the epidemic as follows (https://mp.weixin.qq.com/s/ UlBi-HX_rHPXa1qHA2bhdA).
+Almost half (47.7%) of the infected individuals were over 50 years old, very few were under 20, and only 14 infected individuals were under the age of 10.
+SARS-CoV-2 infected more men (0.31/100,000) than women (0.27/100,000).
+The average incubation period was 4.8 (3.0-7.2) days.
+The basic reproductive number (R0) was 3.77 (95% CI: 3.51-4.05), and the adjusted R0 was 2.23-4.82.
+The number of infected people increased exponentially before 23 Jan.
+2020, matching the time of massive transportation before the Spring Festival in China.
+CoVs are a subfamily of large and enveloped viruses containing a single strand of sense RNA.
+The envelope spike (S) glycoprotein binds to its cellular receptors angiotensin-converting enzyme 2 (ACE2) and dipeptidyl peptidase 4 (DPP4) for SARS-CoV and MERS-CoV, respectively, and then membrane fusion occurs.
+The viral RNA genome is released into the cytoplasm; after replication of the viral genome, genomic RNA accompanied by envelope glycoproteins and nucleocapsid proteins forms virion-containing vesicles, which then fuse with the plasma membrane to release the virus.
+SARS-CoV-2 is genetically more similar to SARS-CoV than to MERS-CoV.
+Human ACE2 was found to be a receptor for SARS-CoV-2 as well as SARS-CoV.
+However, the S protein of SARS-CoV-2 binds to human ACE2 more weakly than that of SARS-CoV, which is coincident with the fact that SARS-CoV-2 causes less severe infection in patients than SARS-CoV.
+On February 18, 2020, Zhou, et al., reported the cryo-EM structure of the full-length human ACE2 at 2.9 Å resolution in complex with the amino acid transporter B0AT1.
+B0AT1 may become a therapeutic target for drug screening to suppress SARS-CoV-2 infection.
+The origin and immediate host
+However, what intermediate host helped the virus cross the species barrier to infect humans remains unknown, and the transmission route is yet to be elucidated.
+According to a study, researchers in Guangzhou, China, suggested that pangolins – long-snouted, ant-eating mammals often used in traditional Chinese medicine – are the potential intermediate host of SARS-CoV-2 based on 99% genetic homology in a CoV discovered in pangolins and SARS-CoV-2.
+However, 1% difference spread all over two genomes is still a big difference; thus, conclusive results for concrete evidence are awaited (Fig. 3).
+SARS-CoV-2 may possess similar properties.
+The entire human population generally lacks immunity to SARS-CoV-2 and hence is susceptible to the novel virus.
+Currently, no detailed study has been reported regarding the immunological response to SARS-CoV-2.
+Through different pathways, the virus induces the expression of inflammatory factors, maturation of dendritic cells, and synthesis of type I interferons (IFNs) which limit the spreading of the virus and accelerate macrophage phagocytosis of viral antigens.
+Soon, the adaptive immune response joins the fight against the virus.
+T lymphocytes including CD4+ and CD8+ T cells play an important role in the defense.
+However, CoV can inhibit T cell functions by inducing apoptosis of T cells.
+For example, antibodies isolated from a recovered patient neutralized MERS-CoV.
+On the other hand, an overreaction of the immune system generates a large number of free radicals locally that can cause severe damages to the lungs and other organs, and, in the worst scenario, multi-organ failure and even death.
+The estimated mean incubation period of SARS-CoV-2 is 1-14 days, mostly 3-7 days based on a study of the first 425 cases in Wuhan.
+A more recent study, as described above, demonstrates that the incubation period was 4.8 (3.0-7.2) days based on the demography of 8,866 cases.
+It is very important for health authorities to adjust the effective quarantine time based on the most accurate incubation period, thus preventing infected but symptomless people from transmitting the virus to others.
+Fever is often the major and initial symptom of COVID-19, which can be accompanied by no symptom or other symptoms such as dry cough, shortness of breath, muscle ache, dizziness, headache, sore throat, rhinorrhea, chest pain, diarrhea, nausea, and vomiting.
+In severe cases, patients quickly progressed to develop acute respiratory syndrome, septic shock, metabolic acidosis, and coagulopathy.
+Patients with fever and/or respiratory symptoms and acute fever, even without pulmonary imaging abnormalities, should be screened for the virus for early diagnosis.
+Comparably, a demographic study in 2012 showed that MERS-CoV patients also had fever (98%), dry cough (47%), and dyspnea (55%) as their main symptoms.
+Diarrhea (26%) and sore throat (21%) were also observed with MERS patients.
+In SARS patients, it has been demonstrated that fever (99%-100%), dry cough (29%-75%), dyspnea (40%-42%), diarrhea (20-25%), and sore throat (13-25%) were the major symptoms and ventilation support was required for approximately 14%-20% of the patients.
+For MERS, based on a demographic study in June 2012, the mortality was 37% of 2,494 confirmed cases.
+A comparison of SARS-CoV-2 with MERS-CoV and SARA-CoV regarding their symptoms, mortality, and R0 is presented in Table 1.
+The above figures suggest that SARS-CoV-2 has a higher ability to spread than MERS-CoV and SARS-CoV, but it is less lethal than the latter two.
+Patients often have a history of travel or residence in Wuhan or other affected areas or contact with infected individuals or patients in the recent two weeks before the onset.
+Patients have normal or reduced number of peripheral white blood cells (especially lymphocytes) at the early stage.
+For example, lymphopenia with white blood cell count < 4×109/L including lymphocyte count < 1×109/L, and elevated aspartate aminotransferase levels and viremia were found in 1,099 COVID-19 patients.
+Abnormalities in chest radiography are found in most COVID-19 patients and featured by bilateral patchy shadows or ground glass opacity in the lungs.
+When ARDS happens, uncontrolled inflammation, fluid accumulation, and progressive fibrosis severely compromise the gas exchange.
+Dysfunction of type-I and type-II pneumocytes decreases the surfactant level and increases surface tension, thus reducing the ability of the lungs to expand and heightening the risk of lung collapse.
+The detection of SARS-CoV-2 RNA via reverse-transcriptase polymerase chain reaction (RT-PCR) was used as the major criteria for the diagnosis of COVID-19.
+A similar situation also occurred with the diagnosis of SARS.
+Therefore, a combination of disease history, clinical manifestations, laboratory tests, and radiological findings is essential and imperative for making an effective diagnosis.
+Due to the lack of experience with the novel CoV, physicians can mainly provide supportive care to COVID-19 patients, while attempting a variety of therapies that have been used or proposed before for the treatment of other CoVs such as SARS-CoV and MERS-CoV and other viral diseases (Table 2).
+Even plasma from recovered patients was proposed to be used for treatment.
+Pharmaceutical companies are racing to develop antibodies and vaccines against the virus.
+Thus, respiratory support is critical to relieve the symptoms and save lives and includes general oxygen therapy, high-flow oxygen, noninvasive ventilation, and invasive mechanical ventilation depending on the severity of the disease.
+In addition, the maintenance of electrolyte balance, the prevention and treatment of secondary infection and septic shock, and the protection of the functions of the vital organs are also essential for SARS-CoV-2 patients.
+It has been known that a cytokine storm results from an overreaction of the immune system in SARS and MERS patients.
+Immunosuppression is essential in the treatment of cytokine storms, especially in severe patients.
+Other immunosuppression treatments for cytokine storm include the modulation of T cell-directed immune response; the blockade of IFN-γ, IL-1, and TNF; JAK inhibition ; blinatumomab ; suppressor of cytokine signaling 4 ; and HDAC inhibitors.
+Steroids, as immunosuppressants, were widely used in the treatment of SARS to reduce the severity of inflammatory damage.
+Nevertheless, short courses of corticosteroids at low-to-moderate doses have been recommended to be used prudently for critically ill COVID-19 patients.
+However, intravenous administration with remdesivir, a nucleotide analog, has been found to be efficacious in an American patient with COVID-19.
+Remdesivir is a novel antiviral drug developed by Gilead initially for the treatment of diseases caused by Ebola and Marlburg viruses.
+In addition, baricitinb, interferon-α, lopinavir/ritonavir, and ribavirin have been suggested as potential therapies for patients with acute respiratory symptoms.
+The interaction of these treatments with other drugs used in the patients should be monitored carefully.
+Plasma from recovered patients and antibody generation
+Antibodies are an immunoglobulin (Ig) produced by B lymphocytes to fight pathogens and other foreign objects and they recognize unique molecules in the pathogens and neutralize them directly.
+Their symptoms improved within 24 hours, accompanied by reduced inflammation and viral loads and improved oxygen saturation in the blood.
+However, verification and clarification are necessary to propose the method for large-scale use before specific therapies are not yet developed.
+The concentration of antibodies in the blood is usually low, and the demand for the plasma is large to treat critically ill patients.
+Thus, it is more critical and practical to isolate B cells from recovered patients and identify the genetic codes encoding effective antibodies or screen for effective antibodies against essential proteins of the virus.
+This way, we can readily scale up the production of the antibodies.
+Most of the effective components remain unknown or are vague as it is difficult to extract and verify such components or their optimal combinations.
+For example, Shu Feng Jie Du capsules and Lian Hua Qing Wen capsules were found to be effective for COVID-19 treatment.
+Top cure rates in the treatment of COVID-19 patients were observed in several provinces in China that used TCM in 87% of their patients, including Gansu (63.7%), Ningxia (50%), and Hunan (50%), whereas Hubei province, which used TCM in only approximately 30% of its COVID-19 patients, had the lowest cure rate (13%).
+They found that the times needed for body temperature recovery, symptom disappearance, and hospitalization were remarkably shorter in the WM+TCM group than in the WM only group.
+Nevertheless, the efficacy and safety of TCM still await more well-controlled trials at larger scales and in more centers.
+It would also be intriguing to characterize the mechanism of actions and clarify the effective components of TCM treatments or their combinations if possible.
+In the early phase of the SARS outbreak, a range of psychiatric morbidities including persistent depression, anxiety, panic attacks, psychomotor excitement, psychotic symptoms, delirium, and even suicidality were reported.
+Thus, mental health care should be provided to COVID-19 patients, suspected individuals, and people in contact with them as well as the general public who are in need.
+The psychological support should include the establishment of multidisciplinary mental health teams, clear communications with regular and accurate updates about the SARS-CoV-2 outbreak and treatment plans and the use of professional electronic devices and applications to avoid close contact with each other.
+Live-attenuated vaccines have been evaluated in animal models for SARS.
+This is probably because SARS died down 17 years ago and no new case has been reported since.
+In contrast, sporadic cases and clusters of MERS continue to occur in the Middle East and spread to other regions owing to the persistence of zoonotic sources in endemic areas.
+However, it is challenging to overcome the difficulty because of the long period of time (averaged 18 months) needed for vaccine development and the dynamic variations of CoVs.
+In most cases, patients can recover gradually without sequelae.
+However, similar to SARS and MERS, COVID-19 is also associated with high morbidity and mortality in patients with severe cases.
+Age: Age was the most important factor for the prognosis of SARS , which is also true for COVID-19.
+Patients who required intensive care were more likely to have underlying comorbidities and complications and were significantly older than those who did not (at the median age of 66 versus 51) , suggesting age as a prognostic factor for the outcome of COVID-19 patients.
+Sex: SARS-CoV-2 has infected more men than women (0.31/100,000 versus 0.27/100,000), as described above.
+It has been reported that SARS-CoV-2 can also bind to ACE2-positive cholangiocytes, which might lead to liver dysfunctions in COVID-19 patients.
+Abnormal laboratory findings: The C-reactive protein (CRP) level in blood reflects the severity of inflammation or tissue injury and has been proposed to be a potential prognostic factor for disease, response to therapy, and ultimate recovery.
+The correlation of CRP level to the severity and prognosis of COVID-19 has also been proposed.
+Thus, they are traditional markers for heart or liver dysfunctions.
+Use of steroids: As described above, steroids are immunosuppressant commonly used as an adjunctive therapy for infectious diseases to reduce the severity of inflammatory damage.
+Since a high dosage of corticosteroids was widely used in severe SARS patients, many survivors suffered from avascular osteonecrosis with life-long disability and poor life quality.
+It is imperative to provide psychological counseling and long-term support to help these patients recover from the stress and return to normal life.
+In addition to replicating in the lower respiratory tract, SARS-CoV-2 can efficiently replicate in the upper respiratory tract and causes mild or no symptoms in the early phase of infection, similar to other CoVs that cause common colds.
+Therefore, infected patients at the early phase or incubation period can produce a large amount of virus during daily activities, causing great difficulty for the control of the epidemic.
+Great efforts are currently underway in China including the lockdown of Wuhan and surrounding cities and continuous quarantine of almost the entire population in hopes of interrupting the transmission of SARS-CoV-2.
+The most optimistic estimate is that the outbreak will end by March and the downswing phase will last for 3-4 months.
+However, some other experts are not that optimistic.
+A Canadian group reported that SARS-CoV-2 was detected in both mid-turbinate and throat swabs of patients who recovered and left the hospital 2 weeks earlier , which indicates that the newly identified virus could become a cyclical episode similar to influenza.
+Ebola was originally predicted to cause up to a million cases with half a million deaths.
+However, via strict quarantine and isolation, the disease has eventually been put under control.
+SARS-CoV-2 is highly transmittable through coughing or sneezing, and possibly also through direct contact with materials contaminated by the virus.
+A recent study on 138 cases reported that 41% of the cases were possibly caused by nosocomial infections, including 17 patients with other prior diseases and 40 health-care providers.
+Thus, great precaution should be used to protect humans, especially health-care providers, social workers, family members, colleagues, and even bystanders in contact with patients or infected people.
+The first line of defense that could be used to lower the risk of infection is through wearing face masks; both the use of surgical masks and N95 respirator masks (series # 1860s) helps control the spread of viruses.
+Surgical face masks prevent liquid droplets from a potentially infected individual from traveling through the air or sticking onto surfaces of materials, where they could be passed on to others.
+However, only N95 (series # 1860s) masks can protect against the inhalation of virions as small as 10 to 80 nm, with only 5% of the virions being able to penetrate completely; SARS-CoV-2 is similar to SARS-CoV in size and both are approximately 85 nm.
+Since particles can penetrate even five surgical masks stacked together, health-care providers in direct contact with patients must wear N95 (series # 1860s) masks but not surgical masks.
+In addition to masks, health-care providers should wear fitted isolation gowns in order to further reduce contact with viruses.
+Viruses can also infect an individual through the eyes.
+On January 22, 2020, a doctor was infected with SARS-CoV-2 although he wore an N95 mask; the virus might have entered his body through his inflammatory eyes.
+Thus, health-care providers should also wear transparent face shields or goggles while working with patients.
+For the general public in affected or potentially affected areas, it is highly suggested that everybody wash their hands with disinfectant soaps more often than usual, try to stay indoors for self-quarantine and limit contact with potentially infected individuals.
+Three feet is considered an appropriate distance for people to stay away from a patient.
+These actions are effective methods to lower the risk of infection as well as prevent the spread of the virus.
+Although SARS-CoV-2 came as a new virus to the human world, its high homology to SARS-CoV as reported on 7 January 2020 should have caused high alert to China based on her deep memory of the SARS outbreak in 2003.
+However, not until 19 January 2020 did the director of the Center of Disease Control of Wuhan comfort the citizens by saying that the novel virus has low contagiousness and limited reproductivity from human to human and that it is not a problem to prevent and contain the disease.
+This message remarkably relaxed the alarm of the public, especially when the entire country was preparing for the Spring Festival, and the critical time was missed to contain the disease at its minimal scale in Wuhan.
+The disease control agencies in China may take this hard lesson and make critical improvements in the future.
+The outbreak of COVID-19 caused by the novel virus SARS-CoV-2 started in the end of December 2019.
+In less than two months, it has spread all over China and near 50 other countries globally at the time of this writing.
+Since the virus is very similar to SARS-CoV and the symptoms are also similar between COVID-19 and SARS, the outbreak of COVID-19 has created a sense of SARS recurring.
+However, there are some remarkable differences between COVID-19 and SARS, which are essential for containing the epidemic and treating the patients.
+COVID-19 affects more elderly individuals than youth and more men than women, and the severity and death rate are also higher in elderly individual than in youth.
+SARS has higher mortality than COVID-19 (10.91% versus 1.44%).
+COVID-19 patients transmit the virus even when they are symptomless whereas SARS patients do so usually when they are severely ill, which causes much greater difficulty to contain the spread of COVID-19 than SARS.
+This partially explains why SARS-CoV-2 spread much faster and broader than SARS-CoV.
+The regular RNA assay for SARS-CoV-2 can be negative in some COVID-19 patients.
+On the other hand, cured patients can be positive for the virus again.
+These findings dramatically increase the risk of virus spreading.
+Given such rapid progress in research on COVID-19, several critical issues remain to be solved, as follows:
+Where did SARS-CoV-2 come from?
+Although 96% genetic homolog was found between SARS-CoV-2 and two bat SARS-like CoVs, we still cannot conclude that SARS-CoV-2 is from bats.
+What animal was the intermediate species to transmit the virus from the original host, say bats, to humans?
+Without knowing answers to #1 and 2, we cannot efficiently cut the transmission, and the outbreak can relapse at any time.
+Although molecular modeling and biochemical assays have demonstrated that SARS-CoV-2 binds to ACE2, how exactly does the virus enter the airway cells and cause subsequent pathological changes?
+Does the virus also bind ACE2-expressing cells in other organs?
+Without clear answers to these questions, we cannot achieve fast and accurate diagnosis and effective treatment.
+How is the virus genetically evolving during transmission among humans?
+Will it become a pandemic worldwide, die down like SARS or relapse periodically like the flu?
+It is essential but may take some time to search for answers to the above and many other questions.
+However, with whatever expense it may demand, we have no other choice but to stop the epidemic as soon as possible and bring our life back to normal.

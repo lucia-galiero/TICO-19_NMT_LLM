@@ -1,0 +1,50 @@
+﻿On March 11, 2020, the World Health Organization declared Coronavirus Disease 2019 (COVID-19) a pandemic.
+The percentage of COVID-19 patients with at least one underlying health condition or risk factor was higher among those requiring intensive care unit (ICU) admission (358 of 457, 78%) and those requiring hospitalization without ICU admission (732 of 1,037, 71%) than that among those who were not hospitalized (1,388 of 5,143, 27%).
+Public health departments reported cases to CDC using a standardized case report form that captures information (yes, no, or unknown) on the following conditions and potential risk factors: chronic lung disease (inclusive of asthma, chronic obstructive pulmonary disease , and emphysema); diabetes mellitus; cardiovascular disease; chronic renal disease; chronic liver disease; immunocompromised condition; neurologic disorder, neurodevelopmental, or intellectual disability; pregnancy; current smoking status; former smoking status; or other chronic disease.
+Because of small sample size and missing data on underlying health conditions among COVID-19 patients who died, case-fatality rates for persons with and without underlying conditions were not estimated.
+Among 457 ICU admissions and 1,037 non-ICU hospitalizations, 358 (78%) and 732 (71%), respectively occurred among persons with one or more reported underlying health condition.
+Among 122,653 U.S. COVID-19 cases reported to CDC as of March 28, 2020, 7,162 (5.8%) patients had data available pertaining to underlying health conditions or potential risk factors; among these patients, higher percentages of patients with underlying conditions were admitted to the hospital and to an ICU than patients without reported underlying conditions.
+CDC continues to develop and update resources for persons with underlyinghealth conditions to reduce the risk of acquiring COVID-19.
+Second, these data are subject to bias in outcome ascertainment because of short follow-up time.
+Finally, for some underlying health conditions and risk factors, including neurologic disorders, chronic liver disease, being a current smoker, and pregnancy, few severe outcomes were reported; therefore, conclusions cannot be drawn about the risk for severe COVID-19 among persons in these groups.
+All persons who are ill should stay home, except to get medical care; should not go to work; and should stay away from others.
+Based on preliminary U.S. data, persons with underlying health conditions such as diabetes mellitus, chronic lung disease, and cardiovascular disease, appear to be at higher risk for severe COVID-19–associated disease than persons without these conditions.
+In response to the rapidly increasing number of publications on the emerging disease, this article attempts to provide a timely and comprehensive review of the swiftly developing research subject.
+As of March 2, 2020, the virus has resulted in over 80,000 confirmed cases of COVID-19, with more than 40,000 patients discharged and over 3,000 patients who died.
+CoVs have been traditionally considered nonlethal pathogens to humans, mainly causing approximately 15% of common colds.
+Meanwhile, the epidemic rapidly spread to the neighboring cities, provinces, and countries.
+As the situation is rapidly evolving, the final scope and severity of the outbreak remain to be determined.
+COVID-19 took an average of 5 (2-9) days from onset to diagnosis.
+Three major risk factors for COVID-19 were sex (male), age (≥60), and severe pneumonia.
+SARS-CoV-2 was found to be a new type of beta-CoV with more than 99.98% genetic identity among 10 sequenced samples collected from the original site of the outbreak, the Huanan Seafood Market in Wuhan.
+The orf3b of SARS-CoV-2 may play a role in the viral pathogenicity and inhibit the expression of IFNβ; however, orf8 does not contain any known functional domain or motif.
+Through a phylogenetic comparison of SARS-CoV-2 with other CoVs, bats were considered the native host of SARS-CoV-2 as the new virus is 96% identical to two SARS-like CoVs from bats called bat-SL-CoVZX45 and bat-SL-CoVZX21.
+SARS-CoV and MERS-CoV can survive in vitro for 48 hours in a dry environment and up to 5 days under 20 °C and 40%-50% humidity.
+In general, after a virus invades the host, it is first recognized by the host innate immune system through pattern recognition receptors (PRRs) including C-type lectin-like receptors, Toll-like receptor (TLR), NOD-like receptor (NLR), and RIG-I-like receptor (RLR).
+T helper cells produce proinflammatory cytokines to help the defending cells.
+It is common that for people who are exposed to a large number of viruses or whose immune functions are compromised, they have higher chance to be infected than others.
+Should the quarantine time be extended to 24 days?
+Similar findings were reported in two recent studies of a family cluster and a cluster caused by transmission from an asymptomatic individual.
+Comparably, the mortality of SARS by November 2002 was 10% of 8,096 confirmed cases.
+Clustered onset often happens in the same family or from the same gathering or vehicle such as a cruise ship.
+In patients with severe cases, the level of D-dimer, a fibrin degradation product present in the blood, was elevated, and lymphocyte count was progressively reduced.
+On February 18, 2020, the first pathological analysis of COVID-19 demonstrated the desquamation of pneumocytes, hyaline membrane formation, and interstitial lymphocyte infiltration, and multinucleated syncytial cells in the lungs of a patient who died of the disease, consistent with the pathology of viral infection and ARDS  and similar to that of SARS and MERS patients.
+Hopefully, the new technique can dramatically enhance the sensitivity and convenience if verified in clinical samples.
+Nevertheless, respiratory dysfunction and failure are the major threat to the patients and the major cause of death.
+These cytokines induce immune cells to release a vast number of free radicals which are the major cause of ARDS and multiple organ failure.
+Instead, they may cause severe side effects, especially avascular osteonecrosis, dramatically affecting the prognosis.
+Based on these, Gilead has provided the compound to China to conduct a pair of trials on SARS-CoV-2- infected individuals , and the results are highly anticipated.
+Indeed, recovered patients often have a relatively high level of antibodies against the pathogen in their blood.
+For example, antibodies can overstimulate the immune response and cause cytokine release syndrome, which is potentially a life-threatening toxicity.
+However, its effects largely rely on a combination of multiple components in a formula that varies depending on the diagnosis of a disease based on the theories of TCM.
+On February 18, 2020, Boli Zhang and coworkers published a study to compare western medicine (WM) treatment alone with combined treatment of WM and TCM.
+Furthermore, symptoms of the infection such as fever, hypoxia, and cough as well as adverse effects of the treatments such as insomnia caused by corticosteroids can lead to more anxiety and mental distress.
+Efforts have been made to develop S protein-based vaccines to generate long-term and potent neutralizing antibodies and/or protective immunity against SARS-CoV.
+The development of a safe and effective vaccine against SARS-CoV-2 for non-immune individuals is an urgent and critical task for controlling the ongoing epidemic.
+Based on clinical studies reported thus far, the following factors may affect or be associated with the prognosis of COVID-19 patients (Table 3):
+Cardiac events were also the main reason for death in SARS patients.
+These enzymes are expressed extensively in multiple organs, especially in the heart and liver, and are released during tissue damage.
+Mental stress: As described above, during the COVID-19 outbreak many patients have suffered from extraordinary stress as they often endured long periods of quarantine and extreme uncertainty and witnessed the death of close family members and fellow patients.
+Thus, the current outbreak of COVID-19 is much more severe and difficult to control than the outbreak of SARS.
+Ira Longini, et al., established a model to predict the outcome of the epidemic and suggested that SARS-CoV-2 could infect two-thirds of the global population.
+A comparison of the epidemic of COVID-19 with that of SARS and MERS is provided below (Fig. 5).

@@ -1,0 +1,100 @@
+﻿Preliminary Estimates of the Prevalence of Selected Underlying Health Conditions Among Patients with Coronavirus Disease 2019 — United States, February 12–March 28, 2020
+Reports from China and Italy suggest that risk factors for severe disease include older age and the presence of at least one of several underlying health conditions.
+Among these 7,162 cases, 2,692 (37.6%) patients had one or more underlying health condition or risk factor, and 4,470 (62.4%) had none of these conditions reported.
+These preliminary findings suggest that in the United States, persons with underlying health conditions or other recognized risk factors for severe outcomes from respiratory infections appear to be at a higher risk for severe disease from COVID-19 than are persons without these conditions.
+For cases with missing onset dates, date of onset was estimated by subtracting 4 days (median interval from symptom onset to specimen collection date among cases with known dates in these data) from the earliest specimen collection.
+The percentages of patients of all ages with underlying health conditions who were not hospitalized, hospitalized without ICU admission, and hospitalized with ICU admission were calculated.
+To account for missing data among these preliminary reports, ranges were estimated with a lower bound including cases with both known and unknown status for hospitalization with and without ICU admission as the denominator and an upper bound using only cases with known outcome status as the denominator.
+Case report forms were submitted to CDC for 74,439 (60.7%) cases.
+Diabetes mellitus (784, 10.9%), chronic lung disease (656, 9.2%), and cardiovascular disease (647, 9.0%) were the most frequently reported conditions among all cases.
+Among patients aged ≥19 years, the percentage of non-ICU hospitalizations was higher among those with underlying health conditions (27.3%–29.8%) than among those without underlying health conditions (7.2%–7.8%); the percentage of cases that resulted in an ICU admission was also higher for those with underlying health conditions (13.3%–14.5%) than those without these conditions (2.2%–2.4%) (Table 2).
+Among all COVID-19 patients with complete information on underlying conditions or risk factors, 184 deaths occurred (all among patients aged ≥19 years); 173 deaths (94%) were reported among patients with at least one underlying condition.
+This analysis was limited by small numbers and missing data because of the burden placed on reporting health departments with rapidly rising case counts, and these findings might change as additional data become available.
+The age- adjusted prevalence of COPD among U.S. adults is 5.9%, and in 2018, the U.S. estimated prevalence of current asthma among persons of all ages was 7.9%.
+The findings in this report are subject to at least six limitations.
+It cannot be assumed that those with missing information are similar to those with data on either hospitalizations or underlying health conditions.
+Third, because of the limited availability of testing in many jurisdictions during this period, this analysis is likely biased toward more severe cases, and findings might change as testing becomes more widespread.
+For example, asthma and COPD were included in a chronic lung disease category.
+Persons with underlying health conditions who have symptoms of COVID-19, including fever, cough, or shortness of breath, should immediately contact their health care provider.
+All persons should take steps to protect themselves from COVID-19 and to protect others.
+Community mitigation strategies, which aim to slow the spread of COVID-19, are important to protect all persons from COVID-19, especially persons with underlying health conditions and other persons at risk for severe COVID-19–associated disease (https://www.cdc.gov/ coronavirus/2019-ncov/downloads/community-mitigation- strategy.pdf).
+What is added by this report?
+Strategies to protect all persons and especially those with underlying health conditions, including social distancing and handwashing, should be implemented by all communities and all persons to help slow the spread of COVID-19.
+However, COVID-19 has lower severity and mortality than SARS but is much more transmissive and affects more elderly individuals than youth and more men than women.
+Although many questions still require answers, we hope that this review helps in the understanding and eradication of the threatening disease.
+The epidemic started in Wuhan, China, and quickly spread throughout the entire country and to near 50 others all over the world.
+According to PubMed (https://www.ncbi.nlm.nih.gov/pubmed/), in less than two months, over 200 papers have been published on COVID-19 including its virology, epidemiology, etiology, diagnosis, and treatment since the first report on January 7, 2020 that determined the sequence of the virus isolated from multiple patients.
+We will also discuss what we have learned so far regarding the prevention and prognosis of the disease as well as some remaining yet urgent questions.
+Therefore, the current COVID-19 is the third CoV outbreak in the recorded history of humans.
+On January 15, 2020 the first fatal case from Wuhan was reported.
+On January 23, the city of Wuhan was locked down with all its public transportation stopped.
+By the time of this report, the disease has already spread throughout China and near 50 other countries all over the world (Fig. 2).
+SARS-CoV-2 infected people of all ages, but mainly at the age of 30-65.
+COVID-19 expanded in clusters mainly in and around Hubei.
+The average time from onset to death was 9.5 (4.8-13) days.
+The mortality of patients with confirmed cases was 1.44% (95% CI: 1.10-1.86%), and the adjusted mortality of all the patients was 3.06% (95% CI: 2.02-4.59%).
+They can be divided into four genera, i.e., alpha, beta, gamma, and delta, of which alpha- and beta-CoVs are known to infect humans.
+The first genomic sequence of SARS-CoV-2 was reported on January 10, 2020.
+Through transmission electron microscopy, SARS-CoV-2 particles were found in ultrathin sections of human airway epithelium.
+SARS-CoV-2 can also form a novel short protein encoded by orf3b and a secreted protein encoded by orf8.
+They found that the complex, which had open and closed conformations, was assembled as a dimer and the ACE2-B0AT1 complex can bind two S proteins, which provides evidence for CoV recognition and infection.
+It has been known that both SARS-CoV and MERS-CoV originated from bats and were transmitted to humans via civet cats and camels, respectively.
+Ji, et al., proposed snakes as a carrier of the virus from bats to humans which involved homologous recombination within the S protein.
+The physicochemical properties of SARS-CoV-2 are largely not yet known.
+It has been reported that SARS-CoV-2 is sensitive to ultraviolet rays and heat at 56 °C for 30 minutes; ether, 75% ethanol, chlorine-containing disinfectant, peracetic acid, chloroform, and other fatty solvents, but not chlorhexidine, can effectively inactivate the virus.
+Thus, we can only refer to previous studies on other CoVs, especially SARS-CoV and MERS-CoV (Fig. 4).
+However, the N protein of SARS-CoV can help the virus escape from the immune responses.
+CD4+ T cells stimulate B cells to produce virus-specific antibodies, and CD8+ T cells directly kill virus-infected cells.
+The humoral immunity including complements such as C3a and C5a and antibodies is also essential in combating the viral infection.
+The SARS-CoV-2 infection, featured by clustering onset, is more likely to affect elderly people with comorbidities and pregnant women.
+However, a study on 1,099 cases demonstrates that the incubation period was 3 days on average and ranged from 0 to 24 days.
+As a common practice, individuals exposed to, or infected by, the virus are usually required to be quarantined for 14 days.
+Some patients experienced dyspnea and/or hypoxemia one week after the onset of the disease.
+A demographic study in late December of 2019 showed that the percentages of the symptoms were 98% for fever, 76% for dry cough, 55% for dyspnea, and 3% for diarrhea; 8% of the patients required ventilation support.
+However, 80% of them required ventilation support, much more than COVID-19 patients and consistent with the higher lethality of MERS than of COVID-19.
+By February 14, the mortality of COVID-19 was 2% when the confirmed cases reached 66,576 globally.
+An earlier study reported that the R0 of SARS-CoV-2 was as high as 6.47 with a 95% confidence interval (CI) of 5.71-7.23 , whereas the R0 of SARS-CoV only ranged from 2 to 4.
+Thus, it is much more challenging to control the epidemic of SARS-CoV-2 than those of MERS-CoV and SARS-CoV.
+However, it has been reported that people can carry the virus without symptoms longer than two weeks and cured patients discharged from hospitals can carry the virus again , which sends out an alarm to increase the time for quarantine.
+The levels of liver and muscle enzymes and myoglobin were increased in the blood of some patients, and C-reactive protein and erythrocyte sedimentation were increased in the blood of most patients.
+Patients often develop an atypical pneumonia, acute lung injury, and acute respiratory distress syndrome (ARDS).
+Therefore, the worst chest radiographic findings often parallel the most severe extent of the disease.
+However, due to the high false-negative rate, which may accelerate the epidemic, clinical manifestations started to be used for diagnosis (which no longer solely relied on RT-PCR) in China on February 13, 2020.
+On February 14, 2020, the Feng Zhang group described a protocol of using the CRISPR-based SHERLOCK technique to detect SARS-CoV-2, which detects synthetic SARS-CoV-2 RNA fragments at 20 × 10-18 mol/L to 200 × 10-18 mol/L (10-100 copies per microliter of input) using a dipstick in less than an hour without requiring elaborate instrumentation.
+These therapies include current and potential treatments with antiviral drugs, immunosuppressants, steroids, plasma from recovered patients, Chinese medicine, and psychological support.
+SARS-CoV-2 mainly attacks the lungs in the beginning and probably also attacks, to a lesser degree, other organs that express ACE2, such as the gastrointestinal system and the kidneys.
+Patients with severe respiratory symptoms have to be supported by extracorporeal membrane oxygenation (ECMO), a modified cardiopulmonary bypass technique used for the treatment of life-threatening cardiac or respiratory failure.
+Cytokine storm is a form of systemic inflammatory response featured by the release of a series of cytokines including TNFα, IL-1β, IL-2, IL-6, IFNα, IFNβ, IFNγ, and MCP-1.
+Corticosteroids and tocilizumab, an anti-IL6 monoclonal antibody, have been used to treat cytokine storm.
+However, steroids at high dosages were not beneficial to severe lung injury in SARS and COVID-19 patients.
+At the time of writing, no effective antiviral therapy has been confirmed.
+Later, remdesivir also demonstrated possible inhibition of other single stranded RNA viruses including MERS and SARS viruses.
+Diarrhea, nausea, vomiting, liver damage, and other adverse reactions can occur following combined therapy with lopinavir/ritonavir.
+The collection of the blood from patients who recovered from a contagious disease to treat other patients suffering from the same disease or to protect healthy individuals from catching the disease has a long history.
+Based on this, plasma was collected from the blood of a group of patients who recovered from COVID-19 and was injected into 10 seriously ill patients.
+In addition, given the therapeutic effects, some disadvantages associated with the plasma should be considered carefully.
+It is difficult to develop and produce specific antibodies rapidly enough to fight against a global epidemic.
+TCM has been used to treat a variety of diseases in China for thousands of years.
+Currently, due to the lack of effective and specific therapy for COVID-19, TCM has become one of the major alternative treatments for patients with light to moderate symptoms or for those who have recovered from severe stages.
+However, this is quite a rough comparison as many other impact factors such as the number and severity of the patients should be included in the evaluation.
+Most impressively, the rate for symptomatic worsening (from light to severe) was remarkably lower for the WM+TCM group than for the WM only group (7.4% versus 46.2%) and the mortality was lower in the WM+TCM group than WM only group (8.8% versus 39%).
+Patients with suspected or confirmed COVID-19 mostly experience great fear of the highly contagious and even fatal disease, and quarantined people also experience boredom, loneliness, and anger.
+Mandatory contact tracing and quarantine, as a part of the public health responses to the COVID-19 outbreak, can make people more anxious and guilty about the effects of the contagion, quarantine, and stigma on their families and friends.
+Effective vaccines are essential for interrupting the chain of transmission from animal reservoirs and infected humans to susceptible hosts and are often complementary to antiviral treatment in the control of epidemics caused by emerging viruses.
+However, the in vivo efficacy of these vaccine candidates in elderly individuals and lethal-challenge models and their protection against zoonotic virus infection have yet to be determined before a clinical study is initiated.
+Vaccination strategies have been developed for MERS by using inactivated virus, DNA plasmids, viral vectors, nanoparticles, virus-like particles and recombinant protein subunits and some have been evaluated in animal models.
+As a novel disease, COVID-19 has just started to manifest its full clinical course throughout thousands of patients.
+Therefore, building a prognosis model for the disease is essential for health-care agencies to prioritize their services, especially in resource-constrained areas.
+COVID-19 mainly happened at the age of 30-65 with 47.7% of those patients being over 50 in a study of 8,866 cases as described above.
+Comorbidities and complications: Patients with COVID-19 who require intensive care are more likely to suffer from acute cardiac injury and arrhythmia.
+It is worth noting that age and underlying disease are strongly correlated and might interfere with each other.
+In addition, elevated lactate dehydrogenase (LDH), aspartate aminotransferase (AST), alanine aminotransferase (ALT), and creatine kinase (CK) may also help predict the outcome.
+Major clinical symptoms: Chest radiography and temporal progression of clinical symptoms should be considered together with the other issues for the prediction of outcomes and complications of COVID-19.
+Thus, if needed, steroids should be used at low dosage and for a short time in COVID-19 patients.
+According to demographic studies so far, COVID-19 seems to have different epidemiological features from SARS.
+However, the transmission of SARS-CoV was considered to occur when the patients are severely ill, while most transmission did not happen at the early phase.
+Although these actions have been dramatically damaging the economy and other sectors of the country, the number of new patients is declining, indicating the slowdown of the epidemic.
+Paul Hunter, et al., estimated that COVID-19, which seems substantially more infectious than SARS, will not end in 2020.
+However, promising signs have occurred in China based on the declining number of new cases, indicating the current strategies might have been working.
+It is possible, similar to SARS-CoV, that SARS-CoV-2 might become weaker in infectivity and eventually die down or become a less pathogenic virus co-existent with humans.
+The virus was also found in feces, which raises a new possibility of feces-to-mouth transmission.
