@@ -1,0 +1,800 @@
+
+English: Among 122,653 U.S. COVID-19 cases reported to CDC as of March 28, 2020, 7,162 (5.8%) patients had data available pertaining to underlying health conditions or potential risk factors; among these patients, higher percentages of patients with underlying conditions were admitted to the hospital and to an ICU than patients without reported underlying conditions.
+Italian: Sui 122.653 casi di COVID-19 negli Stati Uniti segnalati ai CDC al 28 marzo 2020, 7.162 (5,8%) pazienti avevano dati disponibili relativi a patologie pregresse o potenziali fattori di rischio; tra questi pazienti, una percentuale più alta di quelli affetti da patologie pregresse è stata ammessa in ospedale e in una UTI rispetto ai pazienti privi di patologie pregresse segnalate.
+English: On March 11, 2020, the World Health Organization declared Coronavirus Disease 2019 (COVID-19) a pandemic.
+Italian: L’11 marzo 2020 l’Organizzazione Mondiale della Sanità ha dichiarato la malattia da Coronavirus 2019 (COVID-19) una pandemia.
+English: Preliminary Estimates of the Prevalence of Selected Underlying Health Conditions Among Patients with Coronavirus Disease 2019 — United States, February 12–March 28, 2020
+MT: Stime Preliminari della Prevalenza di Alcune Condizioni di Salute Sottostanti Selezionate tra i Pazienti con Malattia del Coronavirus 2019 — Stati Uniti, 12 febbraio-28 marzo 2020
+Italian:
+
+English: Published reports from China and Italy suggest that risk factors for severe COVID-19 disease include underlying health conditions, but data describing underlying health conditions among COVID-19 patients have not yet been reported.
+Italian: I report pubblicati in Cina e in Italia suggeriscono che i fattori di rischio per malattia grave da COVID-19 comprendono condizioni pregresse, ma non sono stati ancora riportati dati sulle patologie pregresse tra i pazienti COVID-19 negli Stati Uniti.
+English: U.S. older adults, including those aged ≥65 years and particularly those aged ≥85 years, also appear to be at higher risk for severe COVID-19–associated outcomes; however, data describing underlying health conditions among U.S. COVID-19 patients have not yet been reported."
+Italian: Anche gli adulti anziani statunitensi, inclusi quelli di età ≥65 anni e in particolare quelli di età ≥85 anni sembrano essere a maggior rischio di complicanze gravi associate al COVID-19; tuttavia, non sono ancora stati riportati dati che descrivano le patologie pregresse nei pazienti COVID-19 negli Stati Uniti.
+English: Reports from China and Italy suggest that risk factors for severe disease include older age and the presence of at least one of several underlying health conditions.
+MT: Rapporti provenienti dalla Cina e dall'Italia suggeriscono che i fattori di rischio per la malattia grave includono l'età avanzata e la presenza di almeno una delle seguenti condizioni di salute sottostanti.
+Italian:
+
+English: Approximately one third of these patients (2,692, 37.6%), had at least one underlying condition or risk factor.
+Italian: Circa un terzo di questi pazienti (1.692, 37,6%), era affetto almeno da una patologia pregressa o un fattore di rischio.
+English: Information on underlying conditions was only available for 7,162 (5.8%) of 122,653 cases reported to CDC.
+Italian: Le informazioni sulle patologie pregresse erano disponibili solo per 7.162 (5,8%) dei 122.653 casi segnalati ai CDC.
+English: Among these 7,162 cases, 2,692 (37.6%) patients had one or more underlying health condition or risk factor, and 4,470 (62.4%) had none of these conditions reported.
+MT: Tra questi 7.162 casi, 2.692 (37,6%) pazienti avevano una o più condizioni di salute sottostanti o fattori di rischio, e 4.470 (62,4%) non avevano nessuna di queste condizioni riportate.
+Italian:
+
+English: As of March 28, 2020, U.S. states and territories have reported 122,653 U.S. COVID-19 cases to CDC, including 7,162 (5.8%) for whom data on underlying health conditions and other known risk factors for severe outcomes from respiratory infections were reported.
+Italian: Al 28 marzo 2020, gli stati federati e i territori degli Stati Uniti hanno segnalato ai CDC 122.653 casi di COVID-19 negli Stati Uniti, compresi 7.162 (5,8%) per i quali erano riportati i dati su patologie pregresse e altri fattori di rischio noti per complicanze gravi da infezioni respiratorie.
+English: Persons in the United States with underlying health conditions appear to be at higher risk for more severe COVID-19, consistent with findings from other countries.
+Italian: Le persone negli Stati Uniti affette da patologie pregresse risultano essere a maggior rischio di forme più gravi di COVID-19, il che è conforme ai risultati provenienti da altri Paesi.
+English: These preliminary findings suggest that in the United States, persons with underlying health conditions or other recognized risk factors for severe outcomes from respiratory infections appear to be at a higher risk for severe disease from COVID-19 than are persons without these conditions.
+MT: Questi risultati preliminari suggeriscono che negli Stati Uniti, le persone con condizioni di salute sottostanti o altri fattori di rischio riconosciuti per esiti gravi a seguito di infezioni respiratorie sembrano essere ad un maggior rischio per una malattia grave da COVID-19 rispetto alle persone senza queste condizioni.
+Italian:
+
+English: A more recent study, as described above, demonstrates that the incubation period was 4.8 (3.0-7.2) days based on the demography of 8,866 cases.
+Italian: Uno studio più recente, come descritto in precedenza, dimostra che il periodo di incubazione era di 4,8 (3,0-7,2) giorni in base alla demografia di 8,866 casi.
+English: Data reported to CDC are preliminary and can be updated by health departments over time; critical data elements might be missing at the time of initial report; thus, this analysis is descriptive, and no statistical comparisons could be made.
+Italian: I dati riportati ai CDC sono preliminari e possono essere aggiornati nel tempo dai dipartimenti sanitari; alcuni dati essenziali potrebbero essere assenti al momento della stesura del report iniziale; pertanto, questa analisi è descrittiva, e non è stato possibile effettuare comparazioni statistiche.
+English: For cases with missing onset dates, date of onset was estimated by subtracting 4 days (median interval from symptom onset to specimen collection date among cases with known dates in these data) from the earliest specimen collection.
+MT: Per i casi con date di insorgenza mancanti, la data di insorgenza è stata stimata sottraendo 4 giorni (intervallo mediano dall'insorgenza dei sintomi alla data di raccolta del campione tra i casi con date note in questi dati) dalla data di raccolta del campione più precoce.
+Italian:
+
+English: Percentages of hospitalizations with and without ICU admission were estimated for persons aged ≥19 years with and without underlying health conditions.
+Italian: Sono state stimate le percentuali delle ospedalizzazioni con e senza ricovero in UTI per le persone di età ≥19 anni con e senza patologie pregresse.
+English: Among 457 ICU admissions and 1,037 non-ICU hospitalizations, 358 (78%) and 732 (71%), respectively occurred among persons with one or more reported underlying health condition.
+Italian: Delle 457 ammissioni in UTI e delle 1.037 ospedalizzazioni non UTI, rispettivamente 358 (78%) e 732 (71%) hanno riguardato soggetti con una o più patologie pregresse segnalate.
+English: The percentages of patients of all ages with underlying health conditions who were not hospitalized, hospitalized without ICU admission, and hospitalized with ICU admission were calculated.
+MT: Le percentuali di pazienti di tutte le età con condizioni di salute sottostanti che non sono stati ricoverati, ricoverati senza ammissione in terapia intensiva e ricoverati con ammissione in terapia intensiva sono state calcolate.
+Italian:
+
+English: Percentages of hospitalizations with and without ICU admission were estimated for persons aged ≥19 years with and without underlying health conditions.
+Italian: Sono state stimate le percentuali delle ospedalizzazioni con e senza ricovero in UTI per le persone di età ≥19 anni con e senza patologie pregresse.
+English: In contrast, 335 patients aged <19 years were not hospitalized and 1,342 had missing data on hospitalization.
+Italian: Per contro, 335 pazienti di età < 19 anni non sono stati ospedalizzati e 1.342 non avevano dati sull’ospedalizzazione.
+English: To account for missing data among these preliminary reports, ranges were estimated with a lower bound including cases with both known and unknown status for hospitalization with and without ICU admission as the denominator and an upper bound using only cases with known outcome status as the denominator.
+MT: Per tenere conto dei dati mancanti in questi rapporti preliminari, sono state stimate le fasce con un limite inferiore che comprende i casi con status noto e ignoto per il ricovero con e senza ammissione in terapia intensiva come denominatore e un limite superiore che utilizza solo i casi con stato di esito noto come denominatore.
+Italian:
+
+English: Information on underlying conditions was only available for 7,162 (5.8%) of 122,653 cases reported to CDC.
+Italian: Le informazioni sulle patologie pregresse erano disponibili solo per 7.162 (5,8%) dei 122.653 casi segnalati ai CDC.
+English: Public health departments reported cases to CDC using a standardized case report form that captures information (yes, no, or unknown) on the following conditions and potential risk factors: chronic lung disease (inclusive of asthma, chronic obstructive pulmonary disease , and emphysema); diabetes mellitus; cardiovascular disease; chronic renal disease; chronic liver disease; immunocompromised condition; neurologic disorder, neurodevelopmental, or intellectual disability; pregnancy; current smoking status; former smoking status; or other chronic disease.
+Italian: I dipartimenti sanitari pubblici hanno segnalato i casi ai CDC utilizzando un modulo di segnalazione standardizzato che rilevasse l’informazione (sì, no, o sconosciuto) sulle seguenti patologie e sui potenziali fattori di rischio: malattie polmonari croniche (includenti asma, broncopneumopatia cronica ostruttiva  ed enfisema); diabete mellito, malattie cardiovascolari, malattie renali croniche, malattie epatiche croniche, condizione di immunodeficienza, disturbi neurologici, disturbi del neurosviluppo o disabilità intellettive; gravidanza, stato di fumatore attuale, stato di ex-fumatore e altre patologie croniche.
+English: Case report forms were submitted to CDC for 74,439 (60.7%) cases.
+MT: I moduli di referto dei casi sono stati inviati al CDC per 74.439 (60,7%) casi.
+Italian:
+
+English: The most commonly reported conditions were diabetes mellitus, chronic lung disease, and cardiovascular disease.
+Italian: Le patologie segnalate più comunemente erano diabete mellito, malattie polmonari croniche e malattie cardiovascolari.
+English: Based on preliminary U.S. data, persons with underlying health conditions such as diabetes mellitus, chronic lung disease, and cardiovascular disease, appear to be at higher risk for severe COVID-19–associated disease than persons without these conditions.
+Italian: Sulla base di dati preliminari provenienti dagli Stati Uniti, le persone affette da patologie pregresse quali diabete mellito, malattie polmonari croniche e malattie cardiovascolari presentano un rischio più alto di una malattia grave associata al COVID-19 rispetto a persone non affette da queste patologie.
+English: Diabetes mellitus (784, 10.9%), chronic lung disease (656, 9.2%), and cardiovascular disease (647, 9.0%) were the most frequently reported conditions among all cases.
+MT: Il diabete mellito (784, 10,9%), la malattia polmonare cronica (656, 9,2%) e le malattie cardiovascolari (647, 9,0%) sono state le condizioni più frequentemente segnalate tra tutti i casi.
+Italian:
+
+English: Percentages of hospitalizations with and without ICU admission were estimated for persons aged ≥19 years with and without underlying health conditions.
+Italian: Sono state stimate le percentuali delle ospedalizzazioni con e senza ricovero in UTI per le persone di età ≥19 anni con e senza patologie pregresse.
+English: Among 457 ICU admissions and 1,037 non-ICU hospitalizations, 358 (78%) and 732 (71%), respectively occurred among persons with one or more reported underlying health condition.
+Italian: Delle 457 ammissioni in UTI e delle 1.037 ospedalizzazioni non UTI, rispettivamente 358 (78%) e 732 (71%) hanno riguardato soggetti con una o più patologie pregresse segnalate.
+English: Among patients aged ≥19 years, the percentage of non-ICU hospitalizations was higher among those with underlying health conditions (27.3%–29.8%) than among those without underlying health conditions (7.2%–7.8%); the percentage of cases that resulted in an ICU admission was also higher for those with underlying health conditions (13.3%–14.5%) than those without these conditions (2.2%–2.4%) (Table 2).
+MT: Tra i pazienti di età ≥19 anni, la percentuale di ricoveri non in terapia intensiva è stata più alta tra coloro che avevano condizioni di salute sottostanti (27,3%–29,8%) che tra coloro che non avevano condizioni di salute sottostanti (7,2%–7,8%); la percentuale di casi che hanno portato ad un'ammissione in terapia intensiva è stata anche più alta per coloro che avevano condizioni di salute sottostanti (13,3%–14,5%) che per coloro che non avevano queste condizioni (2,2%–2,4%) (Tabella 2).
+Italian:
+
+English: Among 122,653 U.S. COVID-19 cases reported to CDC as of March 28, 2020, 7,162 (5.8%) patients had data available pertaining to underlying health conditions or potential risk factors; among these patients, higher percentages of patients with underlying conditions were admitted to the hospital and to an ICU than patients without reported underlying conditions.
+Italian: Sui 122.653 casi di COVID-19 negli Stati Uniti segnalati ai CDC al 28 marzo 2020, 7.162 (5,8%) pazienti avevano dati disponibili relativi a patologie pregresse o potenziali fattori di rischio; tra questi pazienti, una percentuale più alta di quelli affetti da patologie pregresse è stata ammessa in ospedale e in una UTI rispetto ai pazienti privi di patologie pregresse segnalate.
+English: In contrast, 1,388 of 5,143 (27%) COVID-19 patients who were not hospitalized were reported to have at least one underlying health condition.
+Italian: Al contrario, è stato riscontrato che 1.388 su 5.143 (27%) pazienti COVID-19 non ospedalizzati avessero almeno una patologia pregressa.
+English: Among all COVID-19 patients with complete information on underlying conditions or risk factors, 184 deaths occurred (all among patients aged ≥19 years); 173 deaths (94%) were reported among patients with at least one underlying condition.
+MT: Tra tutti i pazienti con COVID-19 con informazioni complete sulle condizioni sottostanti o sui fattori di rischio, si sono verificati 184 decessi (tutti tra pazienti di età ≥19 anni); 173 decessi (94%) sono stati segnalati tra pazienti con almeno una condizione sottostante.
+Italian:
+
+English: First, these data are preliminary, and the analysis was limited by missing data related to the health department reporting burden associated with rapidly rising case counts and delays in completion of information requiring medical chart review; these findings might change as additional data become available.
+Italian: In primo luogo, questi dati sono preliminari, e l’analisi è stata limitata dalla mancanza di dati dovuta all’onere di segnalazione dei dipartimenti sanitari associato al rapido aumento del conteggio dei casi e ai ritardi nel completamento delle informazioni richiedenti la revisione delle cartelle cliniche; tali risultati potrebbero cambiare quando saranno disponibili ulteriori dati.
+English: Data reported to CDC are preliminary and can be updated by health departments over time; critical data elements might be missing at the time of initial report; thus, this analysis is descriptive, and no statistical comparisons could be made.
+Italian: I dati riportati ai CDC sono preliminari e possono essere aggiornati nel tempo dai dipartimenti sanitari; alcuni dati essenziali potrebbero essere assenti al momento della stesura del report iniziale; pertanto, questa analisi è descrittiva, e non è stato possibile effettuare comparazioni statistiche.
+English: This analysis was limited by small numbers and missing data because of the burden placed on reporting health departments with rapidly rising case counts, and these findings might change as additional data become available.
+MT: Questa analisi è stata limitata da numeri piccoli e dati mancanti a causa del carico aggiuntivo posto sui dipartimenti sanitari che riferiscono, con numeri di casi in rapida ascesa, e queste scoperte potrebbero cambiare quando ulteriori dati diventeranno disponibili.
+Italian:
+
+English: Public health departments reported cases to CDC using a standardized case report form that captures information (yes, no, or unknown) on the following conditions and potential risk factors: chronic lung disease (inclusive of asthma, chronic obstructive pulmonary disease , and emphysema); diabetes mellitus; cardiovascular disease; chronic renal disease; chronic liver disease; immunocompromised condition; neurologic disorder, neurodevelopmental, or intellectual disability; pregnancy; current smoking status; former smoking status; or other chronic disease.
+Italian: I dipartimenti sanitari pubblici hanno segnalato i casi ai CDC utilizzando un modulo di segnalazione standardizzato che rilevasse l’informazione (sì, no, o sconosciuto) sulle seguenti patologie e sui potenziali fattori di rischio: malattie polmonari croniche (includenti asma, broncopneumopatia cronica ostruttiva  ed enfisema); diabete mellito, malattie cardiovascolari, malattie renali croniche, malattie epatiche croniche, condizione di immunodeficienza, disturbi neurologici, disturbi del neurosviluppo o disabilità intellettive; gravidanza, stato di fumatore attuale, stato di ex-fumatore e altre patologie croniche.
+English: As of March 28, 2020, U.S. states and territories have reported 122,653 U.S. COVID-19 cases to CDC, including 7,162 (5.8%) for whom data on underlying health conditions and other known risk factors for severe outcomes from respiratory infections were reported.
+Italian: Al 28 marzo 2020, gli stati federati e i territori degli Stati Uniti hanno segnalato ai CDC 122.653 casi di COVID-19 negli Stati Uniti, compresi 7.162 (5,8%) per i quali erano riportati i dati su patologie pregresse e altri fattori di rischio noti per complicanze gravi da infezioni respiratorie.
+English: The age- adjusted prevalence of COPD among U.S. adults is 5.9%, and in 2018, the U.S. estimated prevalence of current asthma among persons of all ages was 7.9%.
+MT: La prevalenza rettificata per età della BPCO tra gli adulti statunitensi è del 5,9% e nel 2018 è stata stimata la prevalenza di asma attuale negli Stati Uniti tra le persone di tutte le età del 7,9%.
+Italian:
+
+English: Fifth, no conclusions could be drawn about underlying conditions that were not included in the case report form or about different conditions that were reported in a single, umbrella category.
+Italian: In quinto luogo, non è stato possibile trarre conclusioni sulle patologie pregresse non comprese nei moduli di segnalazione o su patologie differenti che sono state riportate in una singola categoria più ampia.
+English: Some outcomes might be underestimated, and long-term outcomes cannot be assessed in this analysis.
+Italian: Alcuni risultati potrebbero essere sottostimati, e non è possibile valutare gli esiti clinici a lungo termine in questa analisi.
+English: The findings in this report are subject to at least six limitations.
+MT: I risultati in questo rapporto sono soggetti ad almeno sei limitazioni.
+Italian:
+
+English: In contrast, 335 patients aged <19 years were not hospitalized and 1,342 had missing data on hospitalization.
+Italian: Per contro, 335 pazienti di età < 19 anni non sono stati ospedalizzati e 1.342 non avevano dati sull’ospedalizzazione.
+English: First, these data are preliminary, and the analysis was limited by missing data related to the health department reporting burden associated with rapidly rising case counts and delays in completion of information requiring medical chart review; these findings might change as additional data become available.
+Italian: In primo luogo, questi dati sono preliminari, e l’analisi è stata limitata dalla mancanza di dati dovuta all’onere di segnalazione dei dipartimenti sanitari associato al rapido aumento del conteggio dei casi e ai ritardi nel completamento delle informazioni richiedenti la revisione delle cartelle cliniche; tali risultati potrebbero cambiare quando saranno disponibili ulteriori dati.
+English: It cannot be assumed that those with missing information are similar to those with data on either hospitalizations or underlying health conditions.
+MT: Non può essere assunto che coloro con informazioni mancanti siano simili a coloro che hanno dati sia sui ricoveri ospedalieri che sulle condizioni di salute sottostanti.
+Italian:
+
+English: First, these data are preliminary, and the analysis was limited by missing data related to the health department reporting burden associated with rapidly rising case counts and delays in completion of information requiring medical chart review; these findings might change as additional data become available.
+Italian: In primo luogo, questi dati sono preliminari, e l’analisi è stata limitata dalla mancanza di dati dovuta all’onere di segnalazione dei dipartimenti sanitari associato al rapido aumento del conteggio dei casi e ai ritardi nel completamento delle informazioni richiedenti la revisione delle cartelle cliniche; tali risultati potrebbero cambiare quando saranno disponibili ulteriori dati.
+English: Fifth, no conclusions could be drawn about underlying conditions that were not included in the case report form or about different conditions that were reported in a single, umbrella category.
+Italian: In quinto luogo, non è stato possibile trarre conclusioni sulle patologie pregresse non comprese nei moduli di segnalazione o su patologie differenti che sono state riportate in una singola categoria più ampia.
+English: Third, because of the limited availability of testing in many jurisdictions during this period, this analysis is likely biased toward more severe cases, and findings might change as testing becomes more widespread.
+MT: Terzo, a causa della limitata disponibilità di test in molte giurisdizioni durante questo periodo, questa analisi è probabilmente influenzata da casi più gravi, e i risultati potrebbero cambiare man mano che i test diventano più diffusi.
+Italian:
+
+English: Public health departments reported cases to CDC using a standardized case report form that captures information (yes, no, or unknown) on the following conditions and potential risk factors: chronic lung disease (inclusive of asthma, chronic obstructive pulmonary disease , and emphysema); diabetes mellitus; cardiovascular disease; chronic renal disease; chronic liver disease; immunocompromised condition; neurologic disorder, neurodevelopmental, or intellectual disability; pregnancy; current smoking status; former smoking status; or other chronic disease.
+Italian: I dipartimenti sanitari pubblici hanno segnalato i casi ai CDC utilizzando un modulo di segnalazione standardizzato che rilevasse l’informazione (sì, no, o sconosciuto) sulle seguenti patologie e sui potenziali fattori di rischio: malattie polmonari croniche (includenti asma, broncopneumopatia cronica ostruttiva  ed enfisema); diabete mellito, malattie cardiovascolari, malattie renali croniche, malattie epatiche croniche, condizione di immunodeficienza, disturbi neurologici, disturbi del neurosviluppo o disabilità intellettive; gravidanza, stato di fumatore attuale, stato di ex-fumatore e altre patologie croniche.
+English: The most commonly reported conditions were diabetes mellitus, chronic lung disease, and cardiovascular disease.
+Italian: Le patologie segnalate più comunemente erano diabete mellito, malattie polmonari croniche e malattie cardiovascolari.
+English: For example, asthma and COPD were included in a chronic lung disease category.
+MT: Ad esempio, l'asma e la BPCO sono state incluse in una categoria di malattia polmonare cronica.
+Italian:
+
+English: Fever is often the major and initial symptom of COVID-19, which can be accompanied by no symptom or other symptoms such as dry cough, shortness of breath, muscle ache, dizziness, headache, sore throat, rhinorrhea, chest pain, diarrhea, nausea, and vomiting.
+Italian: La febbre è spesso il sintomo principale e iniziale del COVID-19, che può essere accompagnato da nessun sintomo o da altri sintomi come tosse secca, fiato corto, dolori muscolari, vertigini, mal di testa, mal di gola, rinorrea, dolori al torace, diarrea, nausea e vomito.
+English: Among 122,653 U.S. COVID-19 cases reported to CDC as of March 28, 2020, 7,162 (5.8%) patients had data available pertaining to underlying health conditions or potential risk factors; among these patients, higher percentages of patients with underlying conditions were admitted to the hospital and to an ICU than patients without reported underlying conditions.
+Italian: Sui 122.653 casi di COVID-19 negli Stati Uniti segnalati ai CDC al 28 marzo 2020, 7.162 (5,8%) pazienti avevano dati disponibili relativi a patologie pregresse o potenziali fattori di rischio; tra questi pazienti, una percentuale più alta di quelli affetti da patologie pregresse è stata ammessa in ospedale e in una UTI rispetto ai pazienti privi di patologie pregresse segnalate.
+English: Persons with underlying health conditions who have symptoms of COVID-19, including fever, cough, or shortness of breath, should immediately contact their health care provider.
+MT: Le persone con condizioni di salute sottostanti che presentano sintomi di COVID-19, tra cui febbre, tosse o difficoltà respiratoria, dovrebbero immediatamente contattare il proprio fornitore di assistenza sanitaria.
+Italian:
+
+English: These persons should take steps to protect themselves from COVID-19, through washing their hands; cleaning and disinfecting high-touch surfaces; and social distancing, including staying at home, avoiding crowds, gatherings, and travel, and avoiding contact with persons who are ill.
+Italian: Queste persone dovrebbero adottare misure per proteggersi dal COVID-19, lavandosi le mani, pulendo e disinfettando superfici ad alto contatto, e tramite il distanziamento sociale, che comprende rimanere a casa, evitare le folle, gli assembramenti e i viaggi, ed evitare il contatto con persone malate.
+English: Thus, mental health care should be provided to COVID-19 patients, suspected individuals, and people in contact with them as well as the general public who are in need.
+Italian: Pertanto, si dovrebbe offrire assistenza per la salute mentale ai pazienti COVID-19, agli individui con casi sospettati e le persone a contatto con loro, così come al pubblico in generale che ne ha bisogno.
+English: All persons should take steps to protect themselves from COVID-19 and to protect others.
+MT: Tutte le persone dovrebbero prendere misure per proteggersi dal COVID-19 e per proteggere gli altri.
+Italian:
+
+English: These persons should take steps to protect themselves from COVID-19, through washing their hands; cleaning and disinfecting high-touch surfaces; and social distancing, including staying at home, avoiding crowds, gatherings, and travel, and avoiding contact with persons who are ill.
+Italian: Queste persone dovrebbero adottare misure per proteggersi dal COVID-19, lavandosi le mani, pulendo e disinfettando superfici ad alto contatto, e tramite il distanziamento sociale, che comprende rimanere a casa, evitare le folle, gli assembramenti e i viaggi, ed evitare il contatto con persone malate.
+English: CDC continues to develop and update resources for persons with underlyinghealth conditions to reduce the risk of acquiring COVID-19.
+Italian: I CDC continueranno a sviluppare e aggiornare risorse per le persone con patologie pregresse per ridurre il rischio di contagio da COVID-19.
+English: Community mitigation strategies, which aim to slow the spread of COVID-19, are important to protect all persons from COVID-19, especially persons with underlying health conditions and other persons at risk for severe COVID-19–associated disease (https://www.cdc.gov/ coronavirus/2019-ncov/downloads/community-mitigation- strategy.pdf).
+MT: Le strategie di mitigazione comunitaria, che hanno lo scopo di rallentare la diffusione del COVID-19, sono importanti per proteggere tutte le persone dal COVID-19, specialmente le persone con condizioni di salute sottostanti e altre persone a rischio di malattia grave associata al COVID-19 (https://www.cdc.gov/coronavirus/2019-ncov/downloads/community-mitigation-strategy.pdf).
+Italian:
+
+English: First, these data are preliminary, and the analysis was limited by missing data related to the health department reporting burden associated with rapidly rising case counts and delays in completion of information requiring medical chart review; these findings might change as additional data become available.
+Italian: In primo luogo, questi dati sono preliminari, e l’analisi è stata limitata dalla mancanza di dati dovuta all’onere di segnalazione dei dipartimenti sanitari associato al rapido aumento del conteggio dei casi e ai ritardi nel completamento delle informazioni richiedenti la revisione delle cartelle cliniche; tali risultati potrebbero cambiare quando saranno disponibili ulteriori dati.
+English: Data reported to CDC are preliminary and can be updated by health departments over time; critical data elements might be missing at the time of initial report; thus, this analysis is descriptive, and no statistical comparisons could be made.
+Italian: I dati riportati ai CDC sono preliminari e possono essere aggiornati nel tempo dai dipartimenti sanitari; alcuni dati essenziali potrebbero essere assenti al momento della stesura del report iniziale; pertanto, questa analisi è descrittiva, e non è stato possibile effettuare comparazioni statistiche.
+English: What is added by this report?
+MT: Cosa aggiunge questo rapporto?
+Italian:
+
+English: These persons should take steps to protect themselves from COVID-19, through washing their hands; cleaning and disinfecting high-touch surfaces; and social distancing, including staying at home, avoiding crowds, gatherings, and travel, and avoiding contact with persons who are ill.
+Italian: Queste persone dovrebbero adottare misure per proteggersi dal COVID-19, lavandosi le mani, pulendo e disinfettando superfici ad alto contatto, e tramite il distanziamento sociale, che comprende rimanere a casa, evitare le folle, gli assembramenti e i viaggi, ed evitare il contatto con persone malate.
+English: Thus, great precaution should be used to protect humans, especially health-care providers, social workers, family members, colleagues, and even bystanders in contact with patients or infected people.
+Italian: Pertanto, bisognerebbe usare grande precauzione per proteggere gli esseri umani, specialmente i fornitori di cure mediche, i lavoratori sociali, parenti, colleghi e perfino i passanti a contatto con pazienti o persone infette.
+English: Strategies to protect all persons and especially those with underlying health conditions, including social distancing and handwashing, should be implemented by all communities and all persons to help slow the spread of COVID-19.
+MT: Le strategie per proteggere tutte le persone e in particolare quelle con condizioni di salute sottostanti, tra cui il distanziamento sociale e il lavaggio delle mani, dovrebbero essere implementate da tutte le comunità e da tutte le persone per aiutare a rallentare la diffusione del COVID-19.
+Italian:
+
+English: COVID-19 affects more elderly individuals than youth and more men than women, and the severity and death rate are also higher in elderly individual than in youth.
+Italian: Il COVID-19 colpisce più gli anziani che i giovani e più gli uomini che le donne, e anche la gravità e il tasso di mortalità sono più alte negli anziani che nei giovani.
+English: SARS has higher mortality than COVID-19 (10.91% versus 1.44%).
+Italian: La SARS ha una mortalità più alta del COVID-19 (10,91% contro 1,44%).
+English: However, COVID-19 has lower severity and mortality than SARS but is much more transmissive and affects more elderly individuals than youth and more men than women.
+MT: Tuttavia, il COVID-19 ha una gravità e una mortalità inferiori rispetto alla SARS, ma è molto più contagioso e colpisce più individui anziani rispetto ai giovani e più uomini rispetto alle donne.
+Italian:
+
+English: In response to the rapidly increasing number of publications on the emerging disease, this article attempts to provide a timely and comprehensive review of the swiftly developing research subject.
+Italian: In risposta al numero crescente di pubblicazioni sulla malattia emergente, questo articolo tenterà di offrire una rassegna puntuale e completa dell’oggetto di ricerca in rapida evoluzione.
+English: However, via strict quarantine and isolation, the disease has eventually been put under control.
+Italian: Tuttavia, grazie a una quarantena e un isolamento rigorosi, la malattia è stata infine messa sotto controllo.
+English: Although many questions still require answers, we hope that this review helps in the understanding and eradication of the threatening disease.
+MT: Sebbene molte domande richiedano ancora risposte, speriamo che questa recensione aiuti nella comprensione e nell'eradicazione della malattia minacciosa.
+Italian:
+
+English: Meanwhile, the epidemic rapidly spread to the neighboring cities, provinces, and countries.
+Italian: Nel frattempo, l’epidemia si è diffusa rapidamente nelle città, nelle province e nei Paesi confinanti.
+English: As shown in Fig. 1, clusters of pneumonia that had unknown origins were first reported from Wuhan on December 31, 2019 to the China National Health Commission.
+Italian: Come illustrato dalla Fig. 1, i cluster di polmonite di origine ignota sono stati segnalati a Wuhan per la prima volta il 31 dicembre 2019 alla Commissione nazionale di sanità cinese.
+English: The epidemic started in Wuhan, China, and quickly spread throughout the entire country and to near 50 others all over the world.
+MT: L'epidemia è iniziata a Wuhan, in Cina, e si è rapidamente diffusa in tutto il paese e in quasi 50 altri paesi in tutto il mondo.
+Italian:
+
+English: As of March 2, 2020, the virus has resulted in over 80,000 confirmed cases of COVID-19, with more than 40,000 patients discharged and over 3,000 patients who died.
+Italian: Al 2 marzo 2020, il virus ha provocato oltre 80.000 casi confermati di COVID-19, con più di 40.000 pazienti dimessi e 3.000 deceduti.
+English: On February 11, 2020, a multi-center study on 8,866 patients including 4,021 confirmed COVID-19 patients presented a more updated illustration of the epidemic as follows (https://mp.weixin.qq.com/s/ UlBi-HX_rHPXa1qHA2bhdA).
+Italian: L’11 febbraio 2020, uno studio multicentrico su 8.866 pazienti che ha compreso 4,021 pazienti COVID-19 confermati, presentava la seguente illustrazione più aggiornata dell’epidemia (https://mp.weixin.qq.com/UlBi-HX_rHPXa1qHA2bhdA).
+English: According to PubMed (https://www.ncbi.nlm.nih.gov/pubmed/), in less than two months, over 200 papers have been published on COVID-19 including its virology, epidemiology, etiology, diagnosis, and treatment since the first report on January 7, 2020 that determined the sequence of the virus isolated from multiple patients.
+MT: Secondo PubMed (https://www.ncbi.nlm.nih.gov/pubmed/), in meno di due mesi, più di 200 articoli sono stati pubblicati su COVID-19, tra cui la sua virologia, epidemiologia, eziologia, diagnostica e trattamento, a partire dalla prima relazione del 7 gennaio 2020 che ha determinato la sequenza del virus isolato da pazienti multipli.
+Italian:
+
+English: We will cover the basics about the epidemiology, etiology, virology, diagnosis, treatment, prognosis, and prevention of the disease.
+Italian: Verranno trattati gli aspetti di base dell’epidemiologia, l’eziologia, la virologia, la diagnosi, il trattamento, la prognosi e la prevenzione della malattia.
+English: In response to the rapidly increasing number of publications on the emerging disease, this article attempts to provide a timely and comprehensive review of the swiftly developing research subject.
+Italian: In risposta al numero crescente di pubblicazioni sulla malattia emergente, questo articolo tenterà di offrire una rassegna puntuale e completa dell’oggetto di ricerca in rapida evoluzione.
+English: We will also discuss what we have learned so far regarding the prevention and prognosis of the disease as well as some remaining yet urgent questions.
+MT: Discuteremo anche ciò che abbiamo imparato finora riguardo alla prevenzione e alla prognosi della malattia, nonché alcune questioni rimaste ancora urgenti.
+Italian:
+
+English: However, in this century, we have encountered highly pathogenic human CoVs twice, i.e., SARS-CoV and MERS-CoV, which caused an outbreak originally in China in 2003 and Saudi Arabia in 2012, respectively, and soon spread to many other countries with horrible morbidity and mortality.
+Italian: Tuttavia, in questo secolo abbiamo incontrato due volte CoV umani altamente patogeni, ossia il SARS-CoV e il MERS-CoV, che in origine hanno provocato rispettivamente un’epidemia in Cina nel 2003 e in Arabia Saudita nel 2012, e si sono presto diffusi in altri paesi con morbilità e mortalità terribili.
+English: The outbreak of COVID-19 caused by the novel virus SARS-CoV-2 started in the end of December 2019.
+Italian: L’epidemia di COVID-19 provocata dal nuovo coronavirus SARS-CoV-2 ha avuto inizio alla fine del dicembre 2019.
+English: Therefore, the current COVID-19 is the third CoV outbreak in the recorded history of humans.
+MT: Pertanto, l'attuale COVID-19 è la terza epidemia di CoV nella storia documentata dell'umanità.
+Italian:
+
+English: On January 24 the first clinical study on the disease reported that, out of 41 patients with confirmed cases, only 21 had direct contact with the Wuhan seafood market that was considered the starting site of the infection from an unknown animal source.
+Italian: Il 24 gennaio, il primo studio clinico sulla malattia ha riferito che, su 41 pazienti con casi confermati, solo 21 erano venuti a contatto diretto con il mercato del pesce di Wuhan, considerato il luogo di origine dell’infezione da una fonte animale sconosciuta.
+English: However, not until 19 January 2020 did the director of the Center of Disease Control of Wuhan comfort the citizens by saying that the novel virus has low contagiousness and limited reproductivity from human to human and that it is not a problem to prevent and contain the disease.
+Italian: Eppure, fino al 19 gennaio 2020 il direttore del Centro per il Controllo delle Malattie di Wuhan ha rassicurato i cittadini dicendo che il nuovo virus aveva una bassa contagiosità e una riproduttività limitata da uomo a uomo e che non sarebbe stato un problema prevenire e arginare la malattia.
+English: On January 15, 2020 the first fatal case from Wuhan was reported.
+MT: Il 15 gennaio 2020 è stato segnalato il primo caso fatale da Wuhan.
+Italian:
+
+English: This message remarkably relaxed the alarm of the public, especially when the entire country was preparing for the Spring Festival, and the critical time was missed to contain the disease at its minimal scale in Wuhan.
+Italian: Questo messaggio ha allentato considerevolmente l'attenzione della popolazione, specialmente in un momento in cui l’intero Paese si stava preparando per la festa di primavera, e ha perso il periodo critico per contenere la malattia su scala ridotta a Wuhan.
+English: Great efforts are currently underway in China including the lockdown of Wuhan and surrounding cities and continuous quarantine of almost the entire population in hopes of interrupting the transmission of SARS-CoV-2.
+Italian: Al momento sono in corso grandi sforzi in Cina che includono la chiusura di Wuhan e altre città circostanti e la quarantena continua della quasi totalità della popolazione, nella speranza di interrompere la trasmissione del SARS-CoV-2.
+English: On January 23, the city of Wuhan was locked down with all its public transportation stopped.
+MT: Il 23 gennaio, la città di Wuhan è stata messa in isolamento, con tutti i trasporti pubblici fermati.
+Italian:
+
+English: In less than two months, it has spread all over China and near 50 other countries globally at the time of this writing.
+Italian: In meno di due mesi, si è diffusa in tutta la Cina e quasi altri 50 Paesi a livello globale al momento della stesura di questo articolo.
+English: In response to the rapidly increasing number of publications on the emerging disease, this article attempts to provide a timely and comprehensive review of the swiftly developing research subject.
+Italian: In risposta al numero crescente di pubblicazioni sulla malattia emergente, questo articolo tenterà di offrire una rassegna puntuale e completa dell’oggetto di ricerca in rapida evoluzione.
+English: By the time of this report, the disease has already spread throughout China and near 50 other countries all over the world (Fig. 2).
+MT: Al momento di questo rapporto, la malattia si è già diffusa in tutta la Cina e in quasi 50 altri paesi in tutto il mondo (Fig. 2).
+Italian:
+
+English: The entire human population generally lacks immunity to SARS-CoV-2 and hence is susceptible to the novel virus.
+Italian: In generale, l’intera popolazione umana è priva di immunità al SARS-CoV-2, ed è quindi suscettibile al nuovo virus.
+English: Age: Age was the most important factor for the prognosis of SARS , which is also true for COVID-19.
+Italian: Età: L'età era il fattore più importante per la prognosi della SARS , il che è anche vero per il COVID-19.
+English: SARS-CoV-2 infected people of all ages, but mainly at the age of 30-65.
+MT: Il SARS-CoV-2 ha infettato persone di tutte le età, ma principalmente tra i 30-65 anni.
+Italian:
+
+English: Given such rapid progress in research on COVID-19, several critical issues remain to be solved, as follows:
+Italian: Visti i progressi così rapidi della ricerca sul COVID-19, restano da risolvere alcuni problemi cruciali, come i seguenti:
+English: A comparison of the epidemic of COVID-19 with that of SARS and MERS is provided below (Fig. 5).
+Italian: Di seguito è riportato un confronto dell’epidemia di COVID-19 con quella di SARS e MERS (Fig. 5).
+English: COVID-19 expanded in clusters mainly in and around Hubei.
+MT: Il COVID-19 si è espanso principalmente in gruppi negli e intorno al Hubei.
+Italian:
+
+English: The average incubation period was 4.8 (3.0-7.2) days.
+Italian: Il periodo di incubazione medio era di 4,8 (3,0-7,2) giorni.
+English: A more recent study, as described above, demonstrates that the incubation period was 4.8 (3.0-7.2) days based on the demography of 8,866 cases.
+Italian: Uno studio più recente, come descritto in precedenza, dimostra che il periodo di incubazione era di 4,8 (3,0-7,2) giorni in base alla demografia di 8,866 casi.
+English: The average time from onset to death was 9.5 (4.8-13) days.
+MT: Il tempo medio dall'inizio alla morte era stato di 9,5 giorni (4,8-13).
+Italian:
+
+English: For MERS, based on a demographic study in June 2012, the mortality was 37% of 2,494 confirmed cases.
+Italian: Per la MERS, in base a uno studio di popolazione del giugno 2012, la mortalità era del 37% dei 2.494 casi confermati.
+English: Information on underlying conditions was only available for 7,162 (5.8%) of 122,653 cases reported to CDC.
+Italian: Le informazioni sulle patologie pregresse erano disponibili solo per 7.162 (5,8%) dei 122.653 casi segnalati ai CDC.
+English: The mortality of patients with confirmed cases was 1.44% (95% CI: 1.10-1.86%), and the adjusted mortality of all the patients was 3.06% (95% CI: 2.02-4.59%).
+MT: La mortalità dei pazienti con casi confermati è stata del 1,44% (95% CI: 1,10-1,86%), e la mortalità aggiustata di tutti i pazienti è stata del 3,06% (95% CI: 2,02-4,59%).
+Italian:
+
+English: CoVs have been traditionally considered nonlethal pathogens to humans, mainly causing approximately 15% of common colds.
+Italian: I CoV sono stati tradizionalmente considerati patogeni non letali per gli esseri umani, causando circa il 15% dei comuni raffreddori.
+English: However, in this century, we have encountered highly pathogenic human CoVs twice, i.e., SARS-CoV and MERS-CoV, which caused an outbreak originally in China in 2003 and Saudi Arabia in 2012, respectively, and soon spread to many other countries with horrible morbidity and mortality.
+Italian: Tuttavia, in questo secolo abbiamo incontrato due volte CoV umani altamente patogeni, ossia il SARS-CoV e il MERS-CoV, che in origine hanno provocato rispettivamente un’epidemia in Cina nel 2003 e in Arabia Saudita nel 2012, e si sono presto diffusi in altri paesi con morbilità e mortalità terribili.
+English: They can be divided into four genera, i.e., alpha, beta, gamma, and delta, of which alpha- and beta-CoVs are known to infect humans.
+MT: Possono essere suddivisi in quattro generi, vale a dire alfa, beta, gamma e delta, dei quali alfa- e beta-CoV sono noti per infettare gli esseri umani.
+Italian:
+
+English: Where did SARS-CoV-2 come from?
+Italian: Da dove è venuto il SARS-CoV-2?
+English: The outbreak of COVID-19 caused by the novel virus SARS-CoV-2 started in the end of December 2019.
+Italian: L’epidemia di COVID-19 provocata dal nuovo coronavirus SARS-CoV-2 ha avuto inizio alla fine del dicembre 2019.
+English: The first genomic sequence of SARS-CoV-2 was reported on January 10, 2020.
+MT: La prima sequenza genomico del SARS-CoV-2 è stata segnalata il 10 gennaio 2020.
+Italian:
+
+English: Although molecular modeling and biochemical assays have demonstrated that SARS-CoV-2 binds to ACE2, how exactly does the virus enter the airway cells and cause subsequent pathological changes?
+Italian: Sebbene la modellazione molecolare e le analisi biochimiche abbiano dimostrato che il SARS-CoV-2 si lega ad ACE2, in che modo esattamente il virus entra nelle cellule aeree e causa i cambiamenti patologici successivi?
+English: SARS-CoV-2 is highly transmittable through coughing or sneezing, and possibly also through direct contact with materials contaminated by the virus.
+Italian: Il SARS-CoV-2 è altamente trasmissibile attraverso la tosse o gli starnuti, e probabilmente anche attraverso il contatto diretto con materiali contaminati dal virus.
+English: Through transmission electron microscopy, SARS-CoV-2 particles were found in ultrathin sections of human airway epithelium.
+MT: Attraverso la microscopia elettronica a trasmissione, le particelle di SARS-CoV-2 sono state trovate in sezioni ultrasottili dell'epitelio dell'apparato respiratorio umano.
+Italian:
+
+English: The orf3b of SARS-CoV-2 may play a role in the viral pathogenicity and inhibit the expression of IFNβ; however, orf8 does not contain any known functional domain or motif.
+Italian: La orf3b del SARS-CoV-2 potrebbe rivestire un ruolo nella patogenicità virale e inibire l’espressione di IFNβ; tuttavia, orf8 non contiene alcun dominio o motivo funzionale conosciuto.
+English: Where did SARS-CoV-2 come from?
+Italian: Da dove è venuto il SARS-CoV-2?
+English: SARS-CoV-2 can also form a novel short protein encoded by orf3b and a secreted protein encoded by orf8.
+MT: Il SARS-CoV-2 può anche formare una nuova proteina corta codificata da orf3b e una proteina secreta codificata da orf8.
+Italian:
+
+English: Does the virus also bind ACE2-expressing cells in other organs?
+Italian: Il virus si lega anche alle cellule che esprimono ACE2 in altri organi?
+English: However, the S protein of SARS-CoV-2 binds to human ACE2 more weakly than that of SARS-CoV, which is coincident with the fact that SARS-CoV-2 causes less severe infection in patients than SARS-CoV.
+Italian: Tuttavia, la proteina S del SARS-CoV-2 si lega all’ACE2 umano più debolmente del SARS-CoV, il che coincide con il fatto che il SARS-CoV-2 causi infezioni meno gravi nei pazienti rispetto al SARS-CoV.
+English: They found that the complex, which had open and closed conformations, was assembled as a dimer and the ACE2-B0AT1 complex can bind two S proteins, which provides evidence for CoV recognition and infection.
+MT: Hanno scoperto che il complesso, che aveva conformazioni aperte e chiuse, era assemblato come un dimero e che il complesso ACE2-B0AT1 può legare due proteine S, il che fornisce la prova del riconoscimento e dell'infezione del CoV.
+Italian:
+
+English: Similar to its homologous virus, SARS-CoV, which caused SARS in thousands of people in 2003, SARS-CoV-2 might also be transmitted from the bats and causes similar symptoms through a similar mechanism.
+Italian: Simile al suo virus omologo, il SARS-CoV, che provocò la SARS in migliaia di persone nel 2003, il SARS-CoV-2 potrebbe essere trasmesso anch’esso dai pipistrelli e causa sintomi analoghi attraverso un meccanismo analogo.
+English: Through a phylogenetic comparison of SARS-CoV-2 with other CoVs, bats were considered the native host of SARS-CoV-2 as the new virus is 96% identical to two SARS-like CoVs from bats called bat-SL-CoVZX45 and bat-SL-CoVZX21.
+Italian: Attraverso un confronto filogenetico del SARS-CoV-2 con altri CoV, i pipistrelli sono stati considerati l’ospite nativo del SARS-CoV-2, dato che il nuovo virus è al 96% identico a due CoV simili al SARS provenienti dai pipistrelli chiamati Bat-SL-CoVZX45 e Bat-SL-CoVZX21.
+English: It has been known that both SARS-CoV and MERS-CoV originated from bats and were transmitted to humans via civet cats and camels, respectively.
+MT: È noto che sia il SARS-CoV che il MERS-CoV sono originati dai pipistrelli e sono stati trasmessi agli esseri umani attraverso i civeti e i cammelli, rispettivamente.
+Italian:
+
+English: What animal was the intermediate species to transmit the virus from the original host, say bats, to humans?
+Italian: Quale animale è stata la specie intermedia che ha trasmesso il virus dall’ospite originario, supponiamo i pipistrelli, agli esseri umani?
+English: However, what intermediate host helped the virus cross the species barrier to infect humans remains unknown, and the transmission route is yet to be elucidated.
+Italian: Tuttavia, resta da chiarire quale ospite intermedio abbia aiutato il virus ad attraversare la barriera di specie per infettare gli umani, e la via di trasmissione.
+English: Ji, et al., proposed snakes as a carrier of the virus from bats to humans which involved homologous recombination within the S protein.
+MT: Ji, et al., hanno proposto i serpenti come vettori del virus dai pipistrelli agli esseri umani, il che comportò una ricombinazione omologa all'interno della proteina S.
+Italian:
+
+English: SARS-CoV-2 may possess similar properties.
+Italian: Il SARS-CoV-2 potrebbe possedere proprietà simili.
+English: Where did SARS-CoV-2 come from?
+Italian: Da dove è venuto il SARS-CoV-2?
+English: The physicochemical properties of SARS-CoV-2 are largely not yet known.
+MT: Le proprietà fisico-chimiche del SARS-CoV-2 sono in gran parte ancora sconosciute.
+Italian:
+
+English: SARS-CoV-2 is highly transmittable through coughing or sneezing, and possibly also through direct contact with materials contaminated by the virus.
+Italian: Il SARS-CoV-2 è altamente trasmissibile attraverso la tosse o gli starnuti, e probabilmente anche attraverso il contatto diretto con materiali contaminati dal virus.
+English: SARS-CoV and MERS-CoV can survive in vitro for 48 hours in a dry environment and up to 5 days under 20 °C and 40%-50% humidity.
+Italian: Il SARS-CoV e il MERS-CoV possono sopravvivere in vitro per 48 ore in ambiente secco e fino a 5 giorni a 20 °C e con il 40%-50% di umidità.
+English: It has been reported that SARS-CoV-2 is sensitive to ultraviolet rays and heat at 56 °C for 30 minutes; ether, 75% ethanol, chlorine-containing disinfectant, peracetic acid, chloroform, and other fatty solvents, but not chlorhexidine, can effectively inactivate the virus.
+MT: È stato segnalato che il SARS-CoV-2 è sensibile ai raggi ultravioletti e al calore a 56 °C per 30 minuti; l'etere, l'alcol etilico al 75%, il disinfettante a base di cloro, l'acido peracetico, il cloroformio e altri solventi grassi, ma non la clorexidina, possono inattivare efficacemente il virus.
+Italian:
+
+English: SARS-CoV-2 may possess similar properties.
+Italian: Il SARS-CoV-2 potrebbe possedere proprietà simili.
+English: SARS-CoV-2 is genetically more similar to SARS-CoV than to MERS-CoV.
+Italian: Dal punto di vista genetico, il SARS-CoV-2 è più simile al SARS-CoV che al MERS-CoV.
+English: Thus, we can only refer to previous studies on other CoVs, especially SARS-CoV and MERS-CoV (Fig. 4).
+MT: Pertanto, possiamo fare riferimento solo a precedenti studi su altri CoV, in particolare SARS-CoV e MERS-CoV (Fig. 4).
+Italian:
+
+English: The entire human population generally lacks immunity to SARS-CoV-2 and hence is susceptible to the novel virus.
+Italian: In generale, l’intera popolazione umana è priva di immunità al SARS-CoV-2, ed è quindi suscettibile al nuovo virus.
+English: Currently, no detailed study has been reported regarding the immunological response to SARS-CoV-2.
+Italian: Al momento, non si ha notizia di alcuno studio dettagliato sulla risposta immunologica al SARS-CoV-2.
+English: However, the N protein of SARS-CoV can help the virus escape from the immune responses.
+MT: Tuttavia, la proteina N del SARS-CoV può aiutare il virus a sfuggire alle risposte immunitarie.
+Italian:
+
+English: T lymphocytes including CD4+ and CD8+ T cells play an important role in the defense.
+Italian: I linfociti T, inclusi i linfociti T CD4+ e CD8+, ricoprono un ruolo importante nella difesa.
+English: Thus, it is more critical and practical to isolate B cells from recovered patients and identify the genetic codes encoding effective antibodies or screen for effective antibodies against essential proteins of the virus.
+Italian: Pertanto, è più importante e pratico isolare i linfociti B dai pazienti guariti e identificare i codici genetici che codificano anticorpi efficaci o effettuare controlli per anticorpi efficaci contro le proteine essenziali del virus.
+English: CD4+ T cells stimulate B cells to produce virus-specific antibodies, and CD8+ T cells directly kill virus-infected cells.
+MT: Le cellule T CD4+ stimolano le cellule B a produrre anticorpi specifici per il virus, e le cellule T CD8+ uccidono direttamente le cellule infettate dal virus.
+Italian:
+
+English: Soon, the adaptive immune response joins the fight against the virus.
+Italian: Presto, la risposta immunitaria adattativa si unisce alla lotta contro il virus.
+English: In general, after a virus invades the host, it is first recognized by the host innate immune system through pattern recognition receptors (PRRs) including C-type lectin-like receptors, Toll-like receptor (TLR), NOD-like receptor (NLR), and RIG-I-like receptor (RLR).
+Italian: In generale, dopo che un virus invade l’ospite, questo viene prima riconosciuto dal sistema immunitario innato dell’ospite tramite i recettori dell’immunità innata (PRRs), che comprendono i recettori di lectine di tipo C, i recettori Toll-simili (TLR), i recettori di tipo NOD e i recettori simil-RIG-I (RLR).
+English: The humoral immunity including complements such as C3a and C5a and antibodies is also essential in combating the viral infection.
+MT: L'immunità umorale, inclusi i complementi come C3a e C5a e gli anticorpi, è anch'essa essenziale nella lotta contro l'infezione virale.
+Italian:
+
+English: The entire human population generally lacks immunity to SARS-CoV-2 and hence is susceptible to the novel virus.
+Italian: In generale, l’intera popolazione umana è priva di immunità al SARS-CoV-2, ed è quindi suscettibile al nuovo virus.
+English: SARS-CoV-2 infected more men (0.31/100,000) than women (0.27/100,000).
+Italian: Il SARS-CoV-2 ha infettato più gli uomini (0,31/100.000) che le donne (0,27/100.000).
+English: The SARS-CoV-2 infection, featured by clustering onset, is more likely to affect elderly people with comorbidities and pregnant women.
+MT: L'infezione da SARS-CoV-2, caratterizzata da un'esordio in gruppi, è più probabile che colpisca le persone anziane con comorbidità e le donne incinte.
+Italian:
+
+English: A more recent study, as described above, demonstrates that the incubation period was 4.8 (3.0-7.2) days based on the demography of 8,866 cases.
+Italian: Uno studio più recente, come descritto in precedenza, dimostra che il periodo di incubazione era di 4,8 (3,0-7,2) giorni in base alla demografia di 8,866 casi.
+English: The average incubation period was 4.8 (3.0-7.2) days.
+Italian: Il periodo di incubazione medio era di 4,8 (3,0-7,2) giorni.
+English: However, a study on 1,099 cases demonstrates that the incubation period was 3 days on average and ranged from 0 to 24 days.
+MT: Tuttavia, uno studio su 1.099 casi ha dimostrato che il periodo di incubazione è stato in media di 3 giorni e variava da 0 a 24 giorni.
+Italian:
+
+English: It is very important for health authorities to adjust the effective quarantine time based on the most accurate incubation period, thus preventing infected but symptomless people from transmitting the virus to others.
+Italian: È molto importante che le autorità sanitarie calibrino il periodo di quarantena effettivo sulla base del periodo di incubazione più accurato, impedendo così alle persone infette ma asintomatiche dal trasmettere il virus ad altri.
+English: Should the quarantine time be extended to 24 days?
+Italian: Bisognerebbe estendere il periodo di quarantena a 24 giorni?
+English: As a common practice, individuals exposed to, or infected by, the virus are usually required to be quarantined for 14 days.
+MT: Come pratica comune, le persone esposte al virus o infettate sono generalmente tenute a essere in quarantena per 14 giorni.
+Italian:
+
+English: Comparably, a demographic study in 2012 showed that MERS-CoV patients also had fever (98%), dry cough (47%), and dyspnea (55%) as their main symptoms.
+Italian: Analogamente, uno studio di popolazione condotto nel 2012 ha mostrato che anche i pazienti MERS-CoV presentavano febbre (98%), tosse secca (47%), e dispnea (55%) come sintomi principali.
+English: Their symptoms improved within 24 hours, accompanied by reduced inflammation and viral loads and improved oxygen saturation in the blood.
+Italian: I loro sintomi sono migliorati in 24 ore, e hanno registrato inoltre una riduzione dell’infiammazione e delle cariche virali e una migliore saturazione dell’ossigeno nel sangue.
+English: Some patients experienced dyspnea and/or hypoxemia one week after the onset of the disease.
+MT: Alcuni pazienti hanno sperimentato dispnea e/o ipossiemia una settimana dopo l'inizio della malattia.
+Italian:
+
+English: In SARS patients, it has been demonstrated that fever (99%-100%), dry cough (29%-75%), dyspnea (40%-42%), diarrhea (20-25%), and sore throat (13-25%) were the major symptoms and ventilation support was required for approximately 14%-20% of the patients.
+Italian: Nei pazienti SARS, è stato dimostrato che febbre (99%-199%), tosse secca (29%-75%), dispnea (40%-42%), diarrea (20-25%), e mal di gola (13-25%) erano i sintomi principali e il supporto della ventilazione era richiesto per circa il 14%-20% dei pazienti.
+English: Comparably, a demographic study in 2012 showed that MERS-CoV patients also had fever (98%), dry cough (47%), and dyspnea (55%) as their main symptoms.
+Italian: Analogamente, uno studio di popolazione condotto nel 2012 ha mostrato che anche i pazienti MERS-CoV presentavano febbre (98%), tosse secca (47%), e dispnea (55%) come sintomi principali.
+English: A demographic study in late December of 2019 showed that the percentages of the symptoms were 98% for fever, 76% for dry cough, 55% for dyspnea, and 3% for diarrhea; 8% of the patients required ventilation support.
+MT: Uno studio demografico alla fine di dicembre 2019 ha mostrato che le percentuali dei sintomi erano del 98% per la febbre, del 76% per la tosse secca, del 55% per la dispnea e del 3% per la diarrea; l'8% dei pazienti ha richiesto un sostegno di ventilazione.
+Italian:
+
+English: The percentage of COVID-19 patients with at least one underlying health condition or risk factor was higher among those requiring intensive care unit (ICU) admission (358 of 457, 78%) and those requiring hospitalization without ICU admission (732 of 1,037, 71%) than that among those who were not hospitalized (1,388 of 5,143, 27%).
+Italian: La percentuale di pazienti COVID-19 con almeno una patologia pregressa o un fattore di rischio era più alta tra quelli che necessitavano il ricovero in unità di terapia intensiva (UTI -358 su 457, 78%) e coloro che necessitavano l’ospedalizzazione senza ricovero in UTI (732 su 1.037, 71%) rispetto ai pazienti non ospedalizzati (1.388 su 5.143, 27%).
+English: However, similar to SARS and MERS, COVID-19 is also associated with high morbidity and mortality in patients with severe cases.
+Italian: Tuttavia, analogamente alla SARS e alla MERS, il COVID-19 è anche associato ad alte morbilità e mortalità nei pazienti con casi gravi.
+English: However, 80% of them required ventilation support, much more than COVID-19 patients and consistent with the higher lethality of MERS than of COVID-19.
+MT: Tuttavia, l'80% di loro ha richiesto un sostegno di ventilazione, molto più dei pazienti con COVID-19 e in linea con la letalità più alta del MERS rispetto al COVID-19.
+Italian:
+
+English: As of March 28, 2020, a total of 571,678 confirmed COVID-19 cases and 26,494 deaths have been reported worldwide.
+Italian: Al 28 marzo 2020, sono stati registrati un totale di 571.678 casi confermati di COVID-19 e 26.494 decessi in tutto il mondo.
+English: As of March 28, 2020, a total of 122,653 laboratory- confirmed COVID-19 cases (Figure) and 2,112 deaths were reported to CDC.
+Italian: Al 28 marzo 2020 sono stati segnalati ai CDC un totale di 122.653 casi di COVID-19 confermati in laboratorio, e 2.112 decessi.
+English: By February 14, the mortality of COVID-19 was 2% when the confirmed cases reached 66,576 globally.
+MT: Entro il 14 febbraio, la mortalità del COVID-19 era del 2% quando i casi confermati raggiunsero i 66.576 a livello globale.
+Italian:
+
+English: A comparison of SARS-CoV-2 with MERS-CoV and SARS-CoV regarding their symptoms, mortality, and R0 is presented in Table 1.
+Italian: Un confronto tra SARS-CoV-2, MERS-CoV e SARS-CoV rispetto ai loro sintomi, alla mortalità e all’R0 è presentato nella Tabella 1.
+English: Currently, no detailed study has been reported regarding the immunological response to SARS-CoV-2.
+Italian: Al momento, non si ha notizia di alcuno studio dettagliato sulla risposta immunologica al SARS-CoV-2.
+English: An earlier study reported that the R0 of SARS-CoV-2 was as high as 6.47 with a 95% confidence interval (CI) of 5.71-7.23 , whereas the R0 of SARS-CoV only ranged from 2 to 4.
+MT: Uno studio precedente ha riportato che il R0 del SARS-CoV-2 era alto come 6,47 con un intervallo di confidenza del 95% (IC) di 5,71-7,23 , mentre il R0 del SARS-CoV si è mosso solo tra 2 e 4.
+Italian:
+
+English: The above figures suggest that SARS-CoV-2 has a higher ability to spread than MERS-CoV and SARS-CoV, but it is less lethal than the latter two.
+Italian: Le cifre di cui sopra suggeriscono che il SARS-CoV-2 abbia un’abilità maggiore di diffondersi rispetto al MERS-CoV e il SARS-CoV, ma che è meno letale di questi ultimi due.
+English: Thus, the current outbreak of COVID-19 is much more severe and difficult to control than the outbreak of SARS.
+Italian: Pertanto, l’epidemia attuale di COVID-19 è molto più grave e difficile da controllare rispetto all’epidemia di SARS.
+English: Thus, it is much more challenging to control the epidemic of SARS-CoV-2 than those of MERS-CoV and SARS-CoV.
+MT: Pertanto, è molto più difficile controllare l'epidemia di SARS-CoV-2 rispetto a quella di MERS-CoV e SARS-CoV.
+Italian:
+
+English: It is very important for health authorities to adjust the effective quarantine time based on the most accurate incubation period, thus preventing infected but symptomless people from transmitting the virus to others.
+Italian: È molto importante che le autorità sanitarie calibrino il periodo di quarantena effettivo sulla base del periodo di incubazione più accurato, impedendo così alle persone infette ma asintomatiche dal trasmettere il virus ad altri.
+English: Should the quarantine time be extended to 24 days?
+Italian: Bisognerebbe estendere il periodo di quarantena a 24 giorni?
+English: However, it has been reported that people can carry the virus without symptoms longer than two weeks and cured patients discharged from hospitals can carry the virus again , which sends out an alarm to increase the time for quarantine.
+MT: Tuttavia, è stato segnalato che le persone possono trasportare il virus senza sintomi per più di due settimane e i pazienti guariti dimessi dagli ospedali possono trasportare nuovamente il virus , il che lancia un allarme per aumentare il tempo di quarantena.
+Italian:
+
+English: Abnormal laboratory findings: The C-reactive protein (CRP) level in blood reflects the severity of inflammation or tissue injury and has been proposed to be a potential prognostic factor for disease, response to therapy, and ultimate recovery.
+Italian: Risultati di laboratorio anomali: Il livello di proteina C reattiva (CRP) nel sangue riflette la gravità dell’infiammazione o dei danni ai tessuti ed è stato proposto come potenziale fattore di prognosi per la malattia, la risposta alla terapia e la guarigione finale.
+English: The concentration of antibodies in the blood is usually low, and the demand for the plasma is large to treat critically ill patients.
+Italian: La concentrazione di anticorpi nel sangue è solitamente bassa, e la richiesta del plasma è alta per trattare pazienti in condizioni critiche.
+English: The levels of liver and muscle enzymes and myoglobin were increased in the blood of some patients, and C-reactive protein and erythrocyte sedimentation were increased in the blood of most patients.
+MT: I livelli degli enzimi del fegato e dei muscoli e della mioglobina sono aumentati nel sangue di alcuni pazienti, e la proteina C-reattiva e la sedimentazione degli eritrociti sono aumentate nel sangue della maggior parte dei pazienti.
+Italian:
+
+English: When ARDS happens, uncontrolled inflammation, fluid accumulation, and progressive fibrosis severely compromise the gas exchange.
+Italian: Quando si verifica la ARDS, l’infiammazione incontrollata, l’accumulo di fluidi e la fibrosi progressiva compromettono gravemente lo scambio gassoso.
+English: These cytokines induce immune cells to release a vast number of free radicals which are the major cause of ARDS and multiple organ failure.
+Italian: Queste citochine inducono le cellule immunitarie a rilasciare un vasto numero di radicali liberi che sono la causa principale di ARDS e dell’insufficienza multiorgano.
+English: Patients often develop an atypical pneumonia, acute lung injury, and acute respiratory distress syndrome (ARDS).
+MT: I pazienti spesso sviluppano una polmonite atipica, una lesione polmonare acuta e una sindrome da distress respiratorio acuto (ARDS).
+Italian:
+
+English: Abnormalities in chest radiography are found in most COVID-19 patients and featured by bilateral patchy shadows or ground glass opacity in the lungs.
+Italian: Nella maggior parte dei pazienti COVID-19 si riscontrano anomalie nella radiografia toracica, caratterizzate da ombre irregolari o da opacità a vetro smerigliato bilaterali nei polmoni.
+English: Therefore, a combination of disease history, clinical manifestations, laboratory tests, and radiological findings is essential and imperative for making an effective diagnosis.
+Italian: Pertanto, una combinazione di anamnesi, manifestazioni cliniche, test di laboratorio, risultati radiologici è essenziale e imperativa per effettuare una diagnosi efficace.
+English: Therefore, the worst chest radiographic findings often parallel the most severe extent of the disease.
+MT: Pertanto, le peggiori scoperte radiografiche al torace spesso paralleli la maggiore estensione della gravità della malattia.
+Italian:
+
+English: Top cure rates in the treatment of COVID-19 patients were observed in several provinces in China that used TCM in 87% of their patients, including Gansu (63.7%), Ningxia (50%), and Hunan (50%), whereas Hubei province, which used TCM in only approximately 30% of its COVID-19 patients, had the lowest cure rate (13%).
+Italian: I migliori tassi di cura nel trattamento dei pazienti COVID-19 sono stati osservati in alcune province in Cina che usavano la MTC sull’87% dei propri pazienti, incluse Gansu (63,7%), Ningxia (50%) e Hunan (50%), mentre la provincia dello Hubei, che usava la MTC solo su circa il 30% dei suoi pazienti COVID-19, aveva il tasso di cura più basso (13%).
+English: The disease control agencies in China may take this hard lesson and make critical improvements in the future.
+Italian: Le agenzie per il controllo delle malattie in Cina dovrebbero apprendere questa dura lezione e adottare miglioramenti decisivi in futuro.
+English: However, due to the high false-negative rate, which may accelerate the epidemic, clinical manifestations started to be used for diagnosis (which no longer solely relied on RT-PCR) in China on February 13, 2020.
+MT: Tuttavia, a causa dell'alto tasso di falsi negativi, che può accelerare l'epidemia, le manifestazioni cliniche cominciarono ad essere utilizzate per la diagnosi (che non si basava più soltanto sulla RT-PCR) in Cina il 13 febbraio 2020.
+Italian:
+
+English: Based on these, Gilead has provided the compound to China to conduct a pair of trials on SARS-CoV-2- infected individuals , and the results are highly anticipated.
+Italian: Sulla base di questi, Gilead ha fornito il composto alla Cina per condurre un paio di sperimentazioni sugli individui infetti da SARS-CoV-2 , e i risultati sono molto attesi.
+English: Although SARS-CoV-2 came as a new virus to the human world, its high homology to SARS-CoV as reported on 7 January 2020  should have caused high alert to China based on her deep memory of the SARS outbreak in 2003.
+Italian: Sebbene il SARS-CoV-2 sia comparso come nuovo virus nel mondo umano, la sua alta omologia al SARS-CoV come riferito il 7 gennaio 2020  avrebbe dovuto provocare grande allarme alla Cina per via della sua esperienza con l’epidemia di SARS del 2003.
+English: On February 14, 2020, the Feng Zhang group described a protocol of using the CRISPR-based SHERLOCK technique to detect SARS-CoV-2, which detects synthetic SARS-CoV-2 RNA fragments at 20 × 10-18 mol/L to 200 × 10-18 mol/L (10-100 copies per microliter of input) using a dipstick in less than an hour without requiring elaborate instrumentation.
+MT: Il 14 febbraio 2020, il gruppo di Feng Zhang ha descritto un protocollo che utilizza la tecnica CRISPR-based SHERLOCK per rilevare il SARS-CoV-2, che rileva frammenti di RNA sintetico del SARS-CoV-2 a concentrazioni di 20 × 10-18 mol/L a 200 × 10-18 mol/L (10-100 copie per microlitro di ingresso) usando un dipstick in meno di un'ora senza richiedere strumentazione elaborata.
+Italian:
+
+English: For example, Shu Feng Jie Du capsules and Lian Hua Qing Wen capsules were found to be effective for COVID-19 treatment.
+Italian: Per esempio, è stato riscontrato che le capsule Shu Feng Jie Du e le capsule di Lian Hua Qing Wen sono efficaci per il trattamento del COVID-19.
+English: Use of steroids: As described above, steroids are immunosuppressant commonly used as an adjunctive therapy for infectious diseases to reduce the severity of inflammatory damage.
+Italian: Uso di steroidi: Come descritto in precedenza, gli steroidi sono immunosoppressori comunemente usati come terapia aggiuntiva per le malattie infettive al fine di ridurre la gravità dei danni infiammatori.
+English: These therapies include current and potential treatments with antiviral drugs, immunosuppressants, steroids, plasma from recovered patients, Chinese medicine, and psychological support.
+MT: Queste terapie includono trattamenti attuali e potenziali con farmaci antivirali, immunosoppressori, steroidi, plasma di pazienti guariti, medicina cinese e sostegno psicologico.
+Italian:
+
+English: Human ACE2 was found to be a receptor for SARS-CoV-2 as well as SARS-CoV.
+Italian: È stato riscontrato che l’ACE2 umano è un recettore per il SARS-CoV-2, così come per il SARS-CoV.
+English: However, the S protein of SARS-CoV-2 binds to human ACE2 more weakly than that of SARS-CoV, which is coincident with the fact that SARS-CoV-2 causes less severe infection in patients than SARS-CoV.
+Italian: Tuttavia, la proteina S del SARS-CoV-2 si lega all’ACE2 umano più debolmente del SARS-CoV, il che coincide con il fatto che il SARS-CoV-2 causi infezioni meno gravi nei pazienti rispetto al SARS-CoV.
+English: SARS-CoV-2 mainly attacks the lungs in the beginning and probably also attacks, to a lesser degree, other organs that express ACE2, such as the gastrointestinal system and the kidneys.
+MT: Il SARS-CoV-2 attacca principalmente i polmoni all'inizio e probabilmente attacca, in misura minore, altri organi che esprimono ACE2, come l'apparato gastrointestinale e i reni.
+Italian:
+
+English: Thus, respiratory support is critical to relieve the symptoms and save lives and includes general oxygen therapy, high-flow oxygen, noninvasive ventilation, and invasive mechanical ventilation depending on the severity of the disease.
+Italian: Il supporto respiratorio è dunque cruciale per alleviare i sintomi e salvare vite, e include l’ossigenoterapia generale, l’ossigeno ad alto flusso , la ventilazione non invasiva e la ventilazione invasiva meccanica a seconda della gravità della malattia.
+English: Nevertheless, respiratory dysfunction and failure are the major threat to the patients and the major cause of death.
+Italian: Ciononostante, la disfunzione e l’insufficienza respiratoria rappresentano la minaccia e la causa di morte principale per i pazienti.
+English: Patients with severe respiratory symptoms have to be supported by extracorporeal membrane oxygenation (ECMO), a modified cardiopulmonary bypass technique used for the treatment of life-threatening cardiac or respiratory failure.
+MT: I pazienti con sintomi respiratori gravi devono essere supportati dall'ossigenazione con membrana esterna (ECMO), una tecnica di bypass cardiopolmonare modificata utilizzata per il trattamento di insufficienza cardiaca o respiratoria potenzialmente letale.
+Italian:
+
+English: Other immunosuppression treatments for cytokine storm include the modulation of T cell-directed immune response; the blockade of IFN-γ, IL-1, and TNF; JAK inhibition ; blinatumomab ; suppressor of cytokine signaling 4 ; and HDAC inhibitors.
+Italian: Altri trattamenti immunosoppressivi per le tempeste di citochine comprendono la modulazione della risposta immunitaria diretta dai linfociti T, il blocco di IFN-γ, IL-1, eTNF; l’inibizione di JAK ; il blintumoab ; i soppressori della segnalazione di citochine 4 ; e gli inibitori di HDAC.
+English: Immunosuppression is essential in the treatment of cytokine storms, especially in severe patients.
+Italian: L’immunosoppressione è essenziale nel trattamento delle tempeste di citochine, specialmente nei pazienti gravi.
+English: Cytokine storm is a form of systemic inflammatory response featured by the release of a series of cytokines including TNFα, IL-1β, IL-2, IL-6, IFNα, IFNβ, IFNγ, and MCP-1.
+MT: La tempesta di citochine è una forma di risposta infiammatoria sistemica caratterizzata dalla rilascio di una serie di citochine, tra cui TNFα, IL-1β, IL-2, IL-6, IFNα, IFNβ, IFNγ e MCP-1.
+Italian:
+
+English: Other immunosuppression treatments for cytokine storm include the modulation of T cell-directed immune response; the blockade of IFN-γ, IL-1, and TNF; JAK inhibition ; blinatumomab ; suppressor of cytokine signaling 4 ; and HDAC inhibitors.
+Italian: Altri trattamenti immunosoppressivi per le tempeste di citochine comprendono la modulazione della risposta immunitaria diretta dai linfociti T, il blocco di IFN-γ, IL-1, eTNF; l’inibizione di JAK ; il blintumoab ; i soppressori della segnalazione di citochine 4 ; e gli inibitori di HDAC.
+English: Immunosuppression is essential in the treatment of cytokine storms, especially in severe patients.
+Italian: L’immunosoppressione è essenziale nel trattamento delle tempeste di citochine, specialmente nei pazienti gravi.
+English: Corticosteroids and tocilizumab, an anti-IL6 monoclonal antibody, have been used to treat cytokine storm.
+MT: I corticosteroidi e il tocilizumab, un anticorpo monoclonale anti-IL6, sono stati utilizzati per trattare la tempesta di citochine.
+Italian:
+
+English: Steroids, as immunosuppressants, were widely used in the treatment of SARS to reduce the severity of inflammatory damage.
+Italian: Gli steroidi, in quanto immunosoppressori, sono stati ampiamente usati nel trattamento della SARS per ridurre la gravità dei danni infiammatori.
+English: Since a high dosage of corticosteroids was widely used in severe SARS patients, many survivors suffered from avascular osteonecrosis with life-long disability and poor life quality.
+Italian: Siccome una dose elevata di corticosteroidi è stata ampiamente usata nei pazienti SARS gravi, molti sopravvissuti hanno sviluppato osteonecrosi avascolare, con disabilità permanenti e scarsa qualità della vita.
+English: However, steroids at high dosages were not beneficial to severe lung injury in SARS and COVID-19 patients.
+MT: Tuttavia, i farmaci cortisonici ad alte dosi non sono stati benefici per i pazienti con gravi lesioni polmonari nella SARS e nel COVID-19.
+Italian:
+
+English: On the other hand, cured patients can be positive for the virus again.
+Italian: D’altro canto, i pazienti curati possono tornare ad essere positivi al virus.
+English: Due to the lack of experience with the novel CoV, physicians can mainly provide supportive care to COVID-19 patients, while attempting a variety of therapies that have been used or proposed before for the treatment of other CoVs such as SARS-CoV and MERS-CoV and other viral diseases (Table 2).
+Italian: Per via della mancanza di esperienza con il nuovo CoV, i medici possono fornire principalmente terapie di supporto ai pazienti COVID-19, mentre provano una serie di terapie che sono state usate o proposte in precedenza per il trattamento di altri CoV come il SARS-CoV e il MERS CoV e altre malattie virali (Tabella 2).
+English: At the time of writing, no effective antiviral therapy has been confirmed.
+MT: Al momento della stesura, non è stata confermata alcuna terapia antivirale efficace.
+Italian:
+
+English: Remdesivir is a novel antiviral drug developed by Gilead initially for the treatment of diseases caused by Ebola and Marlburg viruses.
+Italian: Il remdesivir è un nuovo farmaco antivirale inizialmente sviluppato da Gilead per il trattamento delle malattie provocate dai virus Ebola e di Marlburg.
+English: However, intravenous administration with remdesivir, a nucleotide analog, has been found to be efficacious in an American patient with COVID-19.
+Italian: Tuttavia, l'infusione endovenosa di remdesivir, un analogo nucleotidico, si è rivelata efficace in un paziente americano affetto da COVID-19.
+English: Later, remdesivir also demonstrated possible inhibition of other single stranded RNA viruses including MERS and SARS viruses.
+MT: Successivamente, il remdesivir ha anche dimostrato una possibile inibizione di altri virus a RNA a singola elica, tra cui i virus MERS e SARS.
+Italian:
+
+English: In addition, baricitinb, interferon-α, lopinavir/ritonavir, and ribavirin have been suggested as potential therapies for patients with acute respiratory symptoms.
+Italian: Inoltre, il baricitinb, l’interferone-α, il lopinavir/ritonavir e la ribavirina sono stati suggeriti come potenziali terapie per pazienti con sintomi respiratori acuti.
+English: Fever is often the major and initial symptom of COVID-19, which can be accompanied by no symptom or other symptoms such as dry cough, shortness of breath, muscle ache, dizziness, headache, sore throat, rhinorrhea, chest pain, diarrhea, nausea, and vomiting.
+Italian: La febbre è spesso il sintomo principale e iniziale del COVID-19, che può essere accompagnato da nessun sintomo o da altri sintomi come tosse secca, fiato corto, dolori muscolari, vertigini, mal di testa, mal di gola, rinorrea, dolori al torace, diarrea, nausea e vomito.
+English: Diarrhea, nausea, vomiting, liver damage, and other adverse reactions can occur following combined therapy with lopinavir/ritonavir.
+MT: La diarrea, la nausea, il vomito, i danni al fegato e altre reazioni avverse possono verificarsi in seguito a una terapia combinata con lopinavir/ritonavir.
+Italian:
+
+English: Indeed, recovered patients often have a relatively high level of antibodies against the pathogen in their blood.
+Italian: Di fatti, i pazienti guariti hanno spesso un livello relativamente alto di anticorpi contro il patogeno nel proprio sangue.
+English: On the other hand, cured patients can be positive for the virus again.
+Italian: D’altro canto, i pazienti curati possono tornare ad essere positivi al virus.
+English: The collection of the blood from patients who recovered from a contagious disease to treat other patients suffering from the same disease or to protect healthy individuals from catching the disease has a long history.
+MT: La raccolta del sangue dai pazienti guariti da una malattia contagiosa per trattare altri pazienti affetti dalla stessa malattia o per proteggere le persone sane dal contrarre la malattia ha una lunga storia.
+Italian:
+
+English: Small numbers of COVID-19 patients aged <19 years were reported to be hospitalized or admitted to an ICU (eight).
+Italian: Sono stati riscontrati numeri esigui di pazienti COVID-19 di età < 19 anni ospedalizzati o ricoverati in UTI (otto).
+English: Plasma from recovered patients and antibody generation
+Italian: Plasma proveniente da pazienti guariti e generazione di anticorpi
+English: Based on this, plasma was collected from the blood of a group of patients who recovered from COVID-19 and was injected into 10 seriously ill patients.
+MT: Sulla base di ciò, il plasma è stato prelevato dal sangue di un gruppo di pazienti guariti da COVID-19 e iniettato in 10 pazienti gravemente malati.
+Italian:
+
+English: Even plasma from recovered patients was proposed to be used for treatment.
+Italian: Si è perfino proposto di adoperare, per il trattamento, il plasma di pazienti guariti.
+English: The concentration of antibodies in the blood is usually low, and the demand for the plasma is large to treat critically ill patients.
+Italian: La concentrazione di anticorpi nel sangue è solitamente bassa, e la richiesta del plasma è alta per trattare pazienti in condizioni critiche.
+English: In addition, given the therapeutic effects, some disadvantages associated with the plasma should be considered carefully.
+MT: Inoltre, vista l'efficacia terapeutica, alcuni svantaggi associati al plasma dovrebbero essere considerati con attenzione.
+Italian:
+
+English: This way, we can readily scale up the production of the antibodies.
+Italian: In questo modo, è possibile aumentare gradualmente la produzione degli anticorpi.
+English: Pharmaceutical companies are racing to develop antibodies and vaccines against the virus.
+Italian: Le compagnie farmaceutiche stanno concorrendo per sviluppare anticorpi e vaccini contro il virus.
+English: It is difficult to develop and produce specific antibodies rapidly enough to fight against a global epidemic.
+MT: È difficile sviluppare e produrre anticorpi specifici sufficientemente in fretta per combattere una pandemia globale.
+Italian:
+
+English: Top cure rates in the treatment of COVID-19 patients were observed in several provinces in China that used TCM in 87% of their patients, including Gansu (63.7%), Ningxia (50%), and Hunan (50%), whereas Hubei province, which used TCM in only approximately 30% of its COVID-19 patients, had the lowest cure rate (13%).
+Italian: I migliori tassi di cura nel trattamento dei pazienti COVID-19 sono stati osservati in alcune province in Cina che usavano la MTC sull’87% dei propri pazienti, incluse Gansu (63,7%), Ningxia (50%) e Hunan (50%), mentre la provincia dello Hubei, che usava la MTC solo su circa il 30% dei suoi pazienti COVID-19, aveva il tasso di cura più basso (13%).
+English: On February 18, 2020, Boli Zhang and coworkers published a study to compare western medicine (WM) treatment alone with combined treatment of WM and TCM.
+Italian: Il 18 febbraio 2020, Boli Zang e i suoi colleghi hanno pubblicato uno studio un cui venivano confrontati i trattamenti di sola medicina occidentale (MO) con i trattamenti combinati di MO e MTC.
+English: TCM has been used to treat a variety of diseases in China for thousands of years.
+MT: La medicina tradizionale cinese (TCM) è stata utilizzata per curare una varietà di malattie in Cina per migliaia di anni.
+Italian:
+
+English: Top cure rates in the treatment of COVID-19 patients were observed in several provinces in China that used TCM in 87% of their patients, including Gansu (63.7%), Ningxia (50%), and Hunan (50%), whereas Hubei province, which used TCM in only approximately 30% of its COVID-19 patients, had the lowest cure rate (13%).
+Italian: I migliori tassi di cura nel trattamento dei pazienti COVID-19 sono stati osservati in alcune province in Cina che usavano la MTC sull’87% dei propri pazienti, incluse Gansu (63,7%), Ningxia (50%) e Hunan (50%), mentre la provincia dello Hubei, che usava la MTC solo su circa il 30% dei suoi pazienti COVID-19, aveva il tasso di cura più basso (13%).
+English: Due to the lack of experience with the novel CoV, physicians can mainly provide supportive care to COVID-19 patients, while attempting a variety of therapies that have been used or proposed before for the treatment of other CoVs such as SARS-CoV and MERS-CoV and other viral diseases (Table 2).
+Italian: Per via della mancanza di esperienza con il nuovo CoV, i medici possono fornire principalmente terapie di supporto ai pazienti COVID-19, mentre provano una serie di terapie che sono state usate o proposte in precedenza per il trattamento di altri CoV come il SARS-CoV e il MERS CoV e altre malattie virali (Tabella 2).
+English: Currently, due to the lack of effective and specific therapy for COVID-19, TCM has become one of the major alternative treatments for patients with light to moderate symptoms or for those who have recovered from severe stages.
+MT: Attualmente, a causa della mancanza di una terapia efficace e specifica per la COVID-19, la medicina tradizionale cinese (TCM) è diventata una delle principali terapie alternative per pazienti con sintomi lievi o moderati o per coloro che si sono ripresi da stadi severi.
+Italian:
+
+English: Approximately one third of these patients (2,692, 37.6%), had at least one underlying condition or risk factor.
+Italian: Circa un terzo di questi pazienti (1.692, 37,6%), era affetto almeno da una patologia pregressa o un fattore di rischio.
+English: Data reported to CDC are preliminary and can be updated by health departments over time; critical data elements might be missing at the time of initial report; thus, this analysis is descriptive, and no statistical comparisons could be made.
+Italian: I dati riportati ai CDC sono preliminari e possono essere aggiornati nel tempo dai dipartimenti sanitari; alcuni dati essenziali potrebbero essere assenti al momento della stesura del report iniziale; pertanto, questa analisi è descrittiva, e non è stato possibile effettuare comparazioni statistiche.
+English: However, this is quite a rough comparison as many other impact factors such as the number and severity of the patients should be included in the evaluation.
+MT: Tuttavia, questo è un confronto piuttosto grezzo, poiché molti altri fattori di impatto come il numero e la gravità dei pazienti dovrebbero essere inclusi nella valutazione.
+Italian:
+
+English: They found that the times needed for body temperature recovery, symptom disappearance, and hospitalization were remarkably shorter in the WM+TCM group than in the WM only group.
+Italian: Hanno riscontrato che i tempi necessari per l'abbassamento della temperatura corporea, la sparizione dei sintomi e l’ospedalizzazione erano considerevolmente più brevi nel gruppo MO+MTC che nel gruppo con solo MO.
+English: On February 18, 2020, Boli Zhang and coworkers published a study to compare western medicine (WM) treatment alone with combined treatment of WM and TCM.
+Italian: Il 18 febbraio 2020, Boli Zang e i suoi colleghi hanno pubblicato uno studio un cui venivano confrontati i trattamenti di sola medicina occidentale (MO) con i trattamenti combinati di MO e MTC.
+English: Most impressively, the rate for symptomatic worsening (from light to severe) was remarkably lower for the WM+TCM group than for the WM only group (7.4% versus 46.2%) and the mortality was lower in the WM+TCM group than WM only group (8.8% versus 39%).
+MT: In modo particolarmente impressionante, il tasso di peggioramento dei sintomi (da lievi a gravi) era notevolmente più basso nel gruppo WM+TCM rispetto al gruppo WM solo (7,4% contro 46,2%) e la mortalità era inferiore nel gruppo WM+TCM rispetto al gruppo WM solo (8,8% contro 39%).
+Italian:
+
+English: Mental stress: As described above, during the COVID-19 outbreak many patients have suffered from extraordinary stress as they often endured long periods of quarantine and extreme uncertainty and witnessed the death of close family members and fellow patients.
+Italian: Stress mentale: Come descritto in precedenza, durante l’epidemia di COVID-19 molti pazienti hanno subito uno stress straordinario, hanno vissuto lunghi periodi di quarantena ed estrema incertezza, e hanno assistito alla morte di parenti stretti e altri pazienti.
+English: The estimated higher prevalence of these conditions among those in this early group of U.S. COVID-19 patients and the potentially higher risk for more severe disease from COVID-19 associated with the presence of underlying conditions highlight the importance of COVID-19 prevention in persons with underlying conditions.
+Italian: La maggiore prevalenza stimata di queste patologie tra coloro che compongono questo gruppo iniziale di pazienti COVID-19 negli Stati Uniti e il maggiore rischio di sviluppare forme più gravi di COVID-19 associate alla presenza di patologie pregresse pone in risalto l’importanza della prevenzione del COVID-19 nelle persone affette da patologie pregresse.
+English: Patients with suspected or confirmed COVID-19 mostly experience great fear of the highly contagious and even fatal disease, and quarantined people also experience boredom, loneliness, and anger.
+MT: I pazienti con sospetto o conferma di COVID-19 sperimentano in genere una grande paura della malattia altamente contagiosa e persino fatale, e le persone in quarantena sperimentano anche noia, solitudine e rabbia.
+Italian:
+
+English: Mental stress: As described above, during the COVID-19 outbreak many patients have suffered from extraordinary stress as they often endured long periods of quarantine and extreme uncertainty and witnessed the death of close family members and fellow patients.
+Italian: Stress mentale: Come descritto in precedenza, durante l’epidemia di COVID-19 molti pazienti hanno subito uno stress straordinario, hanno vissuto lunghi periodi di quarantena ed estrema incertezza, e hanno assistito alla morte di parenti stretti e altri pazienti.
+English: It is very important for health authorities to adjust the effective quarantine time based on the most accurate incubation period, thus preventing infected but symptomless people from transmitting the virus to others.
+Italian: È molto importante che le autorità sanitarie calibrino il periodo di quarantena effettivo sulla base del periodo di incubazione più accurato, impedendo così alle persone infette ma asintomatiche dal trasmettere il virus ad altri.
+English: Mandatory contact tracing and quarantine, as a part of the public health responses to the COVID-19 outbreak, can make people more anxious and guilty about the effects of the contagion, quarantine, and stigma on their families and friends.
+MT: La ricerca dei contatti obbligatoria e la quarantena, come parte delle risposte di salute pubblica all'epidemia di COVID-19, possono rendere le persone più ansiose e colpevoli riguardo agli effetti della contagione, della quarantena e dello stigma sulle loro famiglie e amici.
+Italian:
+
+English: These actions are effective methods to lower the risk of infection as well as prevent the spread of the virus.
+Italian: Queste azioni sono metodi efficaci per diminuire il rischio di infezione ed impedire la diffusione del virus.
+English: However, what intermediate host helped the virus cross the species barrier to infect humans remains unknown, and the transmission route is yet to be elucidated.
+Italian: Tuttavia, resta da chiarire quale ospite intermedio abbia aiutato il virus ad attraversare la barriera di specie per infettare gli umani, e la via di trasmissione.
+English: Effective vaccines are essential for interrupting the chain of transmission from animal reservoirs and infected humans to susceptible hosts and are often complementary to antiviral treatment in the control of epidemics caused by emerging viruses.
+MT: I vaccini efficaci sono essenziali per interrompere la catena di trasmissione dai serbatoi animali e dagli esseri umani infetti agli ospiti suscettibili e sono spesso complementari al trattamento antivirale nel controllo delle epidemie causate da virus emergenti.
+Italian:
+
+English: However, it is challenging to overcome the difficulty because of the long period of time (averaged 18 months) needed for vaccine development and the dynamic variations of CoVs.
+Italian: Tuttavia, è difficile superare questa difficoltà a causa del lungo periodo di tempo (18 mesi in media) necessario per lo sviluppo di un vaccino e delle variazioni dinamiche dei CoV.
+English: Live-attenuated vaccines have been evaluated in animal models for SARS.
+Italian: Sono stati valutati vaccini vivi attenuati in modelli animali per la SARS.
+English: However, the in vivo efficacy of these vaccine candidates in elderly individuals and lethal-challenge models and their protection against zoonotic virus infection have yet to be determined before a clinical study is initiated.
+MT: Tuttavia, l'efficacia in vivo di questi candidati vaccini negli individui anziani e nei modelli di sfida letale e la loro protezione contro l'infezione da virus zoonotico devono ancora essere determinate prima che sia avviato uno studio clinico.
+Italian:
+
+English: Efforts have been made to develop S protein-based vaccines to generate long-term and potent neutralizing antibodies and/or protective immunity against SARS-CoV.
+Italian: Sono stati effettuati degli sforzi per sviluppare dei vaccini basati sulla proteina S per generare potenti anticorpi neutralizzanti e a lungo termine e/o immunità protettiva contro il SARS-CoV.
+English: What animal was the intermediate species to transmit the virus from the original host, say bats, to humans?
+Italian: Quale animale è stata la specie intermedia che ha trasmesso il virus dall’ospite originario, supponiamo i pipistrelli, agli esseri umani?
+English: Vaccination strategies have been developed for MERS by using inactivated virus, DNA plasmids, viral vectors, nanoparticles, virus-like particles and recombinant protein subunits and some have been evaluated in animal models.
+MT: Sono state sviluppate strategie di vaccinazione per la MERS utilizzando virus inattivati, plasmidi di DNA, vettori virali, nanoparticelle, particelle simili a virus e sottounità proteiche ricombinanti e alcune sono state valutate in modelli animali.
+Italian:
+
+English: As of March 2, 2020, the virus has resulted in over 80,000 confirmed cases of COVID-19, with more than 40,000 patients discharged and over 3,000 patients who died.
+Italian: Al 2 marzo 2020, il virus ha provocato oltre 80.000 casi confermati di COVID-19, con più di 40.000 pazienti dimessi e 3.000 deceduti.
+English: On February 11, 2020, a multi-center study on 8,866 patients including 4,021 confirmed COVID-19 patients presented a more updated illustration of the epidemic as follows (https://mp.weixin.qq.com/s/ UlBi-HX_rHPXa1qHA2bhdA).
+Italian: L’11 febbraio 2020, uno studio multicentrico su 8.866 pazienti che ha compreso 4,021 pazienti COVID-19 confermati, presentava la seguente illustrazione più aggiornata dell’epidemia (https://mp.weixin.qq.com/UlBi-HX_rHPXa1qHA2bhdA).
+English: As a novel disease, COVID-19 has just started to manifest its full clinical course throughout thousands of patients.
+MT: Come una malattia nuova, la COVID-19 ha appena iniziato a manifestare il suo completo corso clinico attraverso migliaia di pazienti.
+Italian:
+
+English: This is especially important for those who work with persons with underlying conditions or who otherwise are at high risk for severe outcomes from COVID-19.
+Italian: Ciò è particolarmente importante per chi lavora con persone affette da patologie pregresse o chi è comunque ad alto rischio di complicanze gravi da COVID-19.
+English: CDC continues to develop and update resources for persons with underlyinghealth conditions to reduce the risk of acquiring COVID-19.
+Italian: I CDC continueranno a sviluppare e aggiornare risorse per le persone con patologie pregresse per ridurre il rischio di contagio da COVID-19.
+English: Therefore, building a prognosis model for the disease is essential for health-care agencies to prioritize their services, especially in resource-constrained areas.
+MT: Pertanto, creare un modello di prognosi per la malattia è essenziale per gli enti sanitari per dare priorità ai loro servizi, soprattutto in aree con risorse limitate.
+Italian:
+
+English: As of March 2, 2020, the virus has resulted in over 80,000 confirmed cases of COVID-19, with more than 40,000 patients discharged and over 3,000 patients who died.
+Italian: Al 2 marzo 2020, il virus ha provocato oltre 80.000 casi confermati di COVID-19, con più di 40.000 pazienti dimessi e 3.000 deceduti.
+English: Small numbers of COVID-19 patients aged <19 years were reported to be hospitalized or admitted to an ICU (eight).
+Italian: Sono stati riscontrati numeri esigui di pazienti COVID-19 di età < 19 anni ospedalizzati o ricoverati in UTI (otto).
+English: COVID-19 mainly happened at the age of 30-65 with 47.7% of those patients being over 50 in a study of 8,866 cases as described above.
+MT: La COVID-19 si è verificata principalmente tra i 30 e 65 anni con il 47,7% dei pazienti sopra i 50 in uno studio di 8.866 casi come descritto sopra.
+Italian:
+
+English: Patients who required intensive care were more likely to have underlying comorbidities and complications and were significantly older than those who did not (at the median age of 66 versus 51) , suggesting age as a prognostic factor for the outcome of COVID-19 patients.
+Italian: I pazienti che necessitavano cure intensive avevano più probabilità di presentare comorbilità pregresse e complicanze, ed erano sensibilmente più anziani di chi non ne aveva (all’età mediana di 66 anni contro 51) , il che suggerisce che l’età sia un fattore pronostico per l’esito dei pazienti COVID-19.
+English: The percentage of COVID-19 patients with at least one underlying health condition or risk factor was higher among those requiring intensive care unit (ICU) admission (358 of 457, 78%) and those requiring hospitalization without ICU admission (732 of 1,037, 71%) than that among those who were not hospitalized (1,388 of 5,143, 27%).
+Italian: La percentuale di pazienti COVID-19 con almeno una patologia pregressa o un fattore di rischio era più alta tra quelli che necessitavano il ricovero in unità di terapia intensiva (UTI -358 su 457, 78%) e coloro che necessitavano l’ospedalizzazione senza ricovero in UTI (732 su 1.037, 71%) rispetto ai pazienti non ospedalizzati (1.388 su 5.143, 27%).
+English: Comorbidities and complications: Patients with COVID-19 who require intensive care are more likely to suffer from acute cardiac injury and arrhythmia.
+MT: Comorbidità e complicazioni: i pazienti con COVID-19 che richiedono cure intensive sono più suscettibili a subire un danno cardiaco acuto e aritmia.
+Italian:
+
+English: COVID-19 affects more elderly individuals than youth and more men than women, and the severity and death rate are also higher in elderly individual than in youth.
+Italian: Il COVID-19 colpisce più gli anziani che i giovani e più gli uomini che le donne, e anche la gravità e il tasso di mortalità sono più alte negli anziani che nei giovani.
+English: U.S. older adults, including those aged ≥65 years and particularly those aged ≥85 years, also appear to be at higher risk for severe COVID-19–associated outcomes; however, data describing underlying health conditions among U.S. COVID-19 patients have not yet been reported."
+Italian: Anche gli adulti anziani statunitensi, inclusi quelli di età ≥65 anni e in particolare quelli di età ≥85 anni sembrano essere a maggior rischio di complicanze gravi associate al COVID-19; tuttavia, non sono ancora stati riportati dati che descrivano le patologie pregresse nei pazienti COVID-19 negli Stati Uniti.
+English: It is worth noting that age and underlying disease are strongly correlated and might interfere with each other.
+MT: È importante notare che l'età e la malattia sottostante sono fortemente correlate e potrebbero interferire l'una con l'altra.
+Italian:
+
+English: Abnormal laboratory findings: The C-reactive protein (CRP) level in blood reflects the severity of inflammation or tissue injury and has been proposed to be a potential prognostic factor for disease, response to therapy, and ultimate recovery.
+Italian: Risultati di laboratorio anomali: Il livello di proteina C reattiva (CRP) nel sangue riflette la gravità dell’infiammazione o dei danni ai tessuti ed è stato proposto come potenziale fattore di prognosi per la malattia, la risposta alla terapia e la guarigione finale.
+English: These enzymes are expressed extensively in multiple organs, especially in the heart and liver, and are released during tissue damage.
+Italian: Questi enzimi sono espressi estensivamente in diversi organi, in particolare nel cuore e nel fegato, e vengono rilasciati quando i tessuti vengono danneggiati.
+English: In addition, elevated lactate dehydrogenase (LDH), aspartate aminotransferase (AST), alanine aminotransferase (ALT), and creatine kinase (CK) may also help predict the outcome.
+MT: Inoltre, un aumento della lattato deidrogenasi (LDH), aspartato aminotransferasi (AST), alanina aminotransferasi (ALT) e creatina chinasi (CK) potrebbe anche aiutare a predire l'esito.
+Italian:
+
+English: Abnormalities in chest radiography are found in most COVID-19 patients and featured by bilateral patchy shadows or ground glass opacity in the lungs.
+Italian: Nella maggior parte dei pazienti COVID-19 si riscontrano anomalie nella radiografia toracica, caratterizzate da ombre irregolari o da opacità a vetro smerigliato bilaterali nei polmoni.
+English: Among 122,653 U.S. COVID-19 cases reported to CDC as of March 28, 2020, 7,162 (5.8%) patients had data available pertaining to underlying health conditions or potential risk factors; among these patients, higher percentages of patients with underlying conditions were admitted to the hospital and to an ICU than patients without reported underlying conditions.
+Italian: Sui 122.653 casi di COVID-19 negli Stati Uniti segnalati ai CDC al 28 marzo 2020, 7.162 (5,8%) pazienti avevano dati disponibili relativi a patologie pregresse o potenziali fattori di rischio; tra questi pazienti, una percentuale più alta di quelli affetti da patologie pregresse è stata ammessa in ospedale e in una UTI rispetto ai pazienti privi di patologie pregresse segnalate.
+English: Major clinical symptoms: Chest radiography and temporal progression of clinical symptoms should be considered together with the other issues for the prediction of outcomes and complications of COVID-19.
+MT: Sintomi clinici principali: la radiografia del torace e la progressione temporale dei sintomi clinici dovrebbero essere considerate insieme ad altre questioni per la previsione degli esiti e delle complicazioni della COVID-19.
+Italian:
+
+English: Nevertheless, short courses of corticosteroids at low-to-moderate doses have been recommended to be used prudently for critically ill COVID-19 patients.
+Italian: Ciononostante, è stato raccomandato l’uso prudente di brevi cicli di corticosteroidi in dosi da basse a moderate per i pazienti COVID-19 in condizioni critiche.
+English: Use of steroids: As described above, steroids are immunosuppressant commonly used as an adjunctive therapy for infectious diseases to reduce the severity of inflammatory damage.
+Italian: Uso di steroidi: Come descritto in precedenza, gli steroidi sono immunosoppressori comunemente usati come terapia aggiuntiva per le malattie infettive al fine di ridurre la gravità dei danni infiammatori.
+English: Thus, if needed, steroids should be used at low dosage and for a short time in COVID-19 patients.
+MT: Pertanto, se necessario, gli steroidi dovrebbero essere utilizzati in dose bassa e per un breve periodo nei pazienti con COVID-19.
+Italian:
+
+English: Age: Age was the most important factor for the prognosis of SARS , which is also true for COVID-19.
+Italian: Età: L'età era il fattore più importante per la prognosi della SARS , il che è anche vero per il COVID-19.
+English: SARS has higher mortality than COVID-19 (10.91% versus 1.44%).
+Italian: La SARS ha una mortalità più alta del COVID-19 (10,91% contro 1,44%).
+English: According to demographic studies so far, COVID-19 seems to have different epidemiological features from SARS.
+MT: Secondo gli studi demografici fino ad ora, la COVID-19 sembra avere caratteristiche epidemiologiche diverse dal SARS.
+Italian:
+
+English: A comparison of SARS-CoV-2 with MERS-CoV and SARS-CoV regarding their symptoms, mortality, and R0 is presented in Table 1.
+Italian: Un confronto tra SARS-CoV-2, MERS-CoV e SARS-CoV rispetto ai loro sintomi, alla mortalità e all’R0 è presentato nella Tabella 1.
+English: COVID-19 patients transmit the virus even when they are symptomless whereas SARS patients do so usually when they are severely ill, which causes much greater difficulty to contain the spread of COVID-19 than SARS.
+Italian: I pazienti COVID-19 trasmettono il virus anche quando asintomatici, mentre i pazienti SARS lo fanno solo se gravemente malati, il che provoca una maggiore difficoltà ad arginare la diffusione del COVID-19 rispetto a quella della SARS.
+English: However, the transmission of SARS-CoV was considered to occur when the patients are severely ill, while most transmission did not happen at the early phase.
+MT: Tuttavia, la trasmissione del SARS-CoV era considerata come un evento che si verificava quando i pazienti erano gravemente malati, mentre la maggior parte delle trasmissioni non si verificava nella fase iniziale.
+Italian:
+
+English: As the situation is rapidly evolving, the final scope and severity of the outbreak remain to be determined.
+Italian: Siccome la situazione è in rapida evoluzione, la portata e la gravità dell’epidemia sono ancora da stabilire.
+English: Meanwhile, the epidemic rapidly spread to the neighboring cities, provinces, and countries.
+Italian: Nel frattempo, l’epidemia si è diffusa rapidamente nelle città, nelle province e nei Paesi confinanti.
+English: Although these actions have been dramatically damaging the economy and other sectors of the country, the number of new patients is declining, indicating the slowdown of the epidemic.
+MT: Anche se queste azioni hanno avuto un impatto devastante sull'economia e altri settori del paese, il numero di nuovi pazienti è in diminuzione, indicando una riduzione della velocità dell'epidemia.
+Italian:
+
+English: The outbreak of COVID-19 caused by the novel virus SARS-CoV-2 started in the end of December 2019.
+Italian: L’epidemia di COVID-19 provocata dal nuovo coronavirus SARS-CoV-2 ha avuto inizio alla fine del dicembre 2019.
+English: A comparison of the epidemic of COVID-19 with that of SARS and MERS is provided below (Fig. 5).
+Italian: Di seguito è riportato un confronto dell’epidemia di COVID-19 con quella di SARS e MERS (Fig. 5).
+English: Paul Hunter, et al., estimated that COVID-19, which seems substantially more infectious than SARS, will not end in 2020.
+MT: Paul Hunter e altri hanno stimato che la COVID-19, che sembra essere sostanzialmente più infettiva del SARS, non si concluderà nel 2020.
+Italian:
+
+English: In less than two months, it has spread all over China and near 50 other countries globally at the time of this writing.
+Italian: In meno di due mesi, si è diffusa in tutta la Cina e quasi altri 50 Paesi a livello globale al momento della stesura di questo articolo.
+English: The disease control agencies in China may take this hard lesson and make critical improvements in the future.
+Italian: Le agenzie per il controllo delle malattie in Cina dovrebbero apprendere questa dura lezione e adottare miglioramenti decisivi in futuro.
+English: However, promising signs have occurred in China based on the declining number of new cases, indicating the current strategies might have been working.
+MT: Tuttavia, segnali promettenti si sono verificati in Cina sulla base della diminuzione del numero di nuovi casi, indicando che le strategie attuali potrebbero aver funzionato.
+Italian:
+
+English: The entire human population generally lacks immunity to SARS-CoV-2 and hence is susceptible to the novel virus.
+Italian: In generale, l’intera popolazione umana è priva di immunità al SARS-CoV-2, ed è quindi suscettibile al nuovo virus.
+English: SARS-CoV-2 may possess similar properties.
+Italian: Il SARS-CoV-2 potrebbe possedere proprietà simili.
+English: It is possible, similar to SARS-CoV, that SARS-CoV-2 might become weaker in infectivity and eventually die down or become a less pathogenic virus co-existent with humans.
+MT: È possibile, simile a quanto accaduto con il SARS-CoV, che il SARS-CoV-2 possa diventare meno infettivo e alla fine diminuire o diventare un virus meno patogeno co-esistente con gli esseri umani.
+Italian:
+
+English: However, what intermediate host helped the virus cross the species barrier to infect humans remains unknown, and the transmission route is yet to be elucidated.
+Italian: Tuttavia, resta da chiarire quale ospite intermedio abbia aiutato il virus ad attraversare la barriera di specie per infettare gli umani, e la via di trasmissione.
+English: These findings dramatically increase the risk of virus spreading.
+Italian: Questi risultati aumentano sensibilmente il rischio di diffusione del virus.
+English: The virus was also found in feces, which raises a new possibility of feces-to-mouth transmission.
+MT: Il virus è stato anche trovato nelle feci, il che solleva una nuova possibilità di trasmissione da feci a bocca.
+Italian:
