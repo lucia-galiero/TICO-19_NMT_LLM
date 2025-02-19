@@ -1,0 +1,339 @@
+Stime Preliminari sulla Prevalenza di Patologie Pregresse Selezionate tra Pazienti affetti da Malattia da Coronavirus 2019 — Stati Uniti, 12 febbraio -— 28 marzo 2020
+L’11 marzo 2020 l’Organizzazione Mondiale della Sanità ha dichiarato la malattia da Coronavirus 2019 (COVID-19) una pandemia.
+Al 28 marzo 2020, sono stati registrati un totale di 571.678 casi confermati di COVID-19 e 26.494 decessi in tutto il mondo.
+I report dalla Cina e dall’Italia suggeriscono che i fattori di rischio di malattia grave includono l’età avanzata e la presenza di almeno una tra alcune patologie pregresse.
+Anche gli adulti anziani statunitensi, inclusi quelli di età ≥65 anni e in particolare quelli di età ≥85 anni sembrano essere a maggior rischio di complicanze gravi associate al COVID-19; tuttavia, non sono ancora stati riportati dati che descrivano le patologie pregresse nei pazienti COVID-19 negli Stati Uniti.
+Al 28 marzo 2020, gli stati federati e i territori degli Stati Uniti hanno segnalato ai CDC 122.653 casi di COVID-19 negli Stati Uniti, compresi 7.162 (5,8%) per i quali erano riportati i dati su patologie pregresse e altri fattori di rischio noti per complicanze gravi da infezioni respiratorie.
+Di questi 7.162 casi, 2.692 (37,6%) pazienti erano affetti da una o più patologie pregresse o fattori di rischio, e 4.470 (62,4%) non presentavano alcuna condizione tra quelle segnalate.
+La percentuale di pazienti COVID-19 con almeno una patologia pregressa o un fattore di rischio era più alta tra quelli che necessitavano il ricovero in unità di terapia intensiva (UTI -358 su 457, 78%) e coloro che necessitavano l’ospedalizzazione senza ricovero in UTI (732 su 1.037, 71%) rispetto ai pazienti non ospedalizzati (1.388 su 5.143, 27%).
+Le patologie segnalate più comunemente erano diabete mellito, malattie polmonari croniche e malattie cardiovascolari.
+Questi risultati preliminari suggeriscono che, negli Stati Uniti, le persone con patologie pregresse o altri fattori di rischio riconosciuti per complicanze gravi da infezioni respiratorie presentino un maggiore rischio di malattia grave da COVID-19 rispetto alle persone senza queste patologie.
+Sono stati analizzati i dati provenienti da casi di COVID-19 confermati in laboratorio segnalati ai CDC da 50 stati, quattro territori e isole affiliate degli Stati Uniti, il District of Columbia e New York, aventi come data di insorgenza il periodo 12 febbraio - 28 marzo 2020.
+Sono stati esclusi i casi di persone rimpatriate negli Stati Uniti da Wuhan o dalla nave da crociera Diamond Princess.
+Quanto ai casi con dati mancanti sull’insorgenza, la data dell’insorgenza è stata stimata sottraendo 4 giorni (intervallo mediano tra l’insorgenza dei sintomi e la data di raccolta dei campioni tra i casi con date note in questi dati) dalla prima raccolta di campioni.
+I dipartimenti sanitari pubblici hanno segnalato i casi ai CDC utilizzando un modulo di segnalazione standardizzato che rilevasse l’informazione (sì, no, o sconosciuto) sulle seguenti patologie e sui potenziali fattori di rischio: malattie polmonari croniche (includenti asma, broncopneumopatia cronica ostruttiva  ed enfisema); diabete mellito, malattie cardiovascolari, malattie renali croniche, malattie epatiche croniche, condizione di immunodeficienza, disturbi neurologici, disturbi del neurosviluppo o disabilità intellettive; gravidanza, stato di fumatore attuale, stato di ex-fumatore e altre patologie croniche.
+I dati riportati ai CDC sono preliminari e possono essere aggiornati nel tempo dai dipartimenti sanitari; alcuni dati essenziali potrebbero essere assenti al momento della stesura del report iniziale; pertanto, questa analisi è descrittiva, e non è stato possibile effettuare comparazioni statistiche.
+Sono state calcolate le percentuali dei pazienti di tutte le età con patologie pregresse che non sono stati ospedalizzati, che sono stati ospedalizzati senza ammissione in UTI, e che sono stati ospedalizzati con ammissione in UTI.
+Sono state stimate le percentuali delle ospedalizzazioni con e senza ricovero in UTI per le persone di età ≥19 anni con e senza patologie pregresse.
+Questa parte dell’analisi è stata limitata alle persone di età ≥19 anni per via della ridotta dimensione del campione dei casi in bambini con patologie pregresse segnalate (N = 32).
+Per tenere conto dei dati mancanti in questi report preliminari, gli intervalli sono stati stimati con un limite inferiore comprendente come denominatore i casi sia con stato conosciuto che sconosciuto sull’ospedalizzazione con e senza ricovero in UTI, e un limite superiore che utilizzava come denominatore solo i casi con stato dell’esito conosciuto.
+A causa della dimensione ridotta del campione e dei dati mancanti sulle patologie pregresse tra i pazienti COVID-19 deceduti, il tasso di letalità per le persone con e senza patologie pregresse non è stato stimato.
+Al 28 marzo 2020 sono stati segnalati ai CDC un totale di 122.653 casi di COVID-19 confermati in laboratorio, e 2.112 decessi.
+Sono stati consegnati ai CDC moduli di segnalazione per 74.439 (60,7%) casi.
+I dati sulla presenza o sull’assenza di patologie pregresse e altri fattori di rischio riconosciuti per complicanze gravi da infezioni respiratorie (ossia fumo e gravidanza) erano disponibili per 7.162 (5,8%) pazienti (Tabella 1).
+Circa un terzo di questi pazienti (1.692, 37,6%), era affetto almeno da una patologia pregressa o un fattore di rischio.
+Il diabete mellito (784, 10,9%), malattie polmonari croniche (656, 9,2%), e malattie cardiovascolari (647, 9,0%) erano le patologie segnalate più spesso tra tutti i casi.
+Delle 457 ammissioni in UTI e delle 1.037 ospedalizzazioni non UTI, rispettivamente 358 (78%) e 732 (71%) hanno riguardato soggetti con una o più patologie pregresse segnalate.
+Al contrario, è stato riscontrato che 1.388 su 5.143 (27%) pazienti COVID-19 non ospedalizzati avessero almeno una patologia pregressa.
+Tra i pazienti di età ≥19 anni, la percentuale di ospedalizzazioni senza ricovero in UTI era più alta tra le persone affette da patologie pregresse (27,3% - 29,8%) che tra quelle che ne erano prive (7,2% - 7,8%); anche la percentuale di casi che hanno portato a ricovero in UTI era più alta per le persone con patologie pregresse (13,3% - 14,5%) che per quelle che non ne presentavano (2,2% - 2,4%) (Tabella 2).
+Sono stati riscontrati numeri esigui di pazienti COVID-19 di età < 19 anni ospedalizzati o ricoverati in UTI (otto).
+Per contro, 335 pazienti di età < 19 anni non sono stati ospedalizzati e 1.342 non avevano dati sull’ospedalizzazione.
+Tra tutti i pazienti COVID-19 con informazioni complete sulle patologie pregresse o sui fattori di rischio, si sono verificati 184 decessi (tutti tra pazienti di età ≥19 anni); 173 di questi (94%) sono stati registrati tra pazienti con almeno una condizione pregressa.
+Sui 122.653 casi di COVID-19 negli Stati Uniti segnalati ai CDC al 28 marzo 2020, 7.162 (5,8%) pazienti avevano dati disponibili relativi a patologie pregresse o potenziali fattori di rischio; tra questi pazienti, una percentuale più alta di quelli affetti da patologie pregresse è stata ammessa in ospedale e in una UTI rispetto ai pazienti privi di patologie pregresse segnalate.
+Tali risultati sono in linea con quelli riscontrati in Cina e in Italia, che suggeriscono che i pazienti affetti da patologie pregresse e fattori di rischio, inclusi (ma non limitati a) diabete mellito, ipertensione, BPCO, coronaropatia, malattie cerebrovascolari, malattie renali croniche e fumo, siano a maggior rischio di malattia grave o decesso da COVID-19.
+Questa analisi è stata limitata da numeri esigui e dati mancanti a causa dell’onere imposto ai dipartimenti sanitari di segnalare i numeri di casi in rapido aumento, e i risultati potrebbero cambiare quando saranno disponibili ulteriori dati.
+Non è ancora noto se la gravità o il livello di controllo delle patologie pregresse influisca sul rischio di malattia grave associata al COVID-19.
+Molte di queste patologie pregresse sono diffuse negli Stati Uniti: stando ai dati auto-riferiti del 2018, la prevalenza del diabete diagnosticato negli adulti negli Stati Uniti era del 10,1%, e la prevalenza aggiustata per età per tutti i tipi di malattia cardiaca (eccetto l’ipertensione in assenza di altre malattie cardiache) era del 10,6% nel 2017.
+La prevalenza della BPCO negli adulti negli Stati Uniti era del 5,9%, e nel 2018 la prevalenza stimata dell’asma corrente tra le persone di tutte le età era del 7,9%.
+I CDC continueranno a sviluppare e aggiornare risorse per le persone con patologie pregresse per ridurre il rischio di contagio da COVID-19.
+La maggiore prevalenza stimata di queste patologie tra coloro che compongono questo gruppo iniziale di pazienti COVID-19 negli Stati Uniti e il maggiore rischio di sviluppare forme più gravi di COVID-19 associate alla presenza di patologie pregresse pone in risalto l’importanza della prevenzione del COVID-19 nelle persone affette da patologie pregresse.
+I risultati di questo report sono soggetti almeno a sei limitazioni.
+In primo luogo, questi dati sono preliminari, e l’analisi è stata limitata dalla mancanza di dati dovuta all’onere di segnalazione dei dipartimenti sanitari associato al rapido aumento del conteggio dei casi e ai ritardi nel completamento delle informazioni richiedenti la revisione delle cartelle cliniche; tali risultati potrebbero cambiare quando saranno disponibili ulteriori dati.
+Le informazioni sulle patologie pregresse erano disponibili solo per 7.162 (5,8%) dei 122.653 casi segnalati ai CDC.
+Non si può presumere che i casi con informazioni mancanti siano simili a quelli con dati sulle ospedalizzazioni o sulle patologie pregresse.
+In secondo luogo, questi dati sono soggetti a bias di campionamento per via del breve tempo di follow-up.
+Alcuni risultati potrebbero essere sottostimati, e non è possibile valutare gli esiti clinici a lungo termine in questa analisi.
+In terzo luogo, a causa della disponibilità limitata di test diagnostici in molte giurisdizioni nel periodo considerato, questa analisi è probabilmente orientata a favore dei casi più gravi, e i risultati potrebbero cambiare quando i test diagnostici saranno più diffusi.
+In quarto luogo, per via della natura descrittiva dei dati, non è stato possibile comparare i tassi d’attacco nelle persone affette da e prive di patologie pregresse, e non è stato quindi possibile stimare la differenza di rischio di malattia grave da COVID-19 tra questi gruppi.
+In quinto luogo, non è stato possibile trarre conclusioni sulle patologie pregresse non comprese nei moduli di segnalazione o su patologie differenti che sono state riportate in una singola categoria più ampia.
+Ad esempio, l’asma e la BPCO sono state incluse nella categoria delle malattie polmonari croniche.
+Infine, per alcune patologie pregresse e fattori di rischio, inclusi disturbi neurologici, malattie epatiche croniche, stato di fumatore attuale, e gravidanza, sono state riferite poche complicanze gravi; pertanto non è stato possibile giungere a conclusioni sul rischio di COVID-19 grave tra le persone in questi gruppi.
+Le persone negli Stati Uniti affette da patologie pregresse risultano essere a maggior rischio di forme più gravi di COVID-19, il che è conforme ai risultati provenienti da altri Paesi.
+Le persone con patologie pregresse che presentano sintomi di COVID-19, compresi febbre, tosse o fiato corto, devono contattare il proprio fornitore di assistenza sanitaria.
+Queste persone dovrebbero adottare misure per proteggersi dal COVID-19, lavandosi le mani, pulendo e disinfettando superfici ad alto contatto, e tramite il distanziamento sociale, che comprende rimanere a casa, evitare le folle, gli assembramenti e i viaggi, ed evitare il contatto con persone malate.
+A chi è affetto da patologie pregresse si raccomanda di mantenere una scorta di medicinali per almeno 30 giorni e una scorta di cibo e di altri beni di prima necessità per almeno due settimane, e di restare informati sui sintomi del COVID-19.
+Tutte le persone devono adottare misure per proteggere sé stesse e gli altri dal COVID-19.
+Tutte le persone malate devono restare a casa, tranne che per ricevere cure mediche; non devono recarsi a lavoro; e devono osservare il distanziamento sociale.
+Ciò è particolarmente importante per chi lavora con persone affette da patologie pregresse o chi è comunque ad alto rischio di complicanze gravi da COVID-19.
+Le strategie di attenuazione comunitarie, che mirano a ridurre la diffusione del COVID-19, sono essenziali per proteggere tutte le persone dal COVID-19 affette da patologie pregresse e altre persone a rischio di malattia grave associata al COVID-19 (https://www.cdc.gov/coronavirus/2019-ncov/downloads/community-mitigation-strategy.pdf).
+Cosa si sa già sull’argomento?
+I report pubblicati in Cina e in Italia suggeriscono che i fattori di rischio per malattia grave da COVID-19 comprendono condizioni pregresse, ma non sono stati ancora riportati dati sulle patologie pregresse tra i pazienti COVID-19 negli Stati Uniti.
+Cosa viene aggiunto da questo report?
+Sulla base di dati preliminari provenienti dagli Stati Uniti, le persone affette da patologie pregresse quali diabete mellito, malattie polmonari croniche e malattie cardiovascolari presentano un rischio più alto di una malattia grave associata al COVID-19 rispetto a persone non affette da queste patologie.
+Quali sono le implicazioni per le pratiche di sanità pubblica?
+Le strategie per proteggere tutte le persone, specialmente quelle affette da patologie pregresse, come il distanziamento sociale e il lavarsi le mani, devono essere adottate da tutte le comunità e tutte le persone per contribuire a rallentare la diffusione del COVID-19.
+L’epidemia di malattia da Coronavirus 19 (COVID-19), causata dal coronavirus 2 da sindrome respiratoria acuta grave (SARS-CoV-2), ha causato finora la morte di 3.000 persone e ne ha infettate oltre 80.000 in Cina e in altre parti del mondo, generando una catastrofe per gli esseri umani.
+Simile al suo virus omologo, il SARS-CoV, che provocò la SARS in migliaia di persone nel 2003, il SARS-CoV-2 potrebbe essere trasmesso anch’esso dai pipistrelli e causa sintomi analoghi attraverso un meccanismo analogo.
+Tuttavia, il COVID-19 ha una gravità e una mortalità inferiori rispetto alla SARS, pur essendo molto più trasmissibile, e colpisce più gli anziani che i giovani, e più gli uomini che le donne.
+In risposta al numero crescente di pubblicazioni sulla malattia emergente, questo articolo tenterà di offrire una rassegna puntuale e completa dell’oggetto di ricerca in rapida evoluzione.
+Verranno trattati gli aspetti di base dell’epidemiologia, l’eziologia, la virologia, la diagnosi, il trattamento, la prognosi e la prevenzione della malattia.
+Sebbene molte domande necessitino ancora delle risposte, si spera che questa rassegna possa aiutare a comprendere ed eradicare questa malattia minacciosa.
+La Festa di Primavera del 25 gennaio 2020 è diventata un ricordo indelebile per tutti i cinesi che sono stati esortati a rimanere in casa per tutta la festività e per molte settimane successive, a causa dell’epidemia di una nuova malattia virale.
+Il virus è altamente omologo al coronavirus (CoV) che provocò nel 2003 un’epidemia di sindrome respiratoria acuta grave (SARS); pertanto, l’11 febbraio 2020 è stato denominato SARS-CoV-2 dall’Organizzazione Mondiale della Sanità (OMS), e la malattia ad esso associata è stata chiamata CoV Disease-19 (COVID-19).
+L’epidemia ha avuto inizio a Wuhan, in Cina, e si è diffusa velocemente per l’intero Paese e in altri 50 Paesi in tutto il mondo.
+Al 2 marzo 2020, il virus ha provocato oltre 80.000 casi confermati di COVID-19, con più di 40.000 pazienti dimessi e 3.000 deceduti.
+L’OMS avverte che il COVID-19 è il “pericolo pubblico numero 1” e che è potenzialmente più potente del terrorismo.
+Secondo PubMed (https://www.ncbi.nlm.nih.gov/pubmed/), dal primo report del 7 gennaio 2020 che ha determinato la sequenza del virus isolato da diversi pazienti , in meno di due mesi sono stati pubblicati oltre 200 articoli sul COVID-19 comprendenti la sua virologia, epidemiologia, eziologia, diagnosi e cura.
+La presente rassegna tenterà di riassumere il progresso della ricerca in questa nuova area in rapida evoluzione.
+Ove possibile, si tenterà di confrontare il COVID-19 con la SARS e un’altra malattia causata da un CoV, la sindrome respiratoria mediorientale (MERS, un’epidemia del 2012).
+Verrà discusso anche ciò che si è appreso finora circa la prevenzione e la prognosi della malattia, insieme ad alcuni interrogativi urgenti ancora senza risposta.
+I CoV sono stati tradizionalmente considerati patogeni non letali per gli esseri umani, causando circa il 15% dei comuni raffreddori.
+Tuttavia, in questo secolo abbiamo incontrato due volte CoV umani altamente patogeni, ossia il SARS-CoV e il MERS-CoV, che in origine hanno provocato rispettivamente un’epidemia in Cina nel 2003 e in Arabia Saudita nel 2012, e si sono presto diffusi in altri paesi con morbilità e mortalità terribili.
+Pertanto, quella di COVID-19 è la terza epidemia di coronavirus nella storia umana documentata.
+Come illustrato dalla Fig. 1, i cluster di polmonite di origine ignota sono stati segnalati a Wuhan per la prima volta il 31 dicembre 2019 alla Commissione nazionale di sanità cinese.
+Sette giorni dopo è stata pubblicata la sequenza del CoV.
+Il 15 gennaio 2020 è stato registrato il primo caso fatale a Wuhan.
+Nel frattempo, l’epidemia si è diffusa rapidamente nelle città, nelle province e nei Paesi confinanti.
+Il 20 gennaio è stata segnalata l’infezione di fornitori di cure mediche, il che ha suggerito la possibilità di una trasmissione uomo-uomo.
+Il 23 gennaio, la città di Wuhan è stata chiusa e tutto il suo trasporto pubblico è stato sospeso.
+Il 24 gennaio, il primo studio clinico sulla malattia ha riferito che, su 41 pazienti con casi confermati, solo 21 erano venuti a contatto diretto con il mercato del pesce di Wuhan, considerato il luogo di origine dell’infezione da una fonte animale sconosciuta.
+Il 30 gennaio, l’OMS ha dichiarato l’epidemia un’emergenza sanitaria globale.
+Al momento della stesura di questo report, la malattia si è già diffusa in Cina e altri 50 Paesi in tutto il mondo (Fig.2).
+Siccome la situazione è in rapida evoluzione, la portata e la gravità dell’epidemia sono ancora da stabilire.
+L’11 febbraio 2020, uno studio multicentrico su 8.866 pazienti che ha compreso 4,021 pazienti COVID-19 confermati, presentava la seguente illustrazione più aggiornata dell’epidemia (https://mp.weixin.qq.com/UlBi-HX_rHPXa1qHA2bhdA).
+Il SARS-CoV-2 ha infettato persone di tutte l’età, ma principalmente fra i 30 e i 65 anni.
+Circa la metà (47,7%) degli individui infetti aveva più di 50 anni, pochissimi ne avevano meno di 20, e solo 14 avevano meno di 10 anni.
+Il SARS-CoV-2 ha infettato più gli uomini (0,31/100.000) che le donne (0,27/100.000).
+Il COVID-19 si è espanso per cluster principalmente nello Hubei e nelle sue vicinanze.
+Il COVID-19 impiegava in media 5 (2-9) giorni dall’esordio alla diagnosi.
+Il periodo di incubazione medio era di 4,8 (3,0-7,2) giorni.
+Il periodo medio tra l’esordio e il decesso era di 9,5 (4,8-13) giorni.
+Il numero di riproduzione di base (R0) era di 3,77 (95%: CI: 3,51-4,05), e il R0 aggiustato era di 2,23-4,82.
+Il numero di persone infette è aumentato esponenzialmente prima del 23 gennaio 2020, coincidendo con il periodo di traffico massiccio prima della festa di primavera in Cina.
+La mortalità dei pazienti con casi confermati era del 1,44% (95% CI: 1,10-1,86%), e la mortalità aggiustata di tutti i pazienti era del 3,06% (95% CI: 2,02-4,59%).
+I tre principali fattori di rischio per il COVID-19 erano il sesso (maschile), l’età (≥60) e polmonite grave.
+I CoV sono una sottofamiglia di grandi virus capsulati contenenti un unico di filamento di RNA a senso.
+Essi possono essere divisi in quattro generi, ossia alfa, beta, gamma e delta, tra i quali gli alfa e i betacoronavirus sono noti per infettare gli esseri umani.
+La glicoproteina spike (S) del capside si lega ai suoi recettori cellulari dell’enzima 2 convertitore dell’angiotensina (ACE2) e della dipeptidil-peptidasi IV (DPP-4), rispettivamente per il SARS-CoV e il MERS-CoV, dopodiché si verifica la fusione delle membrane.
+Il genoma dell’RNA virale è rilasciato nel citoplasma; dopo la replicazione del genoma virale, l’RNA genomico, insieme alle glicoproteine del capside e alle proteine nucleocapside, forma vescicole contenenti virioni, che poi si fondono con la membrana plasmatica per rilasciare il virus.
+La prima sequenza genomica del SARS-CoV-2 è stata pubblicata il 10 gennaio 2020.
+È stato scoperto che il SARS-CoV-2 è un nuovo tipo di beta-CoV con più del 99,98% di identità genetica in 10 campioni sequenziati raccolti dal luogo di origine dell’epidemia, il mercato del pesce Huanan di Wuhan.
+Dal punto di vista genetico, il SARS-CoV-2 è più simile al SARS-CoV che al MERS-CoV.
+Attraverso la microscopia elettronica a trasmissione, le particelle di SARS-CoV-2 sono state rinvenute in sezioni ultrasottili dell’epitelio respiratorio umano.
+È stato riscontrato che l’ACE2 umano è un recettore per il SARS-CoV-2, così come per il SARS-CoV.
+Tuttavia, la proteina S del SARS-CoV-2 si lega all’ACE2 umano più debolmente del SARS-CoV, il che coincide con il fatto che il SARS-CoV-2 causi infezioni meno gravi nei pazienti rispetto al SARS-CoV.
+Il SARS-CoV-2 può anche formare una nuova proteina corta codificata dalla orf3b e una proteina secreta codificata dalla orf8.
+La orf3b del SARS-CoV-2 potrebbe rivestire un ruolo nella patogenicità virale e inibire l’espressione di IFNβ; tuttavia, orf8 non contiene alcun dominio o motivo funzionale conosciuto.
+Il 18 febbraio 2020, Zhou, et al. hanno pubblicato la struttura a crioscopia elettronica dell’ACE2 umano in tutta la sua lunghezza a risoluzione a 2,9 Å in complesso con il trasportatore di aminoacidi B0AT1.
+Hanno riscontrato che il complesso, che presenta conformazioni chiuse e aperte, è stato assemblato come dimero e che il complesso ACE2-B0AT1 può legare due proteine S, il che fornisce una prova del riconoscimento e dell’infezione del CoV.
+B0AT1 potrebbe diventare un bersaglio terapeutico per lo studio di farmaci per sopprimere l’infezione da SARS-CoV-2.
+L'origine e l'ospite immediato
+È risaputo che sia il SARS-CoV che il MERS-CoV hanno avuto origine dai pipistrelli e sono stati trasmessi all’uomo tramite zibetti e cammelli, rispettivamente.
+Attraverso un confronto filogenetico del SARS-CoV-2 con altri CoV, i pipistrelli sono stati considerati l’ospite nativo del SARS-CoV-2, dato che il nuovo virus è al 96% identico a due CoV simili al SARS provenienti dai pipistrelli chiamati Bat-SL-CoVZX45 e Bat-SL-CoVZX21.
+Tuttavia, resta da chiarire quale ospite intermedio abbia aiutato il virus ad attraversare la barriera di specie per infettare gli umani, e la via di trasmissione.
+Ji, et al hanno proposto i serpenti come portatori del virus dai pipistrelli agli esseri umani, il che implicava una ricombinazione omologa della proteina S.
+Uno studio condotto da dei ricercatori di Guangzhou, in Cina, suggerisce che i pangolini - mammiferi dal muso lungo mangiatori di formiche usati spesso nella medicina tradizionale cinese - siano i potenziali ospiti intermedi del SARS-CoV-2 sulla base di un’omologia del 99% in un CoV scoperto nei pangolini e nel SARS-CoV-2.
+Tuttavia, una differenza dell’1% distribuita su due genomi resta ancora una grossa differenza; pertanto, si attendono risultati conclusivi per prove concrete (Fig. 3).
+Le proprietà fisico-chimiche del SARS-CoV-2 rimangono ancora ampiamente sconosciute.
+Il SARS-CoV e il MERS-CoV possono sopravvivere in vitro per 48 ore in ambiente secco e fino a 5 giorni a 20 °C e con il 40%-50% di umidità.
+Il SARS-CoV-2 potrebbe possedere proprietà simili.
+È stato riscontrato che il SARS-CoV-2 è sensibile ai raggi ultravioletti e al calore a 56 °C per 30 minuti; l’etere, l’etanolo al 75%, i disinfettanti contenenti cloro, l’acido peracetico, il cloroformio e altri solventi grassi, ma non la clorexidina, possono inattivare efficacemente il virus.
+In generale, l’intera popolazione umana è priva di immunità al SARS-CoV-2, ed è quindi suscettibile al nuovo virus.
+Al momento, non si ha notizia di alcuno studio dettagliato sulla risposta immunologica al SARS-CoV-2.
+Pertanto, si può solo fare riferimento a studi precedenti su altri CoV, in particolare il SARS-CoV e il MERS-CoV (Fig. 4).
+In generale, dopo che un virus invade l’ospite, questo viene prima riconosciuto dal sistema immunitario innato dell’ospite tramite i recettori dell’immunità innata (PRRs), che comprendono i recettori di lectine di tipo C, i recettori Toll-simili (TLR), i recettori di tipo NOD e i recettori simil-RIG-I (RLR).
+Attraverso diverse vie, il virus induce l’espressione di fattori infiammatori, la maturazione di cellule dendritiche, e la sintesi di interferoni di tipo I (IFN), i quali limitano il diffondersi del virus e accelerano la fagocitosi macrofagica degli antigeni virali.
+Tuttavia, la proteina N del SARS-CoV può aiutare il virus a eludere le risposte immunitarie.
+Presto, la risposta immunitaria adattativa si unisce alla lotta contro il virus.
+I linfociti T, inclusi i linfociti T CD4+ e CD8+, ricoprono un ruolo importante nella difesa.
+I linfociti T CD4+ stimolano i linfociti B a produrre anticorpi specifici per il virus, e i linfociti CD8+ uccidono direttamente le celle infettate dal virus.
+I linfociti T helper producono citochine proinfiammatorie per aiutare le cellule difensive.
+Tuttavia, i CoV possono inibire le funzioni dei linfociti T inducendo l’apoptosi dei linfociti T.
+Anche l’immunità umorale, che include complementi come C3a e C5a e gli anticorpi, è fondamentale per combattere l’infezione virale.
+Ad esempio, gli anticorpi isolati da un paziente guarito hanno neutralizzato il MERS CoV.
+D’altro canto, una reazione eccessiva del sistema immunitario genera localmente un grande numero di radicali liberi che può causare danni gravi ai polmoni e ad altri organi, e, nello scenario peggiore, insufficienza multiorgano e perfino il decesso.
+L’infezione da SARS-CoV-2, caratterizzata da esordio a cluster, colpisce con più probabilità gli anziani con comorbilità e le donne incinte.
+Le persone esposte a un numero elevato di virus o le cui funzioni immunitarie sono compromesse hanno maggiori probabilità.
+Il periodo di incubazione medio stimato del SARS-CoV-2 è 1-14 giorni, per lo più 3-4 giorni in base a uno studio dei primi 425 casi a Wuhan.
+Tuttavia, uno studio condotto su 1.099 casi dimostra che il periodo di incubazione era in media di 3 giorni e variava da 0 a 24 giorni.
+Uno studio più recente, come descritto in precedenza, dimostra che il periodo di incubazione era di 4,8 (3,0-7,2) giorni in base alla demografia di 8,866 casi.
+È molto importante che le autorità sanitarie calibrino il periodo di quarantena effettivo sulla base del periodo di incubazione più accurato, impedendo così alle persone infette ma asintomatiche dal trasmettere il virus ad altri.
+Come pratica comune, di solito gli individui esposti al virus o infettati sono tenuti a sottoporsi a quarantena per 14 giorni.
+Bisognerebbe estendere il periodo di quarantena a 24 giorni?
+La febbre è spesso il sintomo principale e iniziale del COVID-19, che può essere accompagnato da nessun sintomo o da altri sintomi come tosse secca, fiato corto, dolori muscolari, vertigini, mal di testa, mal di gola, rinorrea, dolori al torace, diarrea, nausea e vomito.
+Alcuni pazienti hanno manifestato dispnea e/o ipossiemia una settimana dopo l’esordio della malattia.
+In casi gravi, i pazienti hanno rapidamente proceduto a sviluppare sindrome respiratoria acuta, shock settico, acidosi metabolica e coagulopatie.
+I pazienti con febbre e/o sintomi respiratori e febbre acuta, anche senza anomalie nell’imaging polmonare, dovrebbero sottoporsi a un esame per il virus per una diagnosi precoce.
+Uno studio di popolazione di fine dicembre 2019 illustrava che le percentuali dei sintomi erano di 98% per la febbre, 76% per la tosse secca, 55% per la dispnea e 3% per la diarrea; l’8% dei pazienti necessitava il supporto della ventilazione.
+Risultati simili sono stati riferiti in due studi recenti su un cluster familiare e un cluster causato dalla trasmissione da parte di un individuo asintomatico.
+Analogamente, uno studio di popolazione condotto nel 2012 ha mostrato che anche i pazienti MERS-CoV presentavano febbre (98%), tosse secca (47%), e dispnea (55%) come sintomi principali.
+Tuttavia, l’80% di loro necessitava il supporto della ventilazione, molto più dei pazienti COVID-19, conformemente alla mortalità più alta della MERS rispetto a quella del COVID-19.
+Anche la diarrea (26%) e il mal di gola (21%) sono stati osservati in pazienti MERS.
+Nei pazienti SARS, è stato dimostrato che febbre (99%-199%), tosse secca (29%-75%), dispnea (40%-42%), diarrea (20-25%), e mal di gola (13-25%) erano i sintomi principali e il supporto della ventilazione era richiesto per circa il 14%-20% dei pazienti.
+Al 14 febbraio, la mortalità del COVID-19 era del 2% quando i casi confermati hanno raggiunto i 66.576 in tutto il mondo.
+Analogamente, la mortalità della SARS nel novembre del 2002 era del 10% dei 8.096 casi confermati.
+Per la MERS, in base a uno studio di popolazione del giugno 2012, la mortalità era del 37% dei 2.494 casi confermati.
+Uno studio precedente ha riscontrato che l’R0 del SARS-CoV-2 era pari a 6,47 con un intervallo di confidenza (CI) del 95% di 5,71-7,23 , mentre l’R0 del SARS-CoV variava solo da 2 a 4.
+Un confronto tra SARS-CoV-2, MERS-CoV e SARS-CoV rispetto ai loro sintomi, alla mortalità e all’R0 è presentato nella Tabella 1.
+Le cifre di cui sopra suggeriscono che il SARS-CoV-2 abbia un’abilità maggiore di diffondersi rispetto al MERS-CoV e il SARS-CoV, ma che è meno letale di questi ultimi due.
+Pertanto, è molto più complesso controllare l'epidemia di SARS-CoV-2 che quelle di MERS-CoV e di SARS-CoV.
+Gli esordi in cluster avvengono di solito all’interno dello stesso nucleo familiare, o a causa di un assembramento, o della permanenza nello stesso veicolo, come una nave da crociera.
+I pazienti hanno spesso una storia di viaggi o residenza a Wuhan o in altre aree colpite, oppure di contatto con individui o pazienti infetti nelle ultime due settimane precedenti all’esordio.
+Tuttavia, è stato riscontrato che le persone possono trasportare il virus senza sintomi per più di due settimane e che i pazienti curati dimessi dall’ospedale possono essere di nuovo infettati dal virus , un segnale di allarme che indica la necessità di allungare il periodo di quarantena.
+Nella fase iniziale i pazienti presentano un numero normale o ridotto di globuli bianchi del sangue periferico (in particolare i linfociti).
+Per esempio, in 1.099 pazienti COVID-19  sono stati rilevati linfocitopenia con un valore dei globuli bianchi < 4×109/L, incluso un valore dei linfociti < 1×109/L, e livelli elevati di aspartato aminotransferasi e viremia.
+I livelli di enzimi epatici e muscolari e di mioglobina erano aumentati nel sangue di alcuni pazienti, e la proteina C reattiva e la sedimentazione di eritrociti erano aumentati nel sangue della maggioranza dei pazienti.
+In pazienti con casi gravi, il livello di D-dimero, un prodotto di degradazione della fibrina presente nel sangue, era elevato, e il valore dei linfociti risultava progressivamente ridotto.
+Nella maggior parte dei pazienti COVID-19 si riscontrano anomalie nella radiografia toracica, caratterizzate da ombre irregolari o da opacità a vetro smerigliato bilaterali nei polmoni.
+I pazienti sviluppano spesso polmonite atipica, danni polmonari acuti e sindrome da distress respiratorio acuto (ARDS).
+Quando si verifica la ARDS, l’infiammazione incontrollata, l’accumulo di fluidi e la fibrosi progressiva compromettono gravemente lo scambio gassoso.
+Le disfunzioni degli pneumociti di tipo I e II riducono il livello di surfattante e aumentano la tensione superficiale, riducendo così la capacità dei polmoni di espandersi e aumentando il rischio di collasso polmonare.
+Pertanto, gli esiti radiografici peggiori sono spesso associati alla forma più grave della malattia.
+Il 18 febbraio 2020, la prima analisi patologica del COVID-19 ha dimostrato la desquamazione degli pneumociti, la formazione di una membrana ialina, e l’infiltrazione interstiziale di linfociti, e cellule sinciziali multinucleate nei polmoni di un paziente deceduto per la malattia, conformemente alla patologia dell’infezione virale e all’ARDS  e analogamente a quella dei pazienti SARS e MERS.
+La rilevazione dell’RNA del SARS-CoV-2 tramite reazione a catena della polimerasi inversa (RT-PCR) è stata usata come criterio principale per la diagnosi di COVID-19.
+Tuttavia, a causa dell’alto tasso di falsi negativi, che potrebbero accelerare l’epidemia, il 13 febbraio 2020 si è deciso di iniziare a utilizzare, in Cina, le manifestazioni cliniche ai fini della diagnosi (che non faceva più affidamento solamente sulla RT-PCR).
+Una situazione simile si è verificata anche con la diagnosi della SARS.
+Pertanto, una combinazione di anamnesi, manifestazioni cliniche, test di laboratorio, risultati radiologici è essenziale e imperativa per effettuare una diagnosi efficace.
+Il 14 febbraio 2020, il gruppo Feng Zhang ha descritto un protocollo della tecnica SHERLOCK basata su CRISPR per rilevare il SARS-CoV-2, che individua, in meno di un’ora e senza richiedere strumenti complessi , frammenti sintetici dell’RNA del SARS-CoV-2 tra 20 × 10-18 mol/L e 200 × 10-18 mol/L (10-100 copie per microlitro di campione) utilizzando una striscia reattiva.
+Si spera che la nuova tecnica possa aumentare drasticamente la sensibilità e la praticità se verificata in campioni clinici.
+Per via della mancanza di esperienza con il nuovo CoV, i medici possono fornire principalmente terapie di supporto ai pazienti COVID-19, mentre provano una serie di terapie che sono state usate o proposte in precedenza per il trattamento di altri CoV come il SARS-CoV e il MERS CoV e altre malattie virali (Tabella 2).
+Queste terapie includono trattamenti attuali e potenziali con farmaci antivirali, immunosoppressori, steroidi, plasma di pazienti guariti, medicina cinese e supporto psicologico.
+Si è perfino proposto di adoperare, per il trattamento, il plasma di pazienti guariti.
+Le compagnie farmaceutiche stanno concorrendo per sviluppare anticorpi e vaccini contro il virus.
+Il SARS-CoV-2 all’inizio colpisce principalmente i polmoni e, probabilmente, attacca anche, in misura minore, altri organi che esprimono ACE2, come l’apparato gastrointestinale e i reni.
+Ciononostante, la disfunzione e l’insufficienza respiratoria rappresentano la minaccia e la causa di morte principale per i pazienti.
+Il supporto respiratorio è dunque cruciale per alleviare i sintomi e salvare vite, e include l’ossigenoterapia generale, l’ossigeno ad alto flusso , la ventilazione non invasiva e la ventilazione invasiva meccanica a seconda della gravità della malattia.
+I pazienti con sintomi respiratori gravi devono essere supportati con ossigenazione extra-corporea a membrana (ECMO), una tecnica di bypass cardiopolmonare modificato utilizzata per il trattamento di insufficienza cardiaca o respiratoria potenzialmente letale.
+Inoltre, il mantenimento dell’equilibrio degli elettroliti, la prevenzione e la cura dell’infezione secondaria e dello shock settico, e la protezione delle funzioni degli organi vitali sono anch’essi essenziali per i pazienti di SARS-CoV-2.
+È risaputo che una tempesta di citochine deriva da una reazione eccessiva del sistema immunitario nei pazienti SARS e MERS.
+La tempesta di citochine è una forma di risposta infiammatoria sistemica caratterizzata dal rilascio di una serie di citochine, tra cui TNFα, Il-1β, IL-2, IL-6, IFNα, IFNβ, IFNγ, e MCP-1.
+Queste citochine inducono le cellule immunitarie a rilasciare un vasto numero di radicali liberi che sono la causa principale di ARDS e dell’insufficienza multiorgano.
+L’immunosoppressione è essenziale nel trattamento delle tempeste di citochine, specialmente nei pazienti gravi.
+I corticosteroidi e il tocilizumab, un anticorpo monoclonale inibitore dell’IL6, sono stati usati per trattare le tempeste di citochine.
+Altri trattamenti immunosoppressivi per le tempeste di citochine comprendono la modulazione della risposta immunitaria diretta dai linfociti T, il blocco di IFN-γ, IL-1, e TNF; l’inibizione di JAK ; il blintumoab ; i soppressori della segnalazione di citochine 4 ; e gli inibitori di HDAC.
+Gli steroidi, in quanto immunosoppressori, sono stati ampiamente usati nel trattamento della SARS per ridurre la gravità dei danni infiammatori.
+Tuttavia, gli steroidi in alte dosi non sono stati benefici per i danni polmonari nei pazienti SARS e COVID-19.
+Al contrario, essi potrebbero causare effetti avversi gravi, specialmente l’osteonecrosi avascolare, che impatta drammaticamente sulla prognosi.
+Ciononostante, è stato raccomandato l’uso prudente di brevi cicli di corticosteroidi in dosi da basse a moderate per i pazienti COVID-19 in condizioni critiche.
+Al momento della stesura di questa analisi, non è stata confermata alcuna terapia antivirale efficace.
+Tuttavia, l'infusione endovenosa di remdesivir, un analogo nucleotidico, si è rivelata efficace in un paziente americano affetto da COVID-19.
+Il remdesivir è un nuovo farmaco antivirale inizialmente sviluppato da Gilead per il trattamento delle malattie provocate dai virus Ebola e di Marlburg.
+In seguito il remdesivir si è rivelato anche un possibile inibitore di altri virus a filamento singolo di RNA, compresi i virus della SARS e della MERS.
+Sulla base di questi, Gilead ha fornito il composto alla Cina per condurre un paio di sperimentazioni sugli individui infetti da SARS-CoV-2 , e i risultati sono molto attesi.
+Inoltre, il baricitinb, l'interferone-α, il lopinavir/ritonavir e la ribavirina sono stati suggeriti come potenziali terapie per pazienti con sintomi respiratori acuti.
+A seguito di terapie combinate con il lopinavir/ritonavir  possono presentarsi diarrea, nausea, vomito, danni al fegato e altre reazioni avverse.
+L’interazione di questi trattamenti con altri farmaci nei pazienti deve essere monitorata attentamente.
+Plasma proveniente da pazienti guariti e generazione di anticorpi
+La raccolta del sangue di pazienti guariti da una malattia contagiosa per curare altri pazienti affetti dalla stessa malattia o per proteggere altri individui sani dal contrarre la malattia ha una lunga storia.
+Di fatti, i pazienti guariti hanno spesso un livello relativamente alto di anticorpi contro il patogeno nel proprio sangue.
+Gli anticorpi sono immunoglobuline (Ig) prodotte dai linfociti B per combattere i patogeni e altri oggetti estranei, e riconoscono molecole uniche all’interno dei patogeni, neutralizzandole in modo diretto.
+Sulla base di ciò, è stato raccolto il plasma dal sangue di un gruppo di pazienti guariti dal COVID-19 ed è stato iniettato a 10 pazienti gravemente ammalati.
+I loro sintomi sono migliorati in 24 ore, e hanno registrato inoltre una riduzione dell’infiammazione e delle cariche virali e una migliore saturazione dell’ossigeno nel sangue.
+Tuttavia, fino a quando non verranno sviluppate terapie specifiche, è necessario che questi risultati siano verificati e chiariti per affinché il metodo sia proposto per un uso su larga scala.
+Inoltre, visti gli effetti terapeutici, bisogna considerare attentamente alcuni svantaggi associati al plasma.
+Ad esempio, gli anticorpi possono sovrastimolare la risposta immunitaria e causare la sindrome da rilascio di citochine, che è una tossicità potenzialmente letale.
+La concentrazione di anticorpi nel sangue è solitamente bassa, e la richiesta del plasma è alta per trattare pazienti in condizioni critiche.
+È difficile sviluppare e produrre anticorpi specifici abbastanza rapidamente da combattere un’epidemia globale.
+Pertanto, è più importante e pratico isolare i linfociti B dai pazienti guariti e identificare i codici genetici che codificano anticorpi efficaci o effettuare controlli per anticorpi efficaci contro le proteine essenziali del virus.
+In questo modo, è possibile aumentare gradualmente la produzione degli anticorpi.
+La MTC viene utilizzata per curare una gamma di malattie in Cina da migliaia di anni.
+Tuttavia, i suoi effetti si fondano in larga misura su una combinazione di componenti multiple in una formula che varia a seconda della diagnosi di una malattia basata sulle teorie della MTC.
+La maggior parte delle componenti efficaci rimane sconosciuta o risulta vaga, poiché è difficile estrarre e verificare tali componenti o le loro combinazioni ottimali.
+Attualmente, per via della mancanza di una terapia efficace e specifica per il COVID-19, la MTC è diventata una delle principali cure alternative per i pazienti con sintomi da lievi a moderati o per coloro che sono guariti da stadi gravi.
+Per esempio, è stato riscontrato che le capsule Shu Feng Jie Du e le capsule di Lian Hua Qing Wen sono efficaci per il trattamento del COVID-19.
+I migliori tassi di cura nel trattamento dei pazienti COVID-19 sono stati osservati in alcune province in Cina che usavano la MTC sull’87% dei propri pazienti, incluse Gansu (63,7%), Ningxia (50%) e Hunan (50%), mentre la provincia dello Hubei, che usava la MTC solo su circa il 30% dei suoi pazienti COVID-19, aveva il tasso di cura più basso (13%).
+Tuttavia, questo è un confronto piuttosto approssimativo, poiché molti fattori d’impatto come il numero e la gravità dei pazienti dovrebbero essere inclusi nella valutazione.
+Il 18 febbraio 2020, Boli Zang e i suoi colleghi hanno pubblicato uno studio un cui venivano confrontati i trattamenti di sola medicina occidentale (MO) con i trattamenti combinati di MO e MTC.
+Hanno riscontrato che i tempi necessari per l'abbassamento della temperatura corporea, la sparizione dei sintomi e l’ospedalizzazione erano considerevolmente più brevi nel gruppo MO+MTC che nel gruppo con solo MO.
+L’aspetto più impressionante è che il tasso di peggioramento sintomatico (da lieve a grave) era considerevolmente più basso per il gruppo MO+MTC che per il gruppo con solo MO (7,4% contro 46,2%) e la mortalità era più bassa nel gruppo MO+MTC che nel gruppo con solo MO (8,8% contro 39%).
+Ciononostante, l’efficacia e la sicurezza della MTC sono ancora in attesa di sperimentazioni ben controllate su larga scala e in più centri.
+Altrettanto interessante sarebbe caratterizzare il meccanismo delle azioni e chiarire le componenti efficaci dei trattamenti della MTC o delle loro combinazioni, se possibile.
+I pazienti con COVID-19 sospetto o confermato manifestano per lo più una grande paura di questa malattia altamente contagiosa e perfino letale, e le persone in quarantena provano anche noia, solitudine e rabbia.
+Inoltre, i sintomi dell’infezione quali la febbre, la ipossiemia e la tosse, così come gli effetti avversi delle cure come l’insonnia causata dai corticosteroidi possono portare a ulteriore ansia e disagio mentale.
+Nella prima fase dell’epidemia di SARS sono state riscontrate una serie di morbilità psichiatriche, tra cui depressione persistente, ansia, attacchi di panico, agitazione psicomotoria, sintomi psicotici, delirio e perfino ideazione suicidaria.
+Il tracciamento dei contatti e la quarantena obbligatori, in quanto parte delle risposte della sanità pubblica all’epidemia di COVID-19, possono far sentire le persone più in ansia e più in colpa per gli effetti del contagio, la quarantena e lo stigma sulle loro famiglie e i loro amici.
+Pertanto, si dovrebbe offrire assistenza per la salute mentale ai pazienti COVID-19, agli individui con casi sospettati e le persone a contatto con loro, così come al pubblico in generale che ne ha bisogno.
+Il supporto psicologico dovrebbe includere l’istituzione di team multidisciplinari di salute mentale, comunicazioni chiare con aggiornamenti regolari e puntuali sull’epidemia di SARS-CoV-2,sui suoi piani di cura e sull’uso di dispositivi elettronici professionali e applicazioni per evitare contatti ravvicinati.
+Dei vaccini efficaci sono essenziali per interrompere la catena di trasmissione da serbatoi animali ed esseri umani infetti a ospiti suscettibili e sono spesso complementari ai trattamenti antivirali nel controllo delle epidemie causate da virus emergenti.
+Sono stati effettuati degli sforzi per sviluppare dei vaccini basati sulla proteina S per generare potenti anticorpi neutralizzanti e a lungo termine e/o immunità protettiva contro il SARS-CoV.
+Sono stati valutati vaccini vivi attenuati in modelli animali per la SARS.
+Tuttavia, prima di avviare uno studio clinico bisogna ancora determinare l’efficacia in vivo di questi vaccini candidati in individui anziani e nei modelli di esposizione letale e la loro protezione contro un’infezione da virus di origine zoonotica.
+Questo è probabilmente dovuto al fatto che la SARS si è estinta 17 anni fa e da allora non è stato registrato alcun nuovo caso.
+Al contrario, casi sporadici e cluster di MERS continuano a verificarsi in Medio Oriente e a diffondersi in altre regioni per via della persistenza di fonti zoonotiche in aree endemiche.
+Sono state sviluppate strategie di vaccinazione per la MERS usando virus inattivati, plasmidi del DNA, vettori virali, nanoparticelle, particelle virus-simili e sub unità di proteine ricombinanti, e alcune sono state valutate in modelli animali.
+Lo sviluppo di un vaccino sicuro ed efficace contro il SARS-CoV-2 per gli individui non immuni è un compito urgente e cruciale per il controllo dell’epidemia in corso.
+Tuttavia, è difficile superare questa difficoltà a causa del lungo periodo di tempo (18 mesi in media) necessario per lo sviluppo di un vaccino e delle variazioni dinamiche dei CoV.
+In quanto nuova malattia, il COVID-19 ha appena iniziato a manifestare il suo intero decorso clinico in migliaia di pazienti.
+Nella maggioranza dei casi, i pazienti possono guarire gradualmente senza sequele.
+Tuttavia, analogamente alla SARS e alla MERS, il COVID-19 è anche associato ad alte morbilità e mortalità nei pazienti con casi gravi.
+Pertanto, costruire un modello di prognosi per la malattia è essenziale per le agenzie sanitarie per dare priorità ai loro servizi, specialmente in aree prive di risorse.
+Sulla base degli studi clinici finora riportati, i seguenti fattori potrebbero influenzare o essere associati alla prognosi dei pazienti COVID-19 (Tabella 3):
+Età: L'età era il fattore più importante per la prognosi della SARS , il che è anche vero per il COVID-19.
+Il COVID-19 si è verificato principalmente in persone con età dai 30 ai 65 anni, con il 47,7% di questi pazienti con età superiore ai 50 anni in uno studio di 8.866 casi descritto in precedenza.
+I pazienti che necessitavano cure intensive avevano più probabilità di presentare comorbilità pregresse e complicanze, ed erano sensibilmente più anziani di chi non ne aveva (all’età mediana di 66 anni contro 51) , il che suggerisce che l’età sia un fattore pronostico per l’esito dei pazienti COVID-19.
+Sesso: Il SARS-CoV-2 ha infettato più gli uomini che le donne (0,31/100.000 contro 0,27/100.000), come descritto in precedenza.
+Comorbilità e complicazioni: I pazienti con il COVID-19 che necessitano cure intensive hanno più probabilità di essere affetti da danni cardiaci acuti e aritmia.
+Gli eventi cardiaci rappresentavano anche la principale causa di decesso nei pazienti SARS.
+È stato riscontrato che il SARS-CoV-2 può anche legarsi ai colangiociti positivi ad ACE2, il che potrebbe portare a disfunzioni epatiche nei pazienti COVID-19.
+È opportuno notare che l’età e le patologie pregresse sono fortemente correlate e potrebbero interferire l’una con le altre.
+Risultati di laboratorio anomali: Il livello di proteina C reattiva (CRP) nel sangue riflette la gravità dell’infiammazione o dei danni ai tessuti ed è stato proposto come potenziale fattore di prognosi per la malattia, la risposta alla terapia e la guarigione finale.
+È stata proposta anche la correlazione del livello di CRP alla gravità e alla prognosi del COVID-19.
+Inoltre, anche elevati livelli di lattato deidrogenasi (LDH), aspartato aminotransferasi (AST), alanina aminotransferasi (ALT) e creatinchinasi (CK) potrebbero contribuire a prevedere l’esito.
+Questi enzimi sono espressi estensivamente in diversi organi, in particolare nel cuore e nel fegato, e vengono rilasciati quando i tessuti vengono danneggiati.
+Pertanto, essi sono marcatori tradizionali di disfunzioni cardiache o epatiche.
+Sintomi clinici principali: La radiografia toracica e la progressione temporale dei sintomi clinici dovrebbero essere prese in considerazione assieme agli altri sintomi nella previsione degli esiti e delle complicanze del COVID-19.
+Uso di steroidi: Come descritto in precedenza, gli steroidi sono immunosoppressori comunemente usati come terapia aggiuntiva per le malattie infettive al fine di ridurre la gravità dei danni infiammatori.
+Siccome una dose elevata di corticosteroidi è stata ampiamente usata nei pazienti SARS gravi, molti sopravvissuti hanno sviluppato osteonecrosi avascolare, con disabilità permanenti e scarsa qualità della vita.
+Pertanto, se necessario, gli steroidi dovrebbero essere utilizzati in basse dosi e per brevi periodi nei pazienti COVID-19.
+Stress mentale: Come descritto in precedenza, durante l’epidemia di COVID-19 molti pazienti hanno subito uno stress straordinario, hanno vissuto lunghi periodi di quarantena ed estrema incertezza, e hanno assistito alla morte di parenti stretti e altri pazienti.
+È necessario fornire consulenza psicologica e supporto nel lungo termine per aiutare questi pazienti a guarire dallo stress e tornare alla vita normale.
+Secondo gli studi di popolazione effettuati finora, il COVID-19 sembra avere caratteristiche epidemiologiche differenti da quelle della SARS.
+Oltre a riprodursi nel tratto respiratorio inferiore, il SARS-CoV-2 può replicarsi efficacemente nel tratto respiratorio superiore e provoca sintomi moderati o non causa alcun sintomo nella prima fase dell’infezione, analogamente ad altri CoV che provocano raffreddori comuni.
+Pertanto, nella prima fase o nel periodo di incubazione i pazienti infetti possono produrre una vasta quantità di virus durante le attività quotidiana, causando una notevole difficoltà per il controllo dell’epidemia.
+Tuttavia, si riteneva che la trasmissione del SARS-CoV avvenisse quando i pazienti erano gravemente malati, mentre la maggior parte della trasmissione non si verificava nella prima fase.
+Pertanto, l’epidemia attuale di COVID-19 è molto più grave e difficile da controllare rispetto all’epidemia di SARS.
+Al momento sono in corso grandi sforzi in Cina che includono la chiusura di Wuhan e altre città circostanti e la quarantena continua della quasi totalità della popolazione, nella speranza di interrompere la trasmissione del SARS-CoV-2.
+Sebbene queste azioni stiano danneggiando drasticamente l’economia e altri settori del Paese, il numero di nuovi pazienti sta diminuendo, indicando un rallentamento dell’epidemia.
+La stima più ottimista prevede che l’epidemia si concluderà entro marzo e che la fase di ridimensionamento durerà per 3-4 mesi.
+Tuttavia, alcuni altri esperti non sono così ottimisti.
+Paul Hunter, et al. hanno stimato che il COVID-19, che sembra sensibilmente più infettivo della SARS, non terminerà nel 2020.
+Ira Longini, et al. hanno istituito un modello per prevedere l’esito dell’epidemia e hanno suggerito che il SARS-CoV-2 possa infettare due terzi della popolazione globale.
+Un gruppo canadese ha riscontrato che il SARS-CoV-2 è stato rilevato sia in tamponi nasali che faringei di pazienti guariti che avevano lasciato l’ospedale due settimane prima , che indica che il nuovo virus identificato potrebbe diventare un episodio ciclico simile all’influenza.
+Tuttavia, sono stati osservati segnali promettenti in Cina sulla base della diminuzione del numero dei nuovi casi, che indica che le strategie attuali potrebbero star funzionando.
+In origine si prevedeva che l’Ebola avrebbe causato fino a un milione di casi con mezzo milione di decessi.
+Tuttavia, grazie a una quarantena e un isolamento rigorosi, la malattia è stata infine messa sotto controllo.
+È possibile che, analogamente al SARS-CoV, il SARS-CoV-2 possa indebolirsi in termini di infettività fino ad estinguersi o diventare un virus meno patogeno che coesiste con gli esseri umani.
+Di seguito è riportato un confronto dell’epidemia di COVID-19 con quella di SARS e MERS (Fig. 5).
+Il SARS-CoV-2 è altamente trasmissibile attraverso la tosse o gli starnuti, e probabilmente anche attraverso il contatto diretto con materiali contaminati dal virus.
+Il virus è stato rinvenuto anche nelle feci, il che apre a una nuova possibilità di trasmissione oro-fecale.
+Uno studio recente su 138 pazienti ha riscontrato che il 41% dei casi è stato probabilmente causato da infezioni nosocomiali, tra cui 17 pazienti con altre patologie pregresse e 40 fornitori di cure mediche.
+Pertanto, bisognerebbe usare grande precauzione per proteggere gli esseri umani, specialmente i fornitori di cure mediche, i lavoratori sociali, parenti, colleghi e perfino i passanti a contatto con pazienti o persone infette.
+La prima linea di difesa che può essere usata per diminuire il rischio di infezione è indossare le mascherine per il viso; l’uso di mascherine, sia chirurgiche che con respiratore N95 (numero di serie 1860), aiuta a controllare la diffusione dei virus.
+Le mascherine chirurgiche impediscono che le goccioline liquide da un individuo potenzialmente infetto si trasmettano nell’aria o aderiscano alle superfici dei materiali, dove potrebbero essere trasmesse ad altri.
+Tuttavia, solo le mascherine N95 (numero di serie 1860) possono proteggere dall’inalazione di virioni compresi tra i 10 e gli 80 nm, con solo il 5% dei virioni in grado di penetrare completamente; il SARS-CoV-2 è simile per dimensioni al SARS-CoV ed entrambi misurano circa 85 nm.
+Siccome le particelle possono penetrare perfino cinque mascherine chirurgiche impilate tra loro, i fornitori di cure mediche a contatto diretto con i pazienti dovrebbero indossare le mascherine N95 (numero di serie 1860) ma non quelle chirurgiche.
+Oltre alle mascherine, i fornitori di cure mediche dovrebbero indossare camici isolanti su misura per ridurre ulteriormente il contatto con i virus.
+I virus possono infettare un individuo attraverso gli occhi.
+Il 22 gennaio 2020, un medico è stato infettato dal SARS-CoV-2 nonostante indossasse una mascherina N95; il virus potrebbe avere fatto ingresso nel suo corpo attraverso i suoi occhi infiammati.
+Pertanto, i fornitori di cure mediche dovrebbero indossare schermi facciali trasparenti o occhiali protettivi mentre lavorano con i pazienti.
+Alla popolazione delle aree colpite o potenzialmente colpite si consiglia vivamente di lavarsi le mani con saponi disinfettanti più spesso del solito, di cercare di restare in casa in autoquarantena e limitare i contatti con individui potenzialmente infetti.
+Affinché le persone si mantengano lontane da un paziente, un metro è considerato una distanza adeguata.
+Queste azioni sono metodi efficaci per diminuire il rischio di infezione ed impedire la diffusione del virus.
+Sebbene il SARS-CoV-2 sia comparso come nuovo virus nel mondo umano, la sua alta omologia al SARS-CoV come riferito il 7 gennaio 2020  avrebbe dovuto provocare grande allarme alla Cina per via della sua esperienza con l’epidemia di SARS del 2003.
+Eppure, fino al 19 gennaio 2020 il direttore del Centro per il Controllo delle Malattie di Wuhan ha rassicurato i cittadini dicendo che il nuovo virus aveva una bassa contagiosità e una riproduttività limitata da uomo a uomo e che non sarebbe stato un problema prevenire e arginare la malattia.
+Questo messaggio ha allentato considerevolmente l'attenzione della popolazione, specialmente in un momento in cui l’intero Paese si stava preparando per la festa di primavera, e ha perso il periodo critico per contenere la malattia su scala ridotta a Wuhan.
+Le agenzie per il controllo delle malattie in Cina dovrebbero apprendere questa dura lezione e adottare miglioramenti decisivi in futuro.
+Ad esempio, tali agenzie dovrebbero essere (1) più attente nel fare annunci pubblici, poiché ogni parola ha un peso per i cittadini e può cambiare il loro atteggiamento e le loro decisioni; (2) più sensibili e reattive a informazioni insolite dalle cliniche invece di aspettare report formali dai medici o dalle autorità; (3) più restrittive per contenere una potenziale epidemia nelle sue fasi iniziali invece di cercare di rassicurare la popolazione; e (4) più regolari nell’implementare esercitazioni mirate ed efficaci per aumentare la consapevolezza del pubblico sulle malattie epidemiche e per verificare e migliorare periodicamente il sistema di risposta della società.
+L’epidemia di COVID-19 provocata dal nuovo coronavirus SARS-CoV-2 ha avuto inizio alla fine del dicembre 2019.
+In meno di due mesi, si è diffusa in tutta la Cina e quasi altri 50 Paesi a livello globale al momento della stesura di questo articolo.
+Siccome il virus è molto simile al SARS-CoV e anche i sintomi sono molto simili tra il COVID-19 e la SARS, l’epidemia di COVID-19 ha creato una sensazione di risorgenza della SARS.
+Tuttavia, ci sono delle differenze considerevoli tra il COVID-19 e la SARS, che sono essenziali per arginare l’epidemia e curare i pazienti.
+Il COVID-19 colpisce più gli anziani che i giovani e più gli uomini che le donne, e anche la gravità e il tasso di mortalità sono più alte negli anziani che nei giovani.
+La SARS ha una mortalità più alta del COVID-19 (10,91% contro 1,44%).
+I pazienti COVID-19 trasmettono il virus anche quando asintomatici, mentre i pazienti SARS lo fanno solo se gravemente malati, il che provoca una maggiore difficoltà ad arginare la diffusione del COVID-19 rispetto a quella della SARS.
+Questo spiega in parte come mai il SARS-CoV-2 si diffonda molto più rapidamente e largamente del SARS-CoV.
+L’analisi regolare dell’RNA per il SARS-CoV-2 può risultare negativa in alcuni pazienti COVID-19.
+D’altro canto, i pazienti curati possono tornare ad essere positivi al virus.
+Questi risultati aumentano sensibilmente il rischio di diffusione del virus.
+Visti i progressi così rapidi della ricerca sul COVID-19, restano da risolvere alcuni problemi cruciali, come i seguenti:
+Da dove è venuto il SARS-CoV-2?
+Sebbene un omologo genetico del 96% sia stato trovato tra il SARS-CoV-2 e i due CoV dei pipistrelli simili al SARS, non si può ancora concludere che il SARS-CoV-2 venga dai pipistrelli.
+Quale animale è stata la specie intermedia che ha trasmesso il virus dall’ospite originario, supponiamo i pipistrelli, agli esseri umani?
+Senza conoscere le risposte alla numero 1 e 2, non si può interrompere la trasmissione in modo efficace, e l’epidemia può riemergere in ogni momento.
+Sebbene la modellazione molecolare e le analisi biochimiche abbiano dimostrato che il SARS-CoV-2 si lega ad ACE2, in che modo esattamente il virus entra nelle cellule aeree e causa i cambiamenti patologici successivi?
+Il virus si lega anche alle cellule che esprimono ACE2 in altri organi ?
+Senza delle risposte chiare a queste domande, non è possibile ottenere una diagnosi rapida e accurata e un trattamento efficace.
+Come si evolve geneticamente il virus durante la trasmissione fra gli esseri umani?
+Diventerà una pandemia globale, si estinguerà come la SARS o riemergerà periodicamente come l’influenza?
+Cercare le risposte a queste e a molte altre domande è fondamentale, ma potrebbe richiedere del tempo.
+Tuttavia, non c’è altra scelta se non quella di fermare l’epidemia il prima possibile e riportare le nostre vite alla normalità, costi quel che costi.

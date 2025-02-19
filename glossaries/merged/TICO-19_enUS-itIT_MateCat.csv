@@ -1,0 +1,608 @@
+﻿stringID;sourceLang;targetLang;sourceString;targetString
+1;en_US;it_IT;14 days in isolation;14 giorni di isolamento
+2;en_US;it_IT;14 days quarantine;quarantena di 14 giorni
+3;en_US;it_IT;1918 flu;influenza del 1918
+4;en_US;it_IT;2019 coronavirus;coronavirus 2019
+5;en_US;it_IT;2019 novel coronavirus;nuovo coronavirus 2019
+6;en_US;it_IT;2019-nCoV;nCoV-2019
+7;en_US;it_IT;2020 coronavirus;coronavirus 2020
+8;en_US;it_IT;2020 novel coronavirus;nuovo coronavirus 2020
+9;en_US;it_IT;about coronavirus;informazioni sul coronavirus
+10;en_US;it_IT;active cases;casi positivi
+11;en_US;it_IT;acute bronchitis;bronchite acuta
+12;en_US;it_IT;acute respiratory disease;Sindrome respiratoria acuta
+13;en_US;it_IT;acute respiratory distress syndrome;sindrome da distress respiratorio acuto
+14;en_US;it_IT;advanced hand sanitizer;igienizzante mani avanzato
+15;en_US;it_IT;Affected by coronavirus;Colpito dal coronavirus
+16;en_US;it_IT;after exposure;dopo l'esposizione
+17;en_US;it_IT;After the epidemic;Dopo l'epidemia
+18;en_US;it_IT;After the outbreak;Dopo l'epidemia
+19;en_US;it_IT;AIDS;AIDS
+20;en_US;it_IT;airborne droplets;goccioline trasportate dall'aria
+21;en_US;it_IT;airborne virus;virus per via aerea
+22;en_US;it_IT;airway;via aerea
+23;en_US;it_IT;alcohol based hand sanitizer;igienizzante mani a base di alcol
+24;en_US;it_IT;alcohol hand sanitizer;igienizzante mani con alcol
+25;en_US;it_IT;alcohol-based;a base di alcool
+26;en_US;it_IT;alcohol-based hand rub;igienizzante per le mani a base alcolica
+27;en_US;it_IT;alcohol-based hand sanitizer;disinfettante per le mani a base alcolica
+28;en_US;it_IT;alcohol-based hand sanitizer;igienizzante mani a base di alcol
+29;en_US;it_IT;alveolar disease;malattia alveolare
+30;en_US;it_IT;an epidemic;un'epidemia
+31;en_US;it_IT;annual flu;influenza stagionale
+32;en_US;it_IT;antibacterial hand sanitizer;igienizzante mani antibatterico
+33;en_US;it_IT;Anti-Corona virus spray;Spray anti-Coronavirus
+34;en_US;it_IT;anti-inflammatory drug;farmaco antinfiammatorio
+35;en_US;it_IT;antiviral drug;farmaco antivirale
+36;en_US;it_IT;antiviral treatment;trattamento antivirale
+37;en_US;it_IT;ARDS;Sindrome da distress respiratorio acuto
+38;en_US;it_IT;assay;saggio
+39;en_US;it_IT;asymptomatic;asintomatica
+40;en_US;it_IT;avian flu;influenza aviaria
+41;en_US;it_IT;avoid exposure;evitare l'esposizione
+42;en_US;it_IT;be infected;essere infetto
+43;en_US;it_IT;Beware of coronavirus;Fare attenzione al coronavirus
+44;en_US;it_IT;bilateral interstitial pneumonia;polmonite interstiziale bilaterale
+45;en_US;it_IT;Black Plague;peste nera
+46;en_US;it_IT;blood pressure;pressione sanguigna
+47;en_US;it_IT;body fluid;fluido corporeo
+48;en_US;it_IT;breathing;respirazione
+49;en_US;it_IT;bubonic plague;peste bubbonica
+50;en_US;it_IT;c19;C19
+51;en_US;it_IT;case fatality rate;tasso di letalità
+52;en_US;it_IT;causative agent;agente scatenante
+53;en_US;it_IT;CDC;CDC
+54;en_US;it_IT;CDC;Centro per la prevenzione e il controllo delle malattie
+55;en_US;it_IT;Center for Disease Control;Centro per il controllo delle malattie
+56;en_US;it_IT;chemical disinfection;disinfezione chimica
+57;en_US;it_IT;chest x-ray;radiografia del torace
+58;en_US;it_IT;chronic respiratory disease;malattia respiratoria cronica
+59;en_US;it_IT;clinical diagnosis;diagnosi clinica
+60;en_US;it_IT;clinical trial;test clinico
+61;en_US;it_IT;close contact;a stretto contatto
+62;en_US;it_IT;close contact;contatto ravvicinato
+63;en_US;it_IT;common cold;raffreddore
+64;en_US;it_IT;common flu;influenza comune
+65;en_US;it_IT;communicable disease;malattia trasmissibile
+66;en_US;it_IT;community spread;diffusione comunitaria
+67;en_US;it_IT;community spread;diffusione nella comunità
+68;en_US;it_IT;community transmission;trasmissione comunitaria
+69;en_US;it_IT;compromised immune system;sistema immunitario compromesso
+70;en_US;it_IT;compulsory quarantine;quarantena obbligatoria
+71;en_US;it_IT;confirmed cases;casi confermati
+72;en_US;it_IT;contagion;contagio
+73;en_US;it_IT;contagious;contagioso
+74;en_US;it_IT;contagiousness;contagiosità
+75;en_US;it_IT;corona;corona
+76;en_US;it_IT;corona virus;coronavirus
+77;en_US;it_IT;corona virus epidemic;epidemia di coronavirus
+78;en_US;it_IT;corona virus outbreak;epidemia di coronavirus
+79;en_US;it_IT;corona virus scare;paura del coronavirus
+80;en_US;it_IT;coronavirus;coronavirus
+81;en_US;it_IT;coronavirus (COVID-19);coronavirus (COVID-19)
+82;en_US;it_IT;coronavirus alert;allarme coronavirus
+83;en_US;it_IT;coronavirus cases;casi di coronavirus
+84;en_US;it_IT;coronavirus concerns;preoccupazioni relative al coronavirus
+85;en_US;it_IT;coronavirus crisis;crisi del coronavirus
+86;en_US;it_IT;coronavirus disease;malattia di coronavirus
+87;en_US;it_IT;Coronavirus disease (COVID-19) outbreak;Focolaio della malattia di Coronavirus (COVID-19)
+88;en_US;it_IT;coronavirus early symptoms;primi sintomi del coronavirus
+89;en_US;it_IT;coronavirus epidemic;epidemia di coronavirus
+90;en_US;it_IT;coronavirus exposure;esposizione al coronavirus
+91;en_US;it_IT;coronavirus incubation;incubazione del coronavirus
+92;en_US;it_IT;coronavirus incubation period;periodo di incubazione del coronavirus
+93;en_US;it_IT;coronavirus infection;infezione da coronavirus
+94;en_US;it_IT;coronavirus map;mappa del coronavirus
+95;en_US;it_IT;coronavirus medicine;medicinale per il coronavirus
+96;en_US;it_IT;coronavirus medicines;medicinali per il coronavirus
+97;en_US;it_IT;coronavirus news;notizie sul coronavirus
+98;en_US;it_IT;coronavirus outbreak;focolaio di coronavirus
+99;en_US;it_IT;coronavirus outbreak;epidemia di coronavirus
+100;en_US;it_IT;coronavirus pandemic;pandemia di coronavirus
+101;en_US;it_IT;coronavirus pneumonia;polmonite da coronavirus
+102;en_US;it_IT;coronavirus precautions;precauzioni per il coronavirus
+103;en_US;it_IT;coronavirus prevention;prevenzione del coronavirus
+104;en_US;it_IT;coronavirus protection;protezione dal coronavirus
+105;en_US;it_IT;coronavirus quarantine;quarantena per il coronavirus
+106;en_US;it_IT;coronavirus scare;paura del coronavirus
+107;en_US;it_IT;coronavirus SOS Alert;Avviso SOS coronavirus
+108;en_US;it_IT;coronavirus spread;diffusione del coronavirus
+109;en_US;it_IT;coronavirus symptoms;sintomi del coronavirus
+110;en_US;it_IT;coronavirus transmission;trasmissione del coronavirus
+111;en_US;it_IT;coronavirus travel ban;coronavirus divieto di viaggio
+112;en_US;it_IT;coronavirus travel restrictions;coronavirus restrizioni di viaggio
+113;en_US;it_IT;coronavirus treatment;terapia per il coronavirus
+114;en_US;it_IT;coronavirus update;aggiornamento sul coronavirus
+115;en_US;it_IT;coronavirus vaccine;vaccino contro il coronavirus
+116;en_US;it_IT;coronavirus vaccines;vaccini contro il coronavirus
+117;en_US;it_IT;cough;tosse
+118;en_US;it_IT;cough etiquette;comportamento in caso di tosse
+119;en_US;it_IT;coughing;tossendo
+120;en_US;it_IT;cov 19;cov 19
+121;en_US;it_IT;cov19;cov19
+122;en_US;it_IT;COVID;COVID
+123;en_US;it_IT;COVID 19;COVID 19
+124;en_US;it_IT;covid cases;casi di covid
+125;en_US;it_IT;covid early symptoms;primi sintomi del covid
+126;en_US;it_IT;covid incubation period;periodo di incubazione del covid
+127;en_US;it_IT;covid international spread;diffusione internazionale del covid
+128;en_US;it_IT;covid international travel;covid viaggi internazionali
+129;en_US;it_IT;covid isolation;isolamento per il covid
+130;en_US;it_IT;covid map;mappa del covid
+131;en_US;it_IT;covid medicine;medicinale per il covid
+132;en_US;it_IT;covid medicines;medicinali per il covid
+133;en_US;it_IT;covid news;notizie sul covid
+134;en_US;it_IT;covid outbreak;epidemia di covid
+135;en_US;it_IT;covid pandemic;pandemia di covid
+136;en_US;it_IT;covid panic;panico per il covid
+137;en_US;it_IT;covid SOS Alert;Avviso SOS covid
+138;en_US;it_IT;covid symptoms;sintomi del covid
+139;en_US;it_IT;covid transmission;trasmissione del covid
+140;en_US;it_IT;covid travel ban;covid divieto di viaggio
+141;en_US;it_IT;covid travel restrictions;covid restrizioni di viaggio
+142;en_US;it_IT;covid treatment;terapia per il covid
+143;en_US;it_IT;covid vaccine;vaccino contro il covid
+144;en_US;it_IT;covid vaccines;vaccini contro il covid
+145;en_US;it_IT;COVID-19;COVID-19
+146;en_US;it_IT;COVID-19;COVID-19
+147;en_US;it_IT;COVID-19;COVID-19
+148;en_US;it_IT;COVID-19;COVID-19
+149;en_US;it_IT;COVID-19;COVID-19
+150;en_US;it_IT;COVID-19 alert;allarme COVID-19
+151;en_US;it_IT;COVID-19 alert;allarme COVID-19
+152;en_US;it_IT;COVID-19 cases;casi di COVID-19
+153;en_US;it_IT;COVID-19 cases;casi di COVID-19
+154;en_US;it_IT;COVID-19 CDC;centro per la prevenzione e il controllo del COVID-19
+155;en_US;it_IT;COVID-19 CDC;centro per la prevenzione e il controllo del COVID-19
+156;en_US;it_IT;COVID-19 contagious;COVID-19 contagioso
+157;en_US;it_IT;COVID-19 crisis;Crisi COVID-19
+158;en_US;it_IT;COVID-19 cure;cura per il COVID-19
+159;en_US;it_IT;COVID-19 dangerous;COVID-19 pericoloso
+160;en_US;it_IT;COVID-19 deadly;COVID-19 mortale
+161;en_US;it_IT;COVID-19 death;decesso per COVID-19
+162;en_US;it_IT;COVID-19 deaths;decessi per COVID-19
+163;en_US;it_IT;COVID-19 deaths;decessi per COVID-19
+164;en_US;it_IT;COVID-19 domestic travel;COVID-19 viaggi nazionali
+165;en_US;it_IT;COVID-19 domestic travel;COVID-19 viaggi nazionali
+166;en_US;it_IT;COVID-19 early symptoms;primi sintomi del COVID-19
+167;en_US;it_IT;COVID-19 effects;effetti del COVID-19
+168;en_US;it_IT;COVID-19 effects;effetti del COVID-19
+169;en_US;it_IT;COVID-19 epidemic;epidemia di COVID-19
+170;en_US;it_IT;COVID-19 epidemic;Epidemia di COVID-19
+171;en_US;it_IT;COVID-19 epidemic;epidemia di COVID-19
+172;en_US;it_IT;COVID-19 exposure;esposizione al COVID-19
+173;en_US;it_IT;COVID-19 exposure;esposizione al COVID-19
+174;en_US;it_IT;COVID-19 fatal;COVID-19 fatale
+175;en_US;it_IT;COVID-19 fatal;COVID-19 fatale
+176;en_US;it_IT;COVID-19 fever;febbre da COVID-19
+177;en_US;it_IT;COVID-19 fever;febbre da COVID-19
+178;en_US;it_IT;COVID-19 illness;malattia di COVID-19
+179;en_US;it_IT;COVID-19 illness;malattia di COVID-19
+180;en_US;it_IT;COVID-19 incubation;incubazione del COVID-19
+181;en_US;it_IT;COVID-19 incubation;incubazione del COVID-19
+182;en_US;it_IT;COVID-19 incubation period;periodo di incubazione del COVID-19
+183;en_US;it_IT;COVID-19 incubation period;periodo di incubazione del COVID-19
+184;en_US;it_IT;COVID-19 infection;infezione da COVID-19
+185;en_US;it_IT;COVID-19 infection;infezione da COVID-19
+186;en_US;it_IT;COVID-19 international spread;diffusione internazionale del COVID-19
+187;en_US;it_IT;COVID-19 international spread;diffusione internazionale del COVID-19
+188;en_US;it_IT;COVID-19 international travel;COVID-19 viaggi internazionali
+189;en_US;it_IT;COVID-19 international travel;COVID-19 viaggi internazionali
+190;en_US;it_IT;COVID-19 isolation;isolamento per il COVID-19
+191;en_US;it_IT;COVID-19 isolation;isolamento per il COVID-19
+192;en_US;it_IT;COVID-19 lockdown;confinamento per il COVID-19
+193;en_US;it_IT;COVID-19 lockdown;confinamento per il COVID-19
+194;en_US;it_IT;COVID-19 map;mappa del COVID-19
+195;en_US;it_IT;COVID-19 map;mappa del COVID-19
+196;en_US;it_IT;COVID-19 medicine;medicinale per il COVID-19
+197;en_US;it_IT;COVID-19 medicine;medicinale per il COVID-19
+198;en_US;it_IT;COVID-19 medicines;medicinali per il COVID-19
+199;en_US;it_IT;COVID-19 medicines;medicinali per il COVID-19
+200;en_US;it_IT;COVID-19 news;notizie sul COVID-19
+201;en_US;it_IT;COVID-19 news;notizie sul COVID-19
+202;en_US;it_IT;COVID-19 outbreak;epidemia di COVID-19
+203;en_US;it_IT;COVID-19 outbreak;Focolaio di COVID-19
+204;en_US;it_IT;COVID-19 outbreak;epidemia di COVID-19
+205;en_US;it_IT;COVID-19 pandemic;pandemia di COVID-19
+206;en_US;it_IT;COVID-19 pandemic;Pandemia di COVID-19
+207;en_US;it_IT;COVID-19 pandemic;pandemia di COVID-19
+208;en_US;it_IT;COVID-19 panic;panico per il COVID-19
+209;en_US;it_IT;COVID-19 precautions;precauzioni per il COVID-19
+210;en_US;it_IT;COVID-19 precautions;precauzioni per il COVID-19
+211;en_US;it_IT;COVID-19 protection;protezione dal COVID-19
+212;en_US;it_IT;COVID-19 protection;protezione dal COVID-19
+213;en_US;it_IT;COVID-19 quarantine;quarantena per il COVID-19
+214;en_US;it_IT;COVID-19 quarantine;quarantena per il COVID-19
+215;en_US;it_IT;COVID-19 SOS Alert;Avviso SOS COVID-19
+216;en_US;it_IT;COVID-19 SOS Alert;Avviso SOS COVID-19
+217;en_US;it_IT;COVID-19 spread;diffusione del COVID-19
+218;en_US;it_IT;COVID-19 spread;diffusione del COVID-19
+219;en_US;it_IT;COVID-19 symptoms;sintomi del COVID-19
+220;en_US;it_IT;COVID-19 symptoms;sintomi del COVID-19
+221;en_US;it_IT;COVID-19 testing center;centro prelievi COVID-19
+222;en_US;it_IT;COVID-19 transmission;trasmissione del COVID-19
+223;en_US;it_IT;COVID-19 transmission;trasmissione del COVID-19
+224;en_US;it_IT;COVID-19 travel ban;COVID-19 divieto di viaggio
+225;en_US;it_IT;COVID-19 travel restrictions;COVID-19 restrizioni di viaggio
+226;en_US;it_IT;COVID-19 treatment;terapia per il COVID-19
+227;en_US;it_IT;COVID-19 treatment;terapia per il COVID-19
+228;en_US;it_IT;COVID-19 uncontrolled spread;diffusione incontrollata del COVID-19
+229;en_US;it_IT;COVID-19 vaccine;vaccino contro il COVID-19
+230;en_US;it_IT;COVID-19 vaccines;vaccini contro il COVID-19
+231;en_US;it_IT;COVID-19 virus;virus COVID-19
+232;en_US;it_IT;COVID-19 virus outbreak;epidemia del virus COVID-19
+233;en_US;it_IT;COVID-19 virus transmission;trasmissione del virus COVID-19
+234;en_US;it_IT;COVID-19 WHO;COVID-19 OMS
+235;en_US;it_IT;current crisis;crisi attuale
+236;en_US;it_IT;current health crisis;attuale crisi sanitaria
+237;en_US;it_IT;current outbreak;focolaio attuale
+238;en_US;it_IT;current outbreak;epidemia attuale
+239;en_US;it_IT;current pandemic;pandemia attuale
+240;en_US;it_IT;CV;CV
+241;en_US;it_IT;cv19;CV19
+242;en_US;it_IT;CV-19;CV-19
+243;en_US;it_IT;cvirus;cvirus
+244;en_US;it_IT;deadly;mortale
+245;en_US;it_IT;deadly outbreak;epidemia mortale
+246;en_US;it_IT;deadly virus;virus mortale
+247;en_US;it_IT;death rate;tasso di mortalità
+248;en_US;it_IT;death toll;bilancio delle vittime
+249;en_US;it_IT;deaths;decessi
+250;en_US;it_IT;decontaminate;decontaminare
+251;en_US;it_IT;detectable;rilevabile
+252;en_US;it_IT;detergent;detergente
+253;en_US;it_IT;diabetes;diabete
+254;en_US;it_IT;diagnosable disease;malattia diagnosticabile
+255;en_US;it_IT;diagnostic protocol;protocollo diagnostico
+256;en_US;it_IT;diagnostic testing;test diagnostico
+257;en_US;it_IT;difficulty breathing;respirazione difficoltosa
+258;en_US;it_IT;disease itself;la malattia stessa
+259;en_US;it_IT;disease outbreak;epidemia di malattia
+260;en_US;it_IT;disease outbreak;focolaio della malattia
+261;en_US;it_IT;disinfectant;disinfettante
+262;en_US;it_IT;disposable;monouso
+263;en_US;it_IT;Disposable hand sanitizer;Igienizzante mani monouso
+264;en_US;it_IT;Do the Five;Segui le 5 regole
+265;en_US;it_IT;domestic travel;viaggi nazionali
+266;en_US;it_IT;droplet transmission;trasmissione tramite goccioline
+267;en_US;it_IT;droplets;goccioline
+268;en_US;it_IT;dry cough;tosse secca
+269;en_US;it_IT;dry surface contamination;contaminazione della superficie asciutta
+270;en_US;it_IT;ebola;ebola
+271;en_US;it_IT;effective treatment;trattamento efficace
+272;en_US;it_IT;Effects of coronavirus;Effetti del coronavirus
+273;en_US;it_IT;electron microscope;microscopio elettronico
+274;en_US;it_IT;emergency department;dipartimento per le emergenze
+275;en_US;it_IT;epidemic;epidemico
+276;en_US;it_IT;epidemic;epidemia
+277;en_US;it_IT;epidemic and pandemic;epidemico e pandemico
+278;en_US;it_IT;epidemic curve;curva epidemica
+279;en_US;it_IT;epidemic disease;malattia epidemica
+280;en_US;it_IT;epidemic outbreak;focolaio epidemico
+281;en_US;it_IT;epidemic peak;picco dell'epidemia
+282;en_US;it_IT;epidemic period;periodo dell'epidemia
+283;en_US;it_IT;epidemic prevention;prevenzione dell'epidemia
+284;en_US;it_IT;epidemic season;stagione dell'epidemia
+285;en_US;it_IT;epidemic situation;situazione dell'epidemia
+286;en_US;it_IT;epidemiologist;epidemiologo
+287;en_US;it_IT;exposure;esposizione
+288;en_US;it_IT;exposure time;tempo di esposizione
+289;en_US;it_IT;extreme caution;estrema cautela
+290;en_US;it_IT;eye protection;protezione per gli occhi
+291;en_US;it_IT;face mask;maschera per il viso
+292;en_US;it_IT;face masks;maschere per il viso
+293;en_US;it_IT;family cluster;gruppo familiare
+294;en_US;it_IT;fatality rate;tasso di mortalità
+295;en_US;it_IT;fecal contamination;contaminazione fecale
+296;en_US;it_IT;fever;febbre
+297;en_US;it_IT;fight the virus;combattere il virus
+298;en_US;it_IT;Fighting the outbreak;Lotta contro l'epidemia
+299;en_US;it_IT;flatten the infection curve;appiattire la curva dell'infezione
+300;en_US;it_IT;flu;influenza
+301;en_US;it_IT;flu epidemic;epidemia di influenza
+302;en_US;it_IT;fomites;fomiti
+303;en_US;it_IT;food safety;sicurezza alimentare
+304;en_US;it_IT;formaldehyde;formaldeide
+305;en_US;it_IT;gastroenteritis;gastroenterite
+306;en_US;it_IT;germicide;germicida
+307;en_US;it_IT;global health emergency;emergenza sanitaria globale
+308;en_US;it_IT;global outbreak;focolaio globale
+309;en_US;it_IT;global pandemic;pandemia globale
+310;en_US;it_IT;global warming;riscaldamento globale
+311;en_US;it_IT;good respiratory hygiene;buona igiene respiratoria
+312;en_US;it_IT;Guangdong;Guangdong
+313;en_US;it_IT;H1N1;H1N1
+314;en_US;it_IT;H1N1 virus;Virus H1N1
+315;en_US;it_IT;hand disinfectant;disinfettante per le mani
+316;en_US;it_IT;hand sanitizer;disinfettante per le mani
+317;en_US;it_IT;hand sanitizer;igienizzante mani
+318;en_US;it_IT;hand sanitizer dispenser;distributore di igienizzante mani
+319;en_US;it_IT;hand sanitizer gel;gel igienizzante mani
+320;en_US;it_IT;hand sanitizer spray;spray igienizzante mani
+321;en_US;it_IT;hand-washing;lavaggio delle mani
+322;en_US;it_IT;health care provider;assistente sanitario
+323;en_US;it_IT;health crisis;crisi sanitaria
+324;en_US;it_IT;health plan carrier;assicurazione sanitaria
+325;en_US;it_IT;health services;servizi sanitari
+326;en_US;it_IT;healthcare professional;operatore sanitario
+327;en_US;it_IT;healthcare provider;fornitore di servizi sanitari
+328;en_US;it_IT;heart failure;arresto cardiaco
+329;en_US;it_IT;Hepatitis B virus;Virus dell'epatite B
+330;en_US;it_IT;herpes simplex virus;virus dell'herpes simplex
+331;en_US;it_IT;high fever;febbre alta
+332;en_US;it_IT;HIV;HIV
+333;en_US;it_IT;home isolation;isolamento a casa
+334;en_US;it_IT;home quarantine;quarantena a casa
+335;en_US;it_IT;hospitalize;ospedalizzare
+336;en_US;it_IT;household bleach;candeggina per uso domestico
+337;en_US;it_IT;Hubei;Hubei
+338;en_US;it_IT;hydrogen peroxide;perossido di idrogeno
+339;en_US;it_IT;hygiene;igiene
+340;en_US;it_IT;illness;malattia
+341;en_US;it_IT;immune system;sistema immunitario
+342;en_US;it_IT;immunity;immunità
+343;en_US;it_IT;immunocompromised;immunodeficiente
+344;en_US;it_IT;immunologist;immunologo
+345;en_US;it_IT;incubation;incubazione
+346;en_US;it_IT;incubation period;periodo di incubazione
+347;en_US;it_IT;indirect contact;contatto indiretto
+348;en_US;it_IT;infect;infettare
+349;en_US;it_IT;infected;infetto
+350;en_US;it_IT;infection;infezione
+351;en_US;it_IT;infectious;infettivo
+352;en_US;it_IT;infectivity;infettività
+353;en_US;it_IT;influenza;influenza
+354;en_US;it_IT;initial transmission event;evento di trasmissione iniziale
+355;en_US;it_IT;instant hand sanitizer;igienizzante mani istantaneo
+356;en_US;it_IT;intensive care equipment;attrezzatura per terapia intensiva
+357;en_US;it_IT;intermediate host;ospite intermedio
+358;en_US;it_IT;international spread;diffusione internazionale
+359;en_US;it_IT;international travel;viaggi internazionali
+360;en_US;it_IT;intrauterine;intrauterina
+361;en_US;it_IT;intubation;intubazione
+362;en_US;it_IT;isolation;isolamento
+363;en_US;it_IT;isolation period;periodo di isolamento
+364;en_US;it_IT;isolation room;stanza per l'isolamento
+365;en_US;it_IT;isolation valve;valvola di isolamento
+366;en_US;it_IT;isolation ward;reparto di isolamento
+367;en_US;it_IT;Isopropanol;isopropanolo
+368;en_US;it_IT;laboratory test kit;kit per test di laboratorio
+369;en_US;it_IT;laboratory testing;test di laboratorio
+370;en_US;it_IT;lack of testing;mancanza di test
+371;en_US;it_IT;lack of tests;mancanza di test
+372;en_US;it_IT;latest updates;ultimi aggiornamenti
+373;en_US;it_IT;liver failure;insufficienza epatica
+374;en_US;it_IT;local public health authority;autorità sanitaria pubblica locale
+375;en_US;it_IT;lockdown;confinamento
+376;en_US;it_IT;long exposure;esposizione prolungata
+377;en_US;it_IT;lungs;polmoni
+378;en_US;it_IT;major outbreak;focolaio principale
+379;en_US;it_IT;mandatory quarantine;quarantena obbligatoria
+380;en_US;it_IT;masks;maschere
+381;en_US;it_IT;mass gathering;assembramento
+382;en_US;it_IT;measles;morbillo
+383;en_US;it_IT;mechanical ventilation;ventilazione artificiale
+384;en_US;it_IT;media coverage;copertura mediatica
+385;en_US;it_IT;medical care;cure mediche
+386;en_US;it_IT;medicine;medicinale
+387;en_US;it_IT;medicines;medicinali
+388;en_US;it_IT;MERS;MERS
+389;en_US;it_IT;MERS CoV;MERS CoV
+390;en_US;it_IT;microbiologist;microbiologo
+391;en_US;it_IT;mild cough;tosse lieve
+392;en_US;it_IT;mortality rate;tasso di mortalità
+393;en_US;it_IT;multi-organ failure;insufficienza multiorgano
+394;en_US;it_IT;mumps virus;virus della parotite
+395;en_US;it_IT;n95;n95
+396;en_US;it_IT;n95 mask;mascherina n95
+397;en_US;it_IT;n95 respirator;respiratore n95
+398;en_US;it_IT;nasal congestion;congestione nasale
+399;en_US;it_IT;ncov;ncov
+400;en_US;it_IT;ncov-2019;ncov-2019
+401;en_US;it_IT;neutral detergent;detergente neutro
+402;en_US;it_IT;new coronavirus;nuovo coronavirus
+403;en_US;it_IT;new coronavirus pneumonia;polmonite da nuovo coronavirus
+404;en_US;it_IT;new normal;new normal
+405;en_US;it_IT;NIH;NIH
+406;en_US;it_IT;novel corona virus;nuovo coronavirus
+407;en_US;it_IT;novel coronavirus;nuovo coronavirus
+408;en_US;it_IT;novel coronavirus infection;infezione da nuovo coronavirus
+409;en_US;it_IT;novel coronavirus outbreak;nuovo focolaio di coronavirus
+410;en_US;it_IT;novel coronavirus outbreak;epidemia del nuovo coronavirus
+411;en_US;it_IT;novel coronavirus pneumonia;polmonite da nuovo coronavirus
+412;en_US;it_IT;novel virus;nuovo virus
+413;en_US;it_IT;ongoing outbreak;epidemia in corso
+414;en_US;it_IT;online medical consultation;consulenza medica online
+415;en_US;it_IT;onset;inizio
+416;en_US;it_IT;outbreak;focolaio
+417;en_US;it_IT;outbreak;epidemia
+418;en_US;it_IT;outbreak of coronavirus;epidemia di coronavirus
+419;en_US;it_IT;outbreak of disease;focolaio della malattia
+420;en_US;it_IT;outbreak readiness;responsività alle epidemie
+421;en_US;it_IT;overall case fatality;fatalità complessiva del caso
+422;en_US;it_IT;pandemic;pandemico
+423;en_US;it_IT;pandemic;pandemia
+424;en_US;it_IT;pandemic influenza;influenza pandemica
+425;en_US;it_IT;pandemic outbreak;epidemia pandemica
+426;en_US;it_IT;pandemic plan;piano per la pandemia
+427;en_US;it_IT;pandemic potential;potenziale pandemico
+428;en_US;it_IT;pangolin;pangolino
+429;en_US;it_IT;pathogen;patogeno
+430;en_US;it_IT;pathology;patologia
+431;en_US;it_IT;patient care equipment;attrezzature per la cura del paziente
+432;en_US;it_IT;personal protective equipment;equipaggiamento per la protezione personale
+433;en_US;it_IT;person-to-person transmission;trasmissione da persona a persona
+434;en_US;it_IT;phlegm;catarro
+435;en_US;it_IT;physical contact;contatto fisico
+436;en_US;it_IT;plague;peste
+437;en_US;it_IT;pneumonia;polmonite
+438;en_US;it_IT;pneumonia;polmonite
+439;en_US;it_IT;pneumonia epidemic;epidemia di polmonite
+440;en_US;it_IT;pneumonias;polmoniti
+441;en_US;it_IT;positive test;test positivo
+442;en_US;it_IT;potential exposure;esposizione potenziale
+443;en_US;it_IT;precaution;precauzione
+444;en_US;it_IT;precautionary;precauzionale
+445;en_US;it_IT;precautions;precauzioni
+446;en_US;it_IT;pre-existing condition;condizioni pre-esistenti
+447;en_US;it_IT;preparedness;preparazione
+448;en_US;it_IT;prevent virus;prevenire il virus
+449;en_US;it_IT;prognosis;prognosi
+450;en_US;it_IT;prolonged exposure;esposizione prolungata
+451;en_US;it_IT;protect myself;proteggermi
+452;en_US;it_IT;protect others;proteggere gli altri
+453;en_US;it_IT;protect yourself;proteggiti
+454;en_US;it_IT;protective measures;misure protettive
+455;en_US;it_IT;public exposure;esposizione pubblica
+456;en_US;it_IT;public health crisis;crisi di salute pubblica
+457;en_US;it_IT;pulmonary tissue damage;danno al tessuto polmonare
+458;en_US;it_IT;purell hand sanitizer;igienizzante mani Purell
+459;en_US;it_IT;quarantine;mettere in quarantena
+460;en_US;it_IT;quarantine;quarantena
+461;en_US;it_IT;quarantine area;area in quarantena
+462;en_US;it_IT;quarantine facility;struttura per la quarantena
+463;en_US;it_IT;quarantine measures;misure di quarantena
+464;en_US;it_IT;quarantine period;periodo di quarantena
+465;en_US;it_IT;quarantine room;stanza per la quarantena
+466;en_US;it_IT;quarantine zone;zona in quarantena
+467;en_US;it_IT;rapid risk assessment;rapida valutazione del rischio
+468;en_US;it_IT;reagent;reagente
+469;en_US;it_IT;Recovered coronavirus patient;Paziente con il coronavirus ricoverato
+470;en_US;it_IT;regular flu;influenza regolare
+471;en_US;it_IT;reinfection;reinfezione
+472;en_US;it_IT;renal disease;malattia renale
+473;en_US;it_IT;renal failure;insufficienza renale
+474;en_US;it_IT;repatriate;rimpatriare
+475;en_US;it_IT;repeated exposure;esposizione ripetuta
+476;en_US;it_IT;respirator;respiratore
+477;en_US;it_IT;respiratory;respiratorio
+478;en_US;it_IT;respiratory disease;malattia respiratoria
+479;en_US;it_IT;respiratory distress;problema respiratorio
+480;en_US;it_IT;respiratory droplets;goccioline respiratorie
+481;en_US;it_IT;respiratory hygiene;igiene respiratoria
+482;en_US;it_IT;respiratory illness;malattia respiratoria
+483;en_US;it_IT;respiratory syncytial virus;virus respiratorio sinciziale
+484;en_US;it_IT;respiratory syndrome;sindrome respiratoria
+485;en_US;it_IT;respiratory tract disease;malattia del tratto respiratorio
+486;en_US;it_IT;respiratory virus;virus respiratorio
+487;en_US;it_IT;restrictions;restrizioni
+488;en_US;it_IT;resurge;rinascita
+489;en_US;it_IT;risk exposure;esposizione al rischio
+490;en_US;it_IT;RNA;RNA
+491;en_US;it_IT;rubeola;rubeola
+492;en_US;it_IT;runny nose;naso che cola
+493;en_US;it_IT;Sanitizing hand sanitizer;Igienizzante mani disinfettante
+494;en_US;it_IT;SARS;SARS
+495;en_US;it_IT;SARS-CoV;SARS-CoV
+496;en_US;it_IT;SARS-CoV-2;SARS-CoV-2
+497;en_US;it_IT;sars-related coronavirus;coronavirus correlato a SARS
+498;en_US;it_IT;seasonal flu;influenza stagionale
+499;en_US;it_IT;seasonal influenza;influenza stagionale
+500;en_US;it_IT;secretion;secrezione
+501;en_US;it_IT;self isolation;auto-isolamento
+502;en_US;it_IT;self quarantine;auto-quarantena
+503;en_US;it_IT;sepsis;sepsi
+504;en_US;it_IT;septic shock;shock settico
+505;en_US;it_IT;Severe Acute Respiratory Syndrome;grave sindrome respiratoria acuta
+506;en_US;it_IT;Severe outbreak;Grave epidemia
+507;en_US;it_IT;shortness of breath;mancanza di respiro
+508;en_US;it_IT;sickened;malato
+509;en_US;it_IT;sickness;malattia
+510;en_US;it_IT;sneeze;starnuto
+511;en_US;it_IT;sneezes;starnuti
+512;en_US;it_IT;sneezing;starnutendo
+513;en_US;it_IT;social distancing;distanza sociale
+514;en_US;it_IT;social distancing;riduzione dei contatti
+515;en_US;it_IT;social distancing measures;misure per evitare i contatti
+516;en_US;it_IT;social isolation;isolamento sociale
+517;en_US;it_IT;sore throat;gola infiammata
+518;en_US;it_IT;SOS Alert;allarme SOS
+519;en_US;it_IT;spanish flu;influenza spagnola
+520;en_US;it_IT;specimen collection;raccolta dei campioni
+521;en_US;it_IT;spread;diffondere
+522;en_US;it_IT;spread;diffusione
+523;en_US;it_IT;spread of coronavirus;diffusione del coronavirus
+524;en_US;it_IT;spread of virus;diffusione del virus
+525;en_US;it_IT;sputum;sputo
+526;en_US;it_IT;stigmatisation;stigmatizzazione
+527;en_US;it_IT;stomach virus;virus allo stomaco
+528;en_US;it_IT;strain of virus;specie del virus
+529;en_US;it_IT;sun exposure;esposizione al sole
+530;en_US;it_IT;supportive;di supporto
+531;en_US;it_IT;surface;superficie
+532;en_US;it_IT;surfaces;superfici
+533;en_US;it_IT;suspected infection;sospetta infezione
+534;en_US;it_IT;swab;tampone
+535;en_US;it_IT;swine flu;influenza suina
+536;en_US;it_IT;symptom;sintomo
+537;en_US;it_IT;symptomatic;sintomatico
+538;en_US;it_IT;symptoms;sintomi
+539;en_US;it_IT;targeted disinfection;disinfezione mirata
+540;en_US;it_IT;test kit;kit per test
+541;en_US;it_IT;testing center;centro prelievi
+542;en_US;it_IT;testing error;errore di test
+543;en_US;it_IT;the incubation period;il periodo di incubazione
+544;en_US;it_IT;the novel coronavirus;il nuovo coronavirus
+545;en_US;it_IT;tissue damage;danno ai tessuti
+546;en_US;it_IT;toilet paper shortage;carenza di carta igienica
+547;en_US;it_IT;touch;toccare
+548;en_US;it_IT;touching;toccante
+549;en_US;it_IT;touching face;toccarsi la faccia
+550;en_US;it_IT;tp shortage;carenza di ci
+551;en_US;it_IT;transmissibility;trasmissibilità
+552;en_US;it_IT;transmissible;trasmissibile
+553;en_US;it_IT;transmission;trasmissione
+554;en_US;it_IT;transmission potential;potenziale di trasmissione
+555;en_US;it_IT;travel advisory;consigli di viaggio
+556;en_US;it_IT;travel ban;divieto di viaggio
+557;en_US;it_IT;travel restrictions;restrizioni di viaggio
+558;en_US;it_IT;typical flu;influenza tipica
+559;en_US;it_IT;underlying disease;malattia di base
+560;en_US;it_IT;updates;aggiornamenti
+561;en_US;it_IT;use hand sanitizer;usare l'igienizzante mani
+562;en_US;it_IT;vaccine;vaccino
+563;en_US;it_IT;vaccines;vaccini
+564;en_US;it_IT;ventilation;ventilazione
+565;en_US;it_IT;ventilator;ventilatore
+566;en_US;it_IT;ventilators;ventilatori
+567;en_US;it_IT;viral infection;infezione virale
+568;en_US;it_IT;viral outbreak;focolaio virale
+569;en_US;it_IT;viral outbreak;epidemia virale
+570;en_US;it_IT;viral pandemic;pandemia virale
+571;en_US;it_IT;viral pneumonia;polmonite virale
+572;en_US;it_IT;viral transmission;trasmissione virale
+573;en_US;it_IT;virtual care;assistenza virtuale
+574;en_US;it_IT;virtual lockdown;confinamento virtuale
+575;en_US;it_IT;virulence;virulenza
+576;en_US;it_IT;virus;virus
+577;en_US;it_IT;virus carrier;vettore del virus
+578;en_US;it_IT;virus infection;infezione da virus
+579;en_US;it_IT;virus itself;il virus stesso
+580;en_US;it_IT;virus mask;mascherina per il virus
+581;en_US;it_IT;virus outbreak;epidemia del virus
+582;en_US;it_IT;virus outbreak;focolaio del virus
+583;en_US;it_IT;virus prevention;prevenzione del virus
+584;en_US;it_IT;virus protection;protezione dal virus
+585;en_US;it_IT;virus scare;paura del virus
+586;en_US;it_IT;virus spread;diffusione del virus
+587;en_US;it_IT;virus spreads;virus si diffonde
+588;en_US;it_IT;virus strain;ceppo virale
+589;en_US;it_IT;virus strain;specie di virus
+590;en_US;it_IT;virus transmission;trasmissione del virus
+591;en_US;it_IT;vivid-19;vivid-19
+592;en_US;it_IT;wash your hands;lavati le mani
+593;en_US;it_IT;washing hands;lavarsi le mani
+594;en_US;it_IT;washing ones hands;lavarsi le mani
+595;en_US;it_IT;WFH;LDC
+596;en_US;it_IT;white blood cell count;conta dei globuli bianchi
+597;en_US;it_IT;WHO;OMS
+598;en_US;it_IT;WHO Confirmed;confermato dall'OMS
+599;en_US;it_IT;WHO Deaths;decessi secondo l'OMS
+600;en_US;it_IT;widespread outbreak;epidemia diffusa
+601;en_US;it_IT;widespread transmission;trasmissione diffusa
+602;en_US;it_IT;working from home;lavorare da casa
+603;en_US;it_IT;World Health Organization;Organizzazione Mondiale della Sanità
+604;en_US;it_IT;World Health Organization;Organizzazione mondiale della sanità
+605;en_US;it_IT;Wuhan;Wuhan
+606;en_US;it_IT;zoonotic disease;malattia zoonotica
+607;en_US;it_IT;zoonotic virus;virus zoonotico
